@@ -1,0 +1,674 @@
+[
+  {
+    "id": "20THCENTURYP-V1",
+    "title": "20th Century Boys: The Perfect Edition, Vol. 1",
+    "credits": [
+      "Naoki Urasawa (Creator)"
+    ],
+    "series": "20th Century Boys: The Perfect Edition",
+    "volume": 1,
+    "genre": [
+      "Mystery",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "description": [
+      "A deluxe bind-up edition of Naoki Urasawa’s award-winning epic of doomsday cults, giant robots and a group of friends trying to save the world from destruction!",
+      "Humanity, having faced extinction at the end of the 20th century, would not have entered the new millennium if it weren’t for them. In 1969, during their youth, they created a symbol. In 1997, as the coming disaster slowly starts to unfold, that symbol returns. This is the story of a group of boys who try to save the world."
+    ],
+    "price": 22.99,
+    "coverImage": "../public/covers/20thcenturyboysperfect-v1.jpg"
+  },
+  {
+    "id": "AOT-V1",
+    "title": "Attack on Titan, Vol. 1",
+    "credits": [
+      "Hajime Isayama (Author)"
+    ],
+    "series": "Attack on Titan",
+    "volume": 1,
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Post-Apocalyptic"
+    ],
+    "description": [
+      "In this post-apocalytpic sci-fi story, humanity has been devastated by the bizarre, giant humanoids known as the Titans. Little is known about where they came from or why they are bent on consuming mankind. Seemingly unintelligent, they have roamed the world for years, killing everyone they see. For the past century, what's left of man has hidden in a giant, three-walled city. People believe their 50-meter-high walls will protect them from the Titans, but the sudden appearance of an immense Titan is about to change everything.",
+      "Winner of the 2011 Kodansha Manga Award (Shonen) and nominated for the prestigious Osamu Tezuka Cultural Prize for 2012.",
+      "The megahit Attack on Titan anime finally returns, streaming on April 1!"
+    ],
+    "price": 10.99,
+    "coverImage": "../public/covers/attackontitan-v1.jpg"
+  },
+  {
+    "id": "BEASTARS-V1",
+    "title": "BEASTARS, Vol. 1",
+    "credits": [
+      "Paru Itagaki (Author)"
+    ],
+    "series": "BEASTARS",
+    "volume": 1,
+    "genre": [
+      "Coming of Age",
+      "Drama",
+      "Fantasy"
+    ],
+    "description": [
+      "At this high school, instead of jocks and nerds, the students are divided into predators and prey.",
+      "At a high school where the students are literally divided into predators and prey, friendships maintain the fragile peace. Who among them will become a Beastar—a hero destined to lead in a society naturally rife with mistrust?",
+      "One night at Cherryton Academy, an herbivore student is brutally murdered. Among the members of the Drama Club, the herbivores’ suspicions naturally turn to their carnivore classmates… The prime suspect? Gray wolf Legoshi. But he wouldn’t hurt a fly. Or would he? Will dwarf rabbit Haru bring out the beast in him? Or are his feelings for her…something else?"
+    ],
+    "price": 12.99,
+    "coverImage": "../public/covers/beastars-v1.jpg"
+  },
+  {
+    "id": "BERSERK-V1",
+    "title": "Berserk, Vol. 1",
+    "credits": [
+      "Kentaro Miura (Author, Illustrator)"
+    ],
+    "series": "Berserk",
+    "volume": 1,
+    "genre": [
+      "Action",
+      "Horror",
+      "Fantasy"
+    ],
+    "description": [
+      "Created by Kentaro Miura, Berserk is manga mayhem to the extreme - violent, horrifying, and mercilessly funny - and the wellspring for the internationally popular anime series. Not for the squeamish or the easily offended, Berserk asks for no quarter - and offers none! His name is Guts, the Black Swordsman, a feared warrior spoken of only in whispers. Bearer of a gigantic sword, an iron hand, and the scars of countless battles and tortures, his flesh is also indelibly marked with The Brand, an unholy symbol that draws the forces of darkness to him and dooms him as their sacrifice. But Guts won't take his fate lying down; he'll cut a crimson swath of carnage through the ranks of the damned - and anyone else foolish enough to oppose him! Accompanied by Puck the Elf, more an annoyance than a companion, Guts relentlessly follows a dark, bloodstained path that leads only to death...or vengeance."
+    ],
+    "price": 14.99,
+    "coverImage": "../public/covers/berserk-v1.jpg"
+  },
+  {
+    "id": "BLEACH-V1",
+    "title": "Bleach, Vol. 1",
+    "credits": [
+      "Tite Kubo (Author)"
+    ],
+    "series": "Bleach",
+    "volume": 1,
+    "genre": [
+      "Adventure",
+      "Supernatural",
+      "Martial Arts"
+    ],
+    "description": [
+      "Part-time student, full-time Soul Reaper, Ichigo is one of the chosen few guardians of the afterlife.",
+      "Ichigo Kurosaki never asked for the ability to see ghosts—he was born with the gift. When his family is attacked by a Hollow—a malevolent lost soul—Ichigo becomes a Soul Reaper, dedicating his life to protecting the innocent and helping the tortured spirits themselves find peace. Find out why Tite Kubo’s Bleach has become an international manga smash-hit!",
+      "Ichigo Kurosaki has always been able to see ghosts, but this ability doesn't change his life nearly as much as his close encounter with Rukia Kuchiki, a Soul Reaper and member of the mysterious Soul Society. While fighting a Hollow, an evil spirit that preys on humans who display psychic energy, Rukia attempts to lend Ichigo some of her powers so that he can save his family; but much to her surprise, Ichigo absorbs every last drop of her energy. Now a full-fledged Soul Reaper himself, Ichigo quickly learns that the world he inhabits is one full of dangerous spirits and, along with Rukia--who is slowly regaining her powers--it's Ichigo's job to protect the innocent from Hollows and help the spirits themselves find peace."
+    ],
+    "price": 11.99,
+    "coverImage": "../public/covers/bleach-v1.jpg"
+  },
+  {
+    "id": "BLUEPERIOD-V1",
+    "title": "Blue Period, Vol. 1",
+    "credits": [
+      "Tsubasa Yamaguchi (Author)"
+    ],
+    "series": "Blue Period",
+    "volume": 1,
+    "genre": [
+      "Coming of Age",
+      "Drama"
+    ],
+    "description": [
+      "A manga about the struggles and rewards of a life dedicated to art. Popular guy Yatora realizes he's just going through the motions to make other people happy and finds himself in a new passion: painting. But untethering yourself from all your past expectations is dangerous as well as thrilling...",
+      "Yatora is the perfect high school student, with good grades and lots of friends. It's an effortless performance, and, ultimately... a dull one. But he wanders into the art room one day, and a lone painting captures his eye, awakening him to a kind of beauty he never knew. Compelled and consumed, he dives in headfirst--and he's about to learn how savage and unforgiving art can be..."
+    ],
+    "price": 12.99,
+    "coverImage": "../public/covers/blueperiod-v1.jpg"
+  },
+  {
+    "id": "CSM-V1",
+    "title": "Chainsaw Man, Vol. 1",
+    "credits": [
+      "Tatsuki Fujimoto (Author)"
+    ],
+    "series": "Chainsaw Man",
+    "volume": 1,
+    "genre": [
+      "Action",
+      "Comedy",
+      "Horror",
+      "Fantasy"
+    ],
+    "description": [
+      "Broke young man + chainsaw demon = Chainsaw Man!",
+      "Denji was a small-time devil hunter just trying to survive in a harsh world. After being killed on a job, he is revived by his pet devil Pochita and becomes something new and dangerous—Chainsaw Man!",
+      "Denji’s a poor young man who’ll do anything for money, even hunting down devils with his pet devil Pochita. He’s a simple man with simple dreams, drowning under a mountain of debt. But his sad life gets turned upside down one day when he’s betrayed by someone he trusts. Now with the power of a devil inside him, Denji’s become a whole new man—Chainsaw Man!"
+    ],
+    "price": 11.99,
+    "coverImage": "../public/covers/chainsawman-v1.jpg"
+  },
+  {
+    "id": "DANDADAN-V1",
+    "title": "Dandadan, Vol. 1",
+    "credits": [
+      "Yukinobu Tatsu (Author)"
+    ],
+    "series": "Dandadan",
+    "volume": 1,
+    "genre": [
+      "Action",
+      "Comedy",
+      "Thriller"
+    ],
+    "description": [
+      "A nerd must fight powerful spirits and aliens all vying for the secret power of his “family jewel,” so who better to fight alongside him than his high school crush and a spirit granny?!",
+      "Momo Ayase and Okarun are on opposite sides of the paranormal spectrum regarding what they’ll believe in and what they won’t. Their quest to prove each other wrong leads them down a path of secret crushes and paranormal battles they’ll have to participate in to believe!",
+      "Momo Ayase strikes up an unusual friendship with her school’s UFO fanatic, whom she nicknames “Okarun” because he has a name that is not to be said aloud. While Momo believes in spirits, she thinks aliens are nothing but nonsense. Her new friend, meanwhile, thinks the exact opposite. To settle matters, the two set out to prove each other wrong—Momo to a UFO hotspot and Okarun to a haunted tunnel! What unfolds next is a beautiful story of young love…and oddly horny aliens and spirits?"
+    ],
+    "price": 11.99,
+    "coverImage": "../public/covers/dandadan-v1.jpg"
+  },
+  {
+    "id": "DB-V1",
+    "title": "Dragon Ball, Vol. 1",
+    "credits": [
+      "Akira Toriyama (Author, Illustrator)"
+    ],
+    "series": "Dragon Ball",
+    "volume": 1,
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Comedy",
+      "Martial Arts"
+    ],
+    "description": [
+      "Eath's greatest hero...is from outerspace!",
+      "Dragon Ball introduces a young monkey-tailed boy named Goku (a wry update of the classic Chinese \"Monkey King\" legend), whose quiet life changes when he meets a girl named Bulma who is on a quest to collect seven \"Dragon Balls.\" If she gathers them all, an incredibly powerful dragon will appear and grant her one wish. But the precious orbs are scattered all over the world, and Bulma could use the help of a certain super-strong boy... (In Japan, Dragon Ball and Dragon Ball Z were originally a single 42-volume series. VIZ Media's Dragon Ball contains vols. 1-16 of the original Japanese Dragon Ball, from the beginning of the series to the climax of Goku's last fight with Piccolo.)",
+      "Before there was Dragon Ball Z, there was Akira Toriyama's action epic Dragon Ball, starring the younger version of Son Goku and all the other Dragon Ball Z heroes! Meet a naive young monkey-tailed boy named Goku, whose quiet life changes when he meets Bulma, a girl who is on a quest to collect seven \"Dragon Balls.\" If she gathers them all, an incredibly powerful dragon will appear and grant her one wish. But the precious orbs are scattered all over the world, and Bulma needs Goku's help (and his super-strength)! With a magic staff for a weapon and a flying cloud for a ride, Goku sets out on the adventure of a lifetime..."
+    ],
+    "price": 11.99,
+    "coverImage": "../public/covers/dragonball-v1.jpg"
+  },
+  {
+    "id": "DEATHNOTE-V1",
+    "title": "Death Note, Vol. 1",
+    "credits": [
+      "Tsugumi Ohba (Author)",
+      "Takeshi Obata (Illustrator)"
+    ],
+    "series": "Death Note",
+    "volume": 1,
+    "genre": [
+      "Mystery",
+      "Thriller"
+    ],
+    "description": [
+      "When Light Yagami finds a notebook giving him power over death, will he use it for good—or evil?",
+      "Light Yagami is an ace student with great prospects--and he's bored out of his mind. But all that changes when he finds the Death Note, a notebook dropped by a rogue Shinigami death god. Any human whose name is written in the notebook dies, and now Light has vowed to use the power of the Death Note to rid the world of evil. But when criminals begin dropping dead, the authorities send the legendary detective L to track down the killer. With L hot on his heels, will Light lose sight of his noble goal...or his life?",
+      "Light tests the boundaries of the Death Note's powers as L and the police begin to close in. Luckily Light's father is the head of the Japanese National Police Agency and leaves vital information about the case lying around the house. With access to his father's files, Light can keep one step ahead of the authorities. But who is the strange man following him, and how can Light guard against enemies whose names he doesn't know?"
+    ],
+    "price": 11.99,
+    "coverImage": "../public/covers/deathnote-v1.jpg"
+  },
+  {
+    "id": "DELICIOUS-V1",
+    "title": "Delicious in Dungeon, Vol. 1",
+    "credits": [
+      "Ryoko Kui (Author)",
+      "Taylor Engel (Translator)",
+      "Abigail Blackman (Letterer)"
+    ],
+    "series": "Delicious in Dungeon",
+    "volume": 1,
+    "genre": [
+      "Adventure",
+      "Fantasy",
+      "Comedy",
+      "Cooking"
+    ],
+    "description": [
+      "When young adventurer Laios and his company are attacked and soundly thrashed by a dragon deep in a dungeon, the party loses all its money and provisions...and a member! They're eager to go back and save her, but there is just one problem: If they set out with no food or coin to speak of, they're sure to starve on the way! But Laios comes up with a brilliant idea: \"Let's eat the monsters!\" Slimes, basilisks, and even dragons...none are safe from the appetites of these dungeon-crawling gourmands!"
+    ],
+    "price": 15,
+    "coverImage": "../public/covers/deliciousindungeon-v1.jpg"
+  },
+  {
+    "id": "DEMONSLAYER-V1",
+    "title": "Demon Slayer: Kimetsu no Yaiba, Vol. 1",
+    "credits": [
+      "Koyoharu Gotouge (Author)"
+    ],
+    "series": "Demon Slayer: Kimetsu no Yaiba",
+    "volume": 1,
+    "genre": [
+      "Adventure",
+      "Fantasy",
+      "Martial Arts"
+    ],
+    "description": [
+      "Tanjiro sets out on the path of the Demon Slayer to save his sister and avenge his family!",
+      "In Taisho-era Japan, kindhearted Tanjiro Kamado makes a living selling charcoal. But his peaceful life is shattered when a demon slaughters his entire family. His little sister Nezuko is the only survivor, but she has been transformed into a demon herself! Tanjiro sets out on a dangerous journey to find a way to return his sister to normal and destroy the demon who ruined his life.",
+      "Learning to destroy demons won’t be easy, and Tanjiro barely knows where to start. The surprise appearance of another boy named Giyu, who seems to know what’s going on, might provide some answers—but only if Tanjiro can stop Giyu from killing his sister first!"
+    ],
+    "price": 11.99,
+    "coverImage": "../public/covers/demonslayer-v1.jpg"
+  },
+  {
+    "id": "DOROHEDORO-V1",
+    "title": "Dorohedoro, Vol. 1",
+    "credits": [
+      "Q Hayashida (Author)"
+    ],
+    "series": "Dorohedoro",
+    "volume": 1,
+    "genre": [
+      "Action",
+      "Fantasy"
+    ],
+    "description": [
+      "A twisted tale of sadistic Sorcerers and the monsters they create.",
+      "In a city so dismal it's known only as \"the Hole,\" a clan of Sorcerers have been plucking people off the streets to use as guinea pigs for atrocious \"experiments\" in the black arts. In a dark alley, Nikaido found Caiman, a man with a reptile head and a bad case of amnesia. To undo the spell, they're hunting and killing the Sorcerers in the Hole, hoping that eventually they'll kill the right one. But when En, the head Sorcerer, gets word of a lizard-man slaughtering his people, he sends a crew of \"cleaners\" into the Hole, igniting a war between two worlds."
+    ],
+    "price": 16.99,
+    "coverImage": "../public/covers/dorohedoro-v1.jpg"
+  },
+  {
+    "id": "FIREPUNCH-V1",
+    "title": "Fire Punch, Vol. 1",
+    "credits": [
+      "Tatsuki Fujimoto (Author)"
+    ],
+    "series": "Fire Punch",
+    "volume": 1,
+    "genre": [
+      "Fantasy",
+      "Thriller"
+    ],
+    "description": [
+      "In a frozen dystopia where inhabitants eat flesh to survive, can the destructive powers of fire bring salvation?",
+      "In the not-too-distant past, the Ice Witch blankets the world in snow, starvation, and madness, leading the inhabitants to seek their salvation in fire. With that, an unusual destiny unfolds for two young orphans, Agni and Luna, blessed with the ability to regenerate. But will this ability prove to be more of a curse than a blessing?",
+      "Orphaned siblings Agni and Luna, like the Ice Witch who cursed their world, are two of the “blessed,” humans who hold special abilities. However, not all who are blessed are friendly, and after another of their kind attacks Agni and decimates the orphans' village, Agni fights to survive, vowing revenge."
+    ],
+    "price": 14.99,
+    "coverImage": "../public/covers/firepunch-v1.jpg"
+  },
+  {
+    "id": "FMA-V1",
+    "title": "Fullmetal Alchemist, Vol. 1",
+    "credits": [
+      "Hiromu Arakawa (Author, Illustrator)"
+    ],
+    "series": "Fullmetal Alchemist",
+    "volume": 1,
+    "genre": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "description": [
+      "Breaking the laws of nature is a serious crime!",
+      "In an alchemical ritual gone wrong, Edward Elric lost his arm and his leg, and his brother Alphonse became nothing but a soul in a suit of armor. Equipped with mechanical “auto-mail” limbs, Edward becomes a state alchemist, seeking the one thing that can restore his and his brother’s bodies...the legendary Philosopher’s Stone.",
+      "Alchemy: the mystical power to alter the natural world; something between magic, art and science. When two brothers, Edward and Alphonse Elric, dabbled in this power to grant their dearest wish, one of them lost an arm and a leg…and the other became nothing but a soul locked into a body of living steel. Now Edward is an agent of the government, a slave of the military-alchemical complex, using his unique powers to obey orders…even to kill. Except his powers aren't unique. The world has been ravaged by the abuse of alchemy. And in pursuit of the ultimate alchemical treasure, the Philosopher's Stone, their enemies are even more ruthless than they are…"
+    ],
+    "price": 11.99,
+    "coverImage": "../public/covers/.jpg"
+  },
+  {
+    "id": "GOODBYEERI",
+    "title": "Goodbye, Eri",
+    "credits": [
+      "Tatsuki Fujimoto (Author)"
+    ],
+    "series": "Goodbye, Eri",
+    "volume": 1,
+    "genre": [
+      "Drama",
+      "Mystery"
+    ],
+    "description": [
+      "An explosive story from the mad genius behind Chainsaw Man and Look Back!",
+      "Young filmmaker Yuta contemplates suicide after the death of his mother, but a chance meeting with a mysterious girl will alter his life in an explosive way.",
+      "From the mad genius behind Chainsaw Man and Look Back comes a new story about coping with loss.",
+      "Yuta’s moviemaking career started with a request from his mother to record her final moments. After her death, Yuta meets a mysterious girl named Eri, who takes his life in new directions. The two begin creating a movie together, but Eri is harboring an explosive secret."
+    ],
+    "price": 14.99,
+    "coverImage": "../public/covers/goodbyeeri.jpg"
+  },
+  {
+    "id": "HXH-V1",
+    "title": "Hunter x Hunter, Vol. 1",
+    "credits": [
+      "Yoshihiro Togashi (Author)"
+    ],
+    "series": "Hunter x Hunter",
+    "volume": 1,
+    "genre": [
+      "Adventure",
+      "Fantasy",
+      "Martial Arts"
+    ],
+    "description": [
+      "Plucky Gon’s quest to find his dad leads him into a whole world of crazy adventure.",
+      "Hunters are a special breed, dedicated to tracking down treasures, magical beasts, and even other people. But such pursuits require a license, and less than one in a hundred thousand can pass the grueling qualification exam. Those who do pass gain access to restricted areas, amazing stores of information, and the right to call themselves Hunters.",
+      "Gon might be a country boy, but he has high aspirations. Despite his Aunt Mito's protests, Gon decides to follow in his father's footsteps and become a legendary Hunter. The Hunter hopefuls begin their journey by storm-tossed ship, where Gon meets Leorio and Kurapika, the only other applicants who aren't devastated by bouts of seasickness.",
+      "Having survived the terrors of the high seas, Gon and his companions now have to prove their worth in a variety of tests in order to find the elusive Exam Hall. And once they get there, will they ever leave alive...?"
+    ],
+    "price": 11.99,
+    "coverImage": "../public/covers/hunterxhunter-v1.jpg"
+  },
+  {
+    "id": "JJK-V1",
+    "title": "Jujutsu Kaisen, Vol. 1",
+    "credits": [
+      "Gege Akutami (Creator)"
+    ],
+    "series": "Jujutsu Kaisen",
+    "volume": 1,
+    "genre": [
+      "Adventure",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "description": [
+      "To gain the power he needs to save his friend from a cursed spirit, Yuji Itadori swallows a piece of a demon, only to find himself caught in the midst of a horrific war of the supernatural!",
+      "In a world where cursed spirits feed on unsuspecting humans, fragments of the legendary and feared demon Ryomen Sukuna have been lost and scattered about. Should any demon consume Sukuna’s body parts, the power they gain could destroy the world as we know it. Fortunately, there exists a mysterious school of jujutsu sorcerers who exist to protect the precarious existence of the living from the supernatural!",
+      "Although Yuji Itadori looks like your average teenager, his immense physical strength is something to behold! Every sports club wants him to join, but Itadori would rather hang out with the school outcasts in the Occult Research Club. One day, the club manages to get their hands on a sealed cursed object. Little do they know the terror they’ll unleash when they break the seal…"
+    ],
+    "price": 11.99,
+    "coverImage": "../public/covers/jujutsukaisen-v1.jpg"
+  },
+  {
+    "id": "JOJO7-V1",
+    "title": "JoJo's Bizarre Adventure: Part 7--Steel Ball Run, Vol. 1",
+    "credits": [
+      "Hirohiko Araki (Author)"
+    ],
+    "series": "JoJo's Bizarre Adventure: Part 7--Steel Ball Run",
+    "volume": 1,
+    "genre": [
+      "Adventure",
+      "Supernatural",
+      "Western"
+    ],
+    "description": [
+      "A multigenerational tale of the heroic Joestar family and their never-ending battle against evil!",
+      "The legendary Shonen Jump series is now available in deluxe hardcover editions featuring color pages! JoJo’s Bizarre Adventure is a groundbreaking manga famous for its outlandish characters, wild humor, and frenetic battles.",
+      "Riders from around the world gather in the Wild West for the race of the century! Johnny Joestar, a former jockey paralyzed from the waist down, comes to spectate, and momentarily regains the ability to walk while watching a duel fought by Gyro Zeppeli. Desperate to learn more about this power, Johnny joins the race alongside Gyro and embarks on the most epic and bizarre race to ever cross the American frontier!"
+    ],
+    "price": 25,
+    "coverImage": "../public/covers/jojopart7-v1.jpg"
+  },
+  {
+    "id": "LOOKBACK",
+    "title": "Look Back",
+    "credits": [
+      "Tatsuki Fujimoto (Author)"
+    ],
+    "series": "Look Back",
+    "volume": 1,
+    "genre": [
+      "Coming of Age",
+      "Drama"
+    ],
+    "description": [
+      "A heart-wrenching single-volume story about the struggles of being an artist, from the creator of Chainsaw Man.",
+      "The overly confident Fujino and the shut-in Kyomoto couldn’t be more different, but a love of drawing manga brings these two small-town girls together. A poignant story of growing up and moving forward that only Tatsuki Fujimoto, the creator of Chainsaw Man, could have crafted."
+    ],
+    "price": 14.99,
+    "coverImage": "../public/covers/lookback.jpg"
+  },
+  {
+    "id": "LUSTROUS-V1",
+    "title": "Land of the Lustrous, Vol. 1",
+    "credits": [
+      "Haruko Ichikawa (Author)"
+    ],
+    "series": "Land of the Lustrous",
+    "volume": 1,
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Post-Apocalyptic"
+    ],
+    "description": [
+      "The elegant, enthralling action manga that became the hit anime! Find out why readers have flocked to this \"gorgeous, absorbing, surprisingly emotionally resonant\" masterpiece!",
+      "SEARCHING FOR PURPOSE",
+      "In a world inhabited by crystalline lifeforms called The Lustrous, every unique gem must fight for their way of life against the threat of lunarians who would turn them into decorations. Phosphophyllite, the most fragile and brittle of gems, longs to join the battle. When Phos is instead assigned to complete a natural history of their world, it sounds like a dull and pointless task. But this new job brings Phos into contact with Cinnabar, a gem forced to live in isolation. Can Phos's seemingly mundane assignment lead both Phos and Cinnabar to the fulfillment they desire?"
+    ],
+    "price": 12.99,
+    "coverImage": "../public/covers/landofthelustrous-v1.jpg"
+  },
+  {
+    "id": "MONSTERP-V1",
+    "title": "Monster: The Perfect Edition, Vol. 1",
+    "credits": [
+      "Naoki Urasawa (Creator)"
+    ],
+    "series": "Monster: The Perfect Edition",
+    "volume": 1,
+    "genre": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "description": [
+      "Naoki Urasawa’s unforgettable thriller follows a brilliant doctor’s journey into the darkest depths of the human soul.",
+      "Johan is a cold and calculating killer with a mysterious past, and brilliant Dr. Kenzo Tenma is the only one who can stop him! Conspiracy and serial murder open the door to a compelling, intricately woven plot in this masterwork of suspense.",
+      "Everyone faces uncertainty at some point in their lives. Even a brilliant surgeon like Kenzo Tenma is no exception. But there’s no way he could have known that his decision to stop chasing professional success and instead concentrate on his oath to save peoples’ lives would result in the birth of an abomination. The questions of good and evil now take on a terrifyingly real dimension."
+    ],
+    "price": 22.99,
+    "coverImage": "../public/covers/monsterperfect-v1.jpg"
+  },
+  {
+    "id": "MP100-V1",
+    "title": "Mob Psycho, Vol. 1",
+    "credits": [
+      "ONE (Author, Illustrator)"
+    ],
+    "series": "Mob Psycho 100",
+    "volume": 1,
+    "genre": [
+      "Action",
+      "Comedy",
+      "Supernatural"
+    ],
+    "description": [
+      "From the creator of One-Punch Man and now a Netflix Live Action Series! Do you or someone you know need an exorcist who works cheap? Reigen's your guy!",
+      "What's his secret to busting ghosts while keeping prices low? Well, first, he's a fraud, and second, he pays the guy who's got the real psychic power--his student assistant Shigeo--less than minimum wage. Shigeo is an awkward but kind boy whose urge to help others and get along with them is bound up with the mental safety locks he's placed on his own emotions. Reigen knows he needs to exploit Shigeo to stay in business, yet for better or worse he's also his mentor and counselor. And he also knows whenever the normally repressed kid's emotions reach level 100, it may unleash more psychic energy than either of them can handle!"
+    ],
+    "price": 11.99,
+    "coverImage": "../public/covers/mobpsycho100-v1.jpg"
+  },
+  {
+    "id": "NARUTO-V1",
+    "title": "Naruto, Vol. 1: Uzumaki Naruto",
+    "credits": [
+      "Masashi Kishimoto (Author, Illustrator)"
+    ],
+    "series": "Naruto",
+    "volume": 1,
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Comedy",
+      "Martial Arts"
+    ],
+    "description": [
+      "The world’s most popular ninja comic!",
+      "Naruto is a young shinobi with an incorrigible knack for mischief. He’s got a wild sense of humor, but Naruto is completely serious about his mission to be the world’s greatest ninja!",
+      "Twelve years ago the Village Hidden in the Leaves was attacked by a fearsome threat. A nine-tailed fox spirit claimed the life of the village leader, the Hokage, and many others. Today, the village is at peace and a troublemaking kid named Naruto is struggling to graduate from Ninja Academy. His goal may be to become the next Hokage, but his true destiny will be much more complicated. The adventure begins now!"
+    ],
+    "price": 11.99,
+    "coverImage": "../public/covers/naruto-v1.jpg"
+  },
+  {
+    "id": "OP-V1",
+    "title": "One Piece, Vol. 1: Romance Dawn",
+    "credits": [
+      "Eiichiro Oda (Author, Illustrator)"
+    ],
+    "series": "One Piece",
+    "volume": 1,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Comedy"
+    ],
+    "description": [
+      "Join Monkey D. Luffy and his swashbuckling crew in their search for the ultimate treasure, One Piece!",
+      "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world..."
+    ],
+    "price": 11.99,
+    "coverImage": "../public/covers/onepiece-v1.jpg"
+  },
+  {
+    "id": "OPM-V1",
+    "title": "One-Punch Man, Vol. 1",
+    "credits": [
+      "ONE (Author)",
+      "Yusuke Murata (Illustrator)"
+    ],
+    "series": "One-Punch Man",
+    "volume": 1,
+    "genre": [
+      "Action",
+      "Comedy",
+      "Superhero"
+    ],
+    "description": [
+      "Life gets pretty boring when you can beat the snot out of any villain with just one punch.",
+      "Nothing about Saitama passes the eyeball test when it comes to superheroes, from his lifeless expression to his bald head to his unimpressive physique. However, this average-looking guy has a not-so-average problem—he just can’t seem to find an opponent strong enough to take on!",
+      "Every time a promising villain appears, Saitama beats the snot out of ’em with one punch! Can he finally find an opponent who can go toe-to-toe with him and give his life some meaning? Or is he doomed to a life of superpowered boredom?"
+    ],
+    "price": 11.99,
+    "coverImage": "../public/covers/onepunchman-v1.jpg"
+  },
+  {
+    "id": "PUNPUN-V1",
+    "title": "Goodnight Punpun, Vol. 1",
+    "credits": [
+      "Inio Asano (Author)"
+    ],
+    "series": "Goodnight Punpun",
+    "volume": 1,
+    "genre": [
+      ""
+    ],
+    "description": [
+      "Coming of Age",
+      "Drama",
+      "Slice of Life"
+    ],
+    "price": 24.99,
+    "coverImage": "../public/covers/goodnightpunpun-v1.jpg"
+  },
+  {
+    "id": "SILENTVOICE-V1",
+    "title": "A Silent Voice, Vol. 1",
+    "credits": [
+      "Yoshitoki Oima (Author)"
+    ],
+    "series": "A Silent Voice",
+    "volume": 1,
+    "genre": [
+      "Drama"
+    ],
+    "description": [
+      "Shoya is a bully. When Shoko, a girl who can’t hear, enters his elementary school class, she becomes their favorite target, and Shoya and his friends goad each other into devising new tortures for her. But the children’s cruelty goes too far. Shoko is forced to leave the school, and Shoya ends up shouldering all the blame. Six years later, the two meet again. Can Shoya make up for his past mistakes, or is it too late?"
+    ],
+    "price": 10.99,
+    "coverImage": "../public/covers/asilentvoice-v1.jpg"
+  },
+  {
+    "id": "SXF-V1",
+    "title": "Spy x Family, Vol. 1",
+    "credits": [
+      "Tatsuya Endo (Author)"
+    ],
+    "series": "Spy x Family",
+    "volume": 1,
+    "genre": [
+      "Action",
+      "Comedy"
+    ],
+    "description": [
+      "An action-packed comedy about a fake family that includes a spy, an assassin and a telepath!",
+      "Master spy Twilight is unparalleled when it comes to going undercover on dangerous missions for the betterment of the world. But when he receives the ultimate assignment—to get married and have a kid—he may finally be in over his head!",
+      "Not one to depend on others, Twilight has his work cut out for him procuring both a wife and a child for his mission to infiltrate an elite private school. What he doesn’t know is that the wife he’s chosen is an assassin and the child he’s adopted is a telepath!"
+    ],
+    "price": 11.99,
+    "coverImage": "../public/covers/spyxfamily-v1.jpg"
+  },
+  {
+    "id": "TKG-V1",
+    "title": "Tokyo Ghoul, Vol. 1",
+    "credits": [
+      "Sui Ishida (Author)"
+    ],
+    "series": "Tokyo Ghoul",
+    "volume": 1,
+    "genre": [
+      "Fantasy",
+      "Thriller"
+    ],
+    "description": [
+      "Ghouls live among us, the same as normal people in every way—except their craving for human flesh.",
+      "Ken Kaneki is an ordinary college student until a violent encounter turns him into the first half-human half-ghoul hybrid. Trapped between two worlds, he must survive Ghoul turf wars, learn more about Ghoul society and master his new powers.",
+      "Shy Ken Kaneki is thrilled to go on a date with the beautiful Rize. But it turns out that she’s only interested in his body—eating it, that is. When a morally questionable rescue transforms him into the first half-human half-Ghoul hybrid, Ken is drawn into the dark and violent world of Ghouls, which exists alongside our own."
+    ],
+    "price": 14.99,
+    "coverImage": "../public/covers/tokyoghoul-v1.jpg"
+  },
+  {
+    "id": "VINLAND-V1",
+    "title": "Vinland Saga, Vol. 1",
+    "credits": [
+      "Makoto Yukimura (Author)"
+    ],
+    "series": "Vinland Saga",
+    "volume": 1,
+    "genre": [
+      "Adventure",
+      "Epic",
+      "Historical"
+    ],
+    "description": [
+      "As a child, Thorfinn sat at the feet of the great Leif Ericson and thrilled to wild tales of a land far to the west. But his youthful fantasies were shattered by a mercenary raid. Raised by the Vikings who murdered his family, Thorfinn became a terrifying warrior, forever seeking to kill the band's leader, Askeladd, and avenge his father. Sustaining Thorfinn through his ordeal are his pride in his family and his dreams of a fertile westward land, a land without war or slavery...the land Leif called Vinland."
+    ],
+    "price": 19.99,
+    "coverImage": "../public/covers/vinlandsaga-v1.jpg"
+  },
+  {
+    "id": "WITCHHAT-V1",
+    "title": "Witch Hat Atelier, Vol. 1",
+    "credits": [
+      "Kamome Shirahama (Author)"
+    ],
+    "series": "Witch Hat Atelier",
+    "volume": 1,
+    "genre": [
+      "Fantasy"
+    ],
+    "description": [
+      "A beautifully-illustrated story about a girl who longs for magic in her life and learns that, on the inside, she already is what she wishes she could be. Reminiscent of Studio Ghibli, this lushly-drawn story has captured the hearts of fantasy fans worldwide.",
+      "In a world where everyone takes wonders like magic spells and dragons for granted, Coco is a girl with a simple dream: She wants to be a witch. But everybody knows magicians are born, not made, and Coco was not born with a gift for magic. Resigned to her un-magical life, Coco is about to give up on her dream to become a witch...until the day she meets Qifrey, a mysterious, traveling magician. After secretly seeing Qifrey perform magic in a way she's never seen before, Coco soon learns what everybody \"knows\" might not be the truth, and discovers that her magical dream may not be as far away as it may seem..."
+    ],
+    "price": 12.99,
+    "coverImage": "../public/covers/witchhatatelier-v1.jpg"
+  },
+  {
+    "id": "YOTSUBA-V1",
+    "title": "Yotsuba&!, Vol. 1",
+    "credits": [
+      "Kiyohiko Azuma (Creator)",
+      "Amy Forsyth (Translator)"
+    ],
+    "series": "Yotsuba&!",
+    "volume": 1,
+    "genre": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "description": [
+      "Hello! This is Koiwai Yotsuba, Yotsuba Koiwai...um, YOTSUBA! Yotsuba moved with Daddy to a new house from our old house waaaaaaay over there! And moving's fun 'cos people wave! (Ohhhh!!) And Yotsuba met these nice people next door and made friends to play with (one of 'em acted like one of those bad strangers Daddy told Yotsuba not to go with, but it was okay in the end). I hope we get to play a lot. And eat ice cream! And-and-and...oh yeah! You should come play with Yotsuba too!"
+    ],
+    "price": 13,
+    "coverImage": "../public/covers/yotsuba-v1.jpg"
+  }
+]

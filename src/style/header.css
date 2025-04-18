@@ -1,0 +1,15 @@
+@media only screen and (min-width: 0px) {
+  header {
+    display: flex;
+    flex-direction: column;
+    background-color: grey;
+  }
+
+  .header-main {
+    display: flex;
+  }
+
+  .header-categories {
+    display: flex;
+  }
+}
