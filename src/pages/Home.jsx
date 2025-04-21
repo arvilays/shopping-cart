@@ -1,6 +1,6 @@
 import { useParams } from "react-router-dom";
 
-function Home () {
+function Home() {
   const { name } = useParams();
 
   return (
@@ -8,10 +8,9 @@ function Home () {
       <h1>This is the homepage.</h1>
     </div>
   );
-};
+}
 
 export default Home;
-
 
 /*
   {name === "pageone" ? (

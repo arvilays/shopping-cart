@@ -5,9 +5,13 @@ function Product() {
 
   return (
     <div>
-      <h1>This is the product page.</h1>
+      {name ? (
+        <h1>This is the product page for {name}.</h1>
+      ) : (
+        <h1>Please select a product.</h1>
+      )}
     </div>
   );
-};
+}
 
 export default Product;

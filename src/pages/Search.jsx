@@ -1,13 +1,13 @@
 import { useParams } from "react-router-dom";
 
-function List() {
+function Search() {
   const { name } = useParams();
 
   return (
     <div>
-      <h1>This is the list page.</h1>
+      <h1>This is the search page.</h1>
     </div>
   );
-};
+}
 
-export default List;
+export default Search;

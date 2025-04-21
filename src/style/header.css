@@ -1,15 +1,84 @@
 @media only screen and (min-width: 0px) {
   header {
+    background-color: lightgrey;
     display: flex;
     flex-direction: column;
-    background-color: grey;
   }
 
   .header-main {
     display: flex;
+    align-items: center;
+    padding: 15px 30px;
+    border-bottom: 1px solid black;
+  }
+
+  .header-main-logo {
+    flex: 1;
+  }
+
+  .header-main-logo img {
+    width: 150px;
+  }
+
+  .header-main-search {
+    display: flex;
+    flex: 3;
+    margin: 0px 20px;
+    border: 2px solid grey;
+    border-radius: 15px;
+    overflow: hidden;
+  }
+
+  .header-main-search-bar {
+    flex: 1;
+  }
+
+  .header-main-search-bar > input {
+    width: 100%;
+    padding: 12px 20px;
+    border: 0px;
+  }
+
+  .header-main-search-bar > input:focus {
+    outline: none;
+    box-shadow: none;
+    border: none;
+  }
+
+  .header-main-search-icon {
+    background-color: hsl(34, 99%, 70%);
+    display: flex;
+    align-items: center;
+  }
+
+  .header-main-search-icon:hover {
+    cursor: pointer;
+    background-color: hsl(34, 99%, 60%);
+  }
+
+  .header-main-search-icon img {
+    width: 40px;
+    margin: 0px 6px;
+  }
+
+  .header-main-cart {
+    display: flex;
+    flex: 1;
+    justify-content: end;
+  }
+
+  .header-main-cart img {
+    width: 40px;
   }
 
   .header-categories {
     display: flex;
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+  }
+
+  .header-categories > * {
+    flex: 1;
   }
 }
