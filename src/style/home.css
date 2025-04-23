@@ -1,0 +1,47 @@
+@media only screen and (min-width: 0px) {
+  .home {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .home-popular {
+    display: flex;
+    flex-direction: column;
+    padding: 0px 30px;
+    height: 490px;
+    overflow: hidden;
+  }
+
+  .home-popular-bar {
+    display: flex;
+    align-items: center;
+  }
+
+  .home-popular-title {
+    font-size: 2em;
+    font-weight: 500;
+  }
+
+  .home-popular-more {
+    font-size: 0.8em;
+    margin-left: auto;
+    text-decoration: underline;
+    color: inherit;
+  }
+
+  .home-popular-more:hover {
+    cursor: pointer;
+  }
+
+  .home-popular > hr {
+    margin-top: 2.5px;
+    margin-bottom: 25px;
+  }
+
+  .home-popular-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-auto-rows: 500px;
+    gap: 10px;
+  }
+}

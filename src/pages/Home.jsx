@@ -1,12 +1,25 @@
-import { useParams } from "react-router-dom";
+import { useOutletContext } from "react-router-dom";
+import "../style/home.css";
+import PopularReleases from "../components/PopularReleases"
 
 function Home() {
-  const { name } = useParams();
+  const { storeData } = useOutletContext();
 
   return (
-    <div>
-      <h1>This is the homepage.</h1>
-    </div>
+    <main className="home">
+      <div className="home-gallery">
+        GALLERY
+        {storeData.length}
+      </div>
+
+      <PopularReleases
+        storeData={storeData}
+      />
+
+      <div className="home-categories">CATEGORIES</div>
+      <div className="home-explore">EXPLORE</div>
+      <div className="home-reviews">REVIEWS</div>
+    </main>
   );
 }
 

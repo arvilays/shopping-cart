@@ -1,4 +1,3 @@
-import { useState, useEffect } from "react";
 import "../style/footer.css";
 import pochitaImage from "../assets/pochita.png";
 import logoImage from "../assets/logo.png";
@@ -40,12 +39,12 @@ function Footer() {
           <div>Sotokanda, 4-chōme−14−1 2F 秋葉原 UDX</div>
         </div>
         <div className="footer-main-socials">
-          <div className="footer-main-social"><img src={blueskyImage} alt="bluesky" /></div>
-          <div className="footer-main-social"><img src={facebookImage} alt="facebook" /></div>
-          <div className="footer-main-social"><img src={instagramImage} alt="instagram" /></div>
-          <div className="footer-main-social"><img src={tiktokImage} alt="tiktok" /></div>
-          <div className="footer-main-social"><img src={xImage} alt="x" /></div>
-          <div className="footer-main-social"><img src={youtubeImage} alt="youtube" /></div>
+          <div className="footer-main-social"><a href="https://bsky.app/" target="_blank" rel="noopener noreferrer"><img src={blueskyImage} alt="bluesky" /></a></div>
+          <div className="footer-main-social"><a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer"><img src={facebookImage} alt="facebook" /></a></div>
+          <div className="footer-main-social"><a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer"><img src={instagramImage} alt="instagram" /></a></div>
+          <div className="footer-main-social"><a href="https://www.tiktok.com/" target="_blank" rel="noopener noreferrer"><img src={tiktokImage} alt="tiktok" /></a></div>
+          <div className="footer-main-social"><a href="https://x.com/" target="_blank" rel="noopener noreferrer"><img src={xImage} alt="x" /></a></div>
+          <div className="footer-main-social"><a href="https://www.youtube.com/" target="_blank" rel="noopener noreferrer"><img src={youtubeImage} alt="youtube" /></a></div>
         </div>
       </div>
 

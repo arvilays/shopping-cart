@@ -1,11 +1,19 @@
-import { useParams } from "react-router-dom";
+import { useOutletContext } from "react-router-dom";
+import "../style/search.css";
+import ProductCard from "../components/ProductCard";
 
 function Search() {
-  const { name } = useParams();
+  const { storeData } = useOutletContext();
 
   return (
-    <div>
-      <h1>This is the search page.</h1>
+    <div className="search">
+      <div className="search-grid">
+        {storeData.map((manga) => (
+          <ProductCard
+            productData={manga}
+          />
+        ))}
+      </div>
     </div>
   );
 }

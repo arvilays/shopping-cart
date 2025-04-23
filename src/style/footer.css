@@ -7,6 +7,7 @@
 
   .footer-newsletter {
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     gap: 30px;
@@ -15,7 +16,7 @@
 
   .footer-newsletter-mascot > img {
     margin-left: auto;
-    width: 300px;
+    width: 200px;
   }
 
   .footer-newsletter-title {
@@ -24,18 +25,35 @@
     text-align: center;
   }
 
+  .footer-newsletter-signup {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .footer-newsletter-signup input {
+    padding: 10px 20px;
+    border-radius: 15px;
+  }
+
+  .footer-newsletter-signup img {
+    width: 50px;
+  }
+
   .footer-main {
     background-color: darkgrey;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     padding: 30px;
-    gap: 100px;
+    gap: 40px;
   }
 
   .footer-main-info {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
+    column-gap: 10px;
   }
 
   .footer-main-location {
@@ -55,10 +73,11 @@
 
   .footer-main-social:hover {
     cursor: pointer;
-    filter: invert(99%) sepia(1%) saturate(2%) hue-rotate(111deg) brightness(116%) contrast(100%);
+    filter: invert(99%) sepia(1%) saturate(2%) hue-rotate(111deg)
+      brightness(116%) contrast(100%);
   }
 
-  .footer-main-social > img {
+  .footer-main-social img {
     width: 40px;
   }
 
@@ -76,5 +95,20 @@
 
   .footer-credits-copyright {
     font-size: 0.9em;
+  }
+}
+
+@media only screen and (min-width: 700px) {
+  .footer-newsletter {
+    flex-direction: row;
+  }
+
+  .footer-newsletter-mascot > img {
+    width: 300px;
+  }
+
+  .footer-main {
+    flex-direction: row;
+    gap: 100px;
   }
 }
