@@ -83,10 +83,11 @@
     text-decoration: none;
     color: inherit;
     transition: color 0.25s;
+    will-change: color;
   }
 
   .header-category:hover {
     cursor: pointer;
-    color: grey;
+    color: rgb(90, 90, 90);
   }
 }

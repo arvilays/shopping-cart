@@ -69,6 +69,7 @@
 
   .footer-main-social {
     transition: filter 0.25s;
+    will-change: filter;
   }
 
   .footer-main-social:hover {
