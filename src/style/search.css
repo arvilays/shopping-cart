@@ -3,6 +3,11 @@
     padding: 30px;
   }
 
+  .search-title > hr {
+    margin-top: 2.5px;
+    margin-bottom: 25px;
+  }
+
   .search-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));

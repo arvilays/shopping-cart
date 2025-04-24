@@ -1,6 +1,6 @@
 import { useOutletContext } from "react-router-dom";
 import "../style/home.css";
-import PopularReleases from "../components/PopularReleases"
+import PopularReleases from "../components/PopularReleases";
 
 function Home() {
   const { storeData } = useOutletContext();
@@ -12,9 +12,7 @@ function Home() {
         {storeData.length}
       </div>
 
-      <PopularReleases
-        storeData={storeData}
-      />
+      <PopularReleases storeData={storeData} />
 
       <div className="home-categories">CATEGORIES</div>
       <div className="home-explore">EXPLORE</div>

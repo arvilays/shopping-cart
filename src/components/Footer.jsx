@@ -13,7 +13,11 @@ function Footer() {
     <footer>
       <div className="footer-newsletter">
         <div className="footer-newsletter-mascot">
-          <img src={pochitaImage} alt="pochita" title="Source: Yootooz Pochita Plush" />
+          <img
+            src={pochitaImage}
+            alt="pochita"
+            title="Source: Yootooz Pochita Plush"
+          />
         </div>
         <div className="footer-newsletter-title">
           Sign up for our newsletter!
@@ -35,16 +39,60 @@ function Footer() {
           <div className="footer-main-info-category">Terms & Conditions</div>
         </div>
         <div className="footer-main-location">
-          <div>Japan, 〒101-0021 Tokyo, Chiyoda City,</div> 
+          <div>Japan, 〒101-0021 Tokyo, Chiyoda City,</div>
           <div>Sotokanda, 4-chōme−14−1 2F 秋葉原 UDX</div>
         </div>
         <div className="footer-main-socials">
-          <div className="footer-main-social"><a href="https://bsky.app/" target="_blank" rel="noopener noreferrer"><img src={blueskyImage} alt="bluesky" /></a></div>
-          <div className="footer-main-social"><a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer"><img src={facebookImage} alt="facebook" /></a></div>
-          <div className="footer-main-social"><a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer"><img src={instagramImage} alt="instagram" /></a></div>
-          <div className="footer-main-social"><a href="https://www.tiktok.com/" target="_blank" rel="noopener noreferrer"><img src={tiktokImage} alt="tiktok" /></a></div>
-          <div className="footer-main-social"><a href="https://x.com/" target="_blank" rel="noopener noreferrer"><img src={xImage} alt="x" /></a></div>
-          <div className="footer-main-social"><a href="https://www.youtube.com/" target="_blank" rel="noopener noreferrer"><img src={youtubeImage} alt="youtube" /></a></div>
+          <div className="footer-main-social">
+            <a
+              href="https://bsky.app/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img src={blueskyImage} alt="bluesky" />
+            </a>
+          </div>
+          <div className="footer-main-social">
+            <a
+              href="https://www.facebook.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img src={facebookImage} alt="facebook" />
+            </a>
+          </div>
+          <div className="footer-main-social">
+            <a
+              href="https://www.instagram.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img src={instagramImage} alt="instagram" />
+            </a>
+          </div>
+          <div className="footer-main-social">
+            <a
+              href="https://www.tiktok.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img src={tiktokImage} alt="tiktok" />
+            </a>
+          </div>
+          <div className="footer-main-social">
+            <a href="https://x.com/" target="_blank" rel="noopener noreferrer">
+              <img src={xImage} alt="x" />
+            </a>
+          </div>
+          <div className="footer-main-social">
+            <a
+              href="https://www.youtube.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img src={youtubeImage} alt="youtube" />
+            </a>
+          </div>
         </div>
       </div>
 
@@ -53,7 +101,7 @@ function Footer() {
           <img src={logoImage} alt="mangakart" />
         </div>
         <div className="footer-credits-copyright">
-          &copy; 2025-20XX, Mangakart, A Totally Real Company 
+          &copy; 2025-20XX, Mangakart, A Totally Real Company
         </div>
       </div>
     </footer>

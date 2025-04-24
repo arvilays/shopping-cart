@@ -78,7 +78,15 @@
     padding: 10px;
   }
 
-  .header-categories > * {
+  .header-category {
     flex: 1;
+    text-decoration: none;
+    color: inherit;
+    transition: color 0.25s;
+  }
+
+  .header-category:hover {
+    cursor: pointer;
+    color: grey;
   }
 }

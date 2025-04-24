@@ -6,9 +6,8 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 
 function App() {
-  const [storeData, setStoreData] = useState([]);
   const [loading, setLoading] = useState(true);
-  const test = "test";
+  const [storeData, setStoreData] = useState([]);
 
   const fetchManga = async () => {
     try {
@@ -33,10 +32,8 @@ function App() {
 
   return (
     <>
-      <Header/>
-      <Outlet
-        context={{storeData}}
-      />
+      <Header />
+      <Outlet context={{ storeData }} />
       <Footer />
     </>
   );
@@ -52,4 +49,6 @@ export default App;
   ))}
 </div>*/
 
-{/* <Link to="/product">Product</Link> */}
+{
+  /* <Link to="/product">Product</Link> */
+}

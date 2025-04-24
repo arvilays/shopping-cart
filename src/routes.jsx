@@ -16,21 +16,12 @@ const routes = [
         element: <Home />,
       },
       {
-        path: "search",
+        path: "search/:searchTerm?",
         element: <Search />,
       },
       {
-        path: "product",
-        children: [
-          {
-            index: true,
-            element: <Product />,
-          },
-          {
-            path: ":name",
-            element: <Product />,
-          },
-        ],
+        path: "product/:name?",
+        element: <Product />,
       },
       {
         path: "cart",

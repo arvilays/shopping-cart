@@ -9,10 +9,10 @@
 
     text-decoration: none;
     color: inherit;
-    
+
     transition: transform 0.2s ease;
     transform: translateY(0);
-    will-change: transform;  
+    will-change: transform;
     position: relative;
   }
 
@@ -20,7 +20,7 @@
     cursor: pointer;
     transform: translateY(-8px);
   }
-  
+
   .product-card-image img {
     width: 200px;
     height: 300px;
