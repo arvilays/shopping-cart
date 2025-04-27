@@ -27,6 +27,46 @@
     width: 200px;
   }
 
+  .filter-title {
+    font-weight: 700;
+  }
+
+  .search-filter-content {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 200px;
+    padding-right: 35px;
+  }
+
+  input[type="checkbox"] {
+    margin-right: 5px;
+  }
+
+  .search-filter-sort {
+    display: flex;
+    flex-direction: column;
+  }
+
+  #sort {
+    padding: 2px 5px;
+  }
+
+  .search-filter-genre-boxes {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .search-filter-price-inputs {
+    display: flex;
+    gap: 10px;
+  }
+
+  .search-filter-price-inputs > input {
+    width: 70px;
+    padding: 2px 5px;
+  }
+
   .search-filter-toggle {
     background-color: white;
     position: sticky;
@@ -54,23 +94,17 @@
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: 10px;
   }
+
+  .search-pagination {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding-bottom: 20px;
+  }
+
+  .search-pagination button {
+    width: 100px;
+    padding: 5px 10px;
+  }
 }
-
-
-    /* .search-filter {
-      width: 0px;
-      padding-right: 20px;
-      border-right: 1px solid black;
-    }
-  
-    .search-filter-toggle {
-      background-color: white;
-      position: sticky;
-      transform: translate(110%, 0%);
-      top: 50%;
-      width: fit-content;
-      margin-left: auto;
-      padding: 2px;
-      border: 2px solid black;
-      border-radius: 50%;
-    } */

@@ -1,5 +1,6 @@
 import { useOutletContext } from "react-router-dom";
 import "../style/home.css";
+import Carousel from "../components/Carousel";
 import PopularReleases from "../components/PopularReleases";
 
 function Home() {
@@ -7,11 +8,7 @@ function Home() {
 
   return (
     <main className="home">
-      <div className="home-gallery">
-        GALLERY
-        {storeData.length}
-      </div>
-
+      <Carousel />
       <PopularReleases storeData={storeData} />
 
       <div className="home-categories">CATEGORIES</div>

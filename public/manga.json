@@ -391,8 +391,16 @@
     "credits": ["Inio Asano (Author)"],
     "series": "Goodnight Punpun",
     "volume": 1,
-    "genre": [""],
-    "description": ["Coming of Age", "Drama", "Slice of Life"],
+    "genre": ["Coming of Age", "Drama", "Slice of Life"],
+    "description": [
+      "A dark coming-of-age tale where slice-of-life slices back.",
+      "This is Punpun Onodera’s coming-of-age story. His parents’ marriage is falling apart. His dad goes to jail, and his mom goes to the hospital. He has to live with his loser uncle. He has a crush on a girl who lives in a weird cult. Punpun tries talking with God about his problems, but God is a jerk. Punpun keeps hoping things will get better, but they really, really don’t.",
+      "Meet Punpun Punyama. He’s an average kid in an average town.",
+      "He wants to win a Nobel Prize and save the world.",
+      "He wants the girl he has a crush on to like him back.",
+      "He wants to find some porn.",
+      "That’s what he wants, but what does he get…?"
+    ],
     "price": 24.99,
     "coverImage": "../public/covers/goodnightpunpun-v1.jpg"
   },
