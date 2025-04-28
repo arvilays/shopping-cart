@@ -20,8 +20,8 @@
   }
 
   .footer-newsletter-title {
+    font-family: "cal sans";
     font-size: 2em;
-    font-weight: 600;
     text-align: center;
   }
 
@@ -46,8 +46,9 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 30px;
     gap: 40px;
+    font-family: "cal sans";
+    padding: 30px;
   }
 
   .footer-main-info {

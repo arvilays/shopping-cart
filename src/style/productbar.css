@@ -1,0 +1,44 @@
+@media only screen and (min-width: 0px) {
+  .product-bar {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: -35px;
+    padding: 0px 30px;
+    height: 490px;
+    overflow: hidden;
+  }
+
+  .product-bar-header {
+    display: flex;
+    align-items: center;
+  }
+
+  .product-bar-title {
+    font-family: "cal sans";
+    font-size: 2em;
+    font-weight: 500;
+  }
+
+  .product-bar-more {
+    font-size: 0.8em;
+    margin-left: auto;
+    text-decoration: underline;
+    color: inherit;
+  }
+
+  .product-bar-more:hover {
+    cursor: pointer;
+  }
+
+  .product-bar > hr {
+    margin-top: 2.5px;
+    margin-bottom: 25px;
+  }
+
+  .product-bar-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-auto-rows: 500px;
+    gap: 10px;
+  }
+}

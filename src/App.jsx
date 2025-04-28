@@ -40,15 +40,3 @@ function App() {
 }
 
 export default App;
-
-/*<div>
-  {storeData.map((manga) => (
-    <div key={manga.id}>
-      <h3>{manga.title}</h3>
-    </div>
-  ))}
-</div>*/
-
-{
-  /* <Link to="/product">Product</Link> */
-}

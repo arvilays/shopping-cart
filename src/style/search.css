@@ -28,7 +28,8 @@
   }
 
   .filter-title {
-    font-weight: 700;
+    font-size: 1.25em;
+    font-family: "cal sans";    
   }
 
   .search-filter-content {
@@ -100,6 +101,7 @@
     align-items: center;
     justify-content: center;
     gap: 10px;
+    font-family: "cal sans";
     padding-bottom: 20px;
   }
 

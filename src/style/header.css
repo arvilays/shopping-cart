@@ -73,6 +73,7 @@
 
   .header-categories {
     display: flex;
+    font-family: "cal sans";
     text-align: center;
     width: 100%;
     padding: 10px;

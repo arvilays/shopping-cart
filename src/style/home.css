@@ -9,7 +9,7 @@
   ||          CAROUSEL          ||
   ##############################*/
   .home-carousel {
-    background-color: grey;
+    background: linear-gradient(to top, rgb(241, 241, 241), grey);
     display: flex;
     justify-content: center;
     position: relative;
@@ -45,46 +45,110 @@
   }
 
   /*##############################
-  ||      POPULAR RELEASES      ||
+  ||          EXPLORE           ||
   ##############################*/
-  .home-popular {
-    display: flex;
-    flex-direction: column;
-    padding: 0px 30px;
-    height: 490px;
+  .home-explore {
+    position: relative;
+    background-color: grey;
+    height: 700px;
+    margin: 10px 0px;
     overflow: hidden;
   }
 
-  .home-popular-bar {
+  .home-explore-text {
+    z-index: 1;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     display: flex;
+    flex-direction: column;
     align-items: center;
+    gap: 20px;
+    font-family: "cal sans";
+    text-align: center;
   }
 
-  .home-popular-title {
+  .home-explore-logo  {
+    width: 400px;
+  }
+
+  .home-explore-title {
+    color: white;
+    font-size: 3em;
+    font-weight: 500;
+    text-shadow:
+        -3px -3px 0 black,
+        3px -3px 0 black,
+        -3px 3px 0 black,
+        3px 3px 0 black;
+  }
+
+  .home-explore-button {
+    background-color: hsl(34, 99%, 70%);
+    color: white;
     font-size: 2em;
     font-weight: 500;
+    text-decoration: none;
+    padding: 5px 20px;
+    
+    transition: background-color 0.25s;
   }
 
-  .home-popular-more {
-    font-size: 0.8em;
-    margin-left: auto;
-    text-decoration: underline;
-    color: inherit;
+  .home-explore-button:hover {
+    background-color: hsl(34, 99%, 60%);
   }
 
-  .home-popular-more:hover {
-    cursor: pointer;
-  }
-
-  .home-popular > hr {
-    margin-top: 2.5px;
-    margin-bottom: 25px;
-  }
-
-  .home-popular-grid {
+  .home-explore-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    grid-auto-rows: 500px;
-    gap: 10px;
+    grid-template-columns: repeat(10, minmax(200px, 1fr));
+    position: relative;
+    top: -50%;
+    filter: brightness(75%);
+    
+
+    transition: transform 0.2s ease-out; /* smoother movement */
+    will-change: transform; /* better performance hint */
+  }
+
+  .home-explore-grid img {
+    width: 100%;
+    height: 100%;
+  }
+
+  .home-explore-grid img:nth-child(2n) {
+    transform: translateY(-150px);
+  }
+
+  /*##############################
+  ||          REVIEWS           ||
+  ##############################*/
+  .home-reviews {
+    background-color: lightgrey;
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    text-align: center;
+    padding: 50px;
+  }
+
+  .home-review {
+    background-color: white;
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 20px;
+  }
+
+  .home-review-text {
+    font-size: clamp(10px, 2vw, 1.5em);
+    font-family: "cal sans";
+  }
+
+  .home-review:nth-child(2n) {
   }
 }
