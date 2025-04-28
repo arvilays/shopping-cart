@@ -105,8 +105,6 @@
     position: relative;
     top: -50%;
     filter: brightness(75%);
-    
-
     transition: transform 0.2s ease-out; /* smoother movement */
     will-change: transform; /* better performance hint */
   }
@@ -124,31 +122,77 @@
   ||          REVIEWS           ||
   ##############################*/
   .home-reviews {
-    background-color: lightgrey;
     display: flex;
+    flex-direction: column;
     align-items: center;
     gap: 50px;
     text-align: center;
-    padding: 50px;
+    margin-top: 20px;
+    padding: 50px 50px 80px 50px;
+  }
+
+  .home-reviews-title {
+    font-family: "cal sans";
+    font-size: 2.5em;
+  }
+
+  .home-reviews-collection {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
   }
 
   .home-review {
-    background-color: white;
     flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+  }
+
+  .home-review-text {
+    position: relative;
     display: flex;
     align-items: center;
     justify-content: center;
+    font-size: 1.5em;
+    font-family: "cal sans";
+    width: 100%;
     height: 200px;
     padding: 20px;
-    border: 1px solid black;
+    border: 2px solid black;
     border-radius: 20px;
+  }
+
+  .home-review-text::after {
+    content: "";
+    position: absolute;
+    bottom: -20px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-top: 20px solid black;
+  }
+
+  .home-review-avatar img {
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 50%;
+  }
+}
+
+@media only screen and (min-width: 700px) {
+  .home-reviews-collection {
+    flex-direction: row;
   }
 
   .home-review-text {
     font-size: clamp(10px, 2vw, 1.5em);
-    font-family: "cal sans";
   }
 
   .home-review:nth-child(2n) {
+    position: relative;
+    top: 30px;
   }
 }

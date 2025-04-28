@@ -101,7 +101,7 @@ function Footer() {
           <img src={logoImage} alt="mangakart" />
         </div>
         <div className="footer-credits-copyright">
-          &copy; 2025-20XX, Mangakart, A Totally Real Company
+          &copy; 2025-20XX, MangaKart, A Totally Real Company
         </div>
       </div>
     </footer>

@@ -26,7 +26,7 @@ function Search() {
 
   // Pagination states
   const [currentPage, setCurrentPage] = useState(1);
-  const itemsPerPage = 30; // Number of items per page
+  const itemsPerPage = 50; // Number of items per page
 
   // Generate list of unique genres
   const allGenres = storeData.length

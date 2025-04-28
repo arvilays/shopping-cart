@@ -5,6 +5,9 @@ import Carousel from "../components/Carousel";
 import ProductBar from "../components/ProductBar";
 import { shuffleArray } from "../helper";
 import logoImage from "../assets/logo.png";
+import avatar1Image from "../assets/avatar1.png";
+import avatar2Image from "../assets/avatar2.png";
+import avatar3Image from "../assets/avatar3.png";
 
 function Home() {
   const { storeData } = useOutletContext();
@@ -63,14 +66,26 @@ function Home() {
       />
 
       <div className="home-reviews">
-        <div className="home-review">
-          <div className="home-review-text">❝ I Naruto-ran to the door when my package arrived. 10/10 ❞</div>
-        </div>
-        <div className="home-review">
-          <div className="home-review-text">❝ Bought one volume, blacked out, woke up with a whole bookshelf. No regrets. Only manga. ❞</div>
-        </div>
-        <div className="home-review">
-          <div className="home-review-text">❝ If loving this store is wrong, throw me in Impel Down with Luffy. I'm loyal to the brand now. ❞</div>
+        <div className="home-reviews-title">🗣️Voices from the MangaKart Community</div>
+        <div className="home-reviews-collection">
+          <div className="home-review">
+            <div className="home-review-text">❝I Naruto-ran to the door when my package arrived. 10/10❞</div>
+            <div className="home-review-avatar">
+              <img src={avatar1Image} alt="review avatar" />
+            </div>
+          </div>
+          <div className="home-review">
+            <div className="home-review-text">❝Bought one volume, blacked out, woke up with a whole bookshelf. No regrets. Only manga.❞</div>
+            <div className="home-review-avatar">
+              <img src={avatar2Image} alt="review avatar" />
+            </div>
+          </div>
+          <div className="home-review">
+            <div className="home-review-text">❝If loving this store is wrong, throw me in Impel Down with Luffy. I'm loyal to the brand now.❞</div>
+            <div className="home-review-avatar">
+              <img src={avatar3Image} alt="review avatar" />
+            </div>
+          </div>
         </div>
       </div>
     </main>
