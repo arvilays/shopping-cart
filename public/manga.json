@@ -11,7 +11,7 @@
       "Humanity, having faced extinction at the end of the 20th century, would not have entered the new millennium if it weren’t for them. In 1969, during their youth, they created a symbol. In 1997, as the coming disaster slowly starts to unfold, that symbol returns. This is the story of a group of boys who try to save the world."
     ],
     "price": 22.99,
-    "coverImage": "../public/covers/20thcenturyboysperfect-v1.jpg"
+    "coverImage": "/covers/20thcenturyboysperfect-v1.jpg"
   },
   {
     "id": "SILENTVOICE-V1",
@@ -24,7 +24,7 @@
       "Shoya is a bully. When Shoko, a girl who can’t hear, enters his elementary school class, she becomes their favorite target, and Shoya and his friends goad each other into devising new tortures for her. But the children’s cruelty goes too far. Shoko is forced to leave the school, and Shoya ends up shouldering all the blame. Six years later, the two meet again. Can Shoya make up for his past mistakes, or is it too late?"
     ],
     "price": 10.99,
-    "coverImage": "../public/covers/asilentvoice-v1.jpg"
+    "coverImage": "/covers/asilentvoice-v1.jpg"
   },
   {
     "id": "AOT-V1",
@@ -39,7 +39,7 @@
       "The megahit Attack on Titan anime finally returns, streaming on April 1!"
     ],
     "price": 10.99,
-    "coverImage": "../public/covers/attackontitan-v1.jpg"
+    "coverImage": "/covers/attackontitan-v1.jpg"
   },
   {
     "id": "BEASTARS-V1",
@@ -54,7 +54,7 @@
       "One night at Cherryton Academy, an herbivore student is brutally murdered. Among the members of the Drama Club, the herbivores’ suspicions naturally turn to their carnivore classmates… The prime suspect? Gray wolf Legoshi. But he wouldn’t hurt a fly. Or would he? Will dwarf rabbit Haru bring out the beast in him? Or are his feelings for her…something else?"
     ],
     "price": 12.99,
-    "coverImage": "../public/covers/beastars-v1.jpg"
+    "coverImage": "/covers/beastars-v1.jpg"
   },
   {
     "id": "BLAME-V1",
@@ -67,7 +67,7 @@
       "In a future version of Earth, there is a city grown so chaotically massive that its inhabitants no longer recall what \"land\" is. Within this megastructure the silent, stoic Kyrii is on a mission to find the Net Terminal Gene—a genetic mutation that once allowed humans to access the cybernetic NetSphere. Armed with a powerful Graviton Beam Emitter, Kyrii fends off waves of attacks from fellow humans, cyborgs and silicon-based lifeforms. Along the way, he encounters a highly-skilled scientist whose body has deteriorated from a lengthy imprisonment who promises to help Kyrii find the Net Terminal Gene, once she settles a score for herself..."
     ],
     "price": 19.99,
-    "coverImage": "../public/covers/blame-v1.jpg"
+    "coverImage": "/covers/blame-v1.jpg"
   },
   {
     "id": "BERSERK-V1",
@@ -80,7 +80,7 @@
       "Created by Kentaro Miura, Berserk is manga mayhem to the extreme - violent, horrifying, and mercilessly funny - and the wellspring for the internationally popular anime series. Not for the squeamish or the easily offended, Berserk asks for no quarter - and offers none! His name is Guts, the Black Swordsman, a feared warrior spoken of only in whispers. Bearer of a gigantic sword, an iron hand, and the scars of countless battles and tortures, his flesh is also indelibly marked with The Brand, an unholy symbol that draws the forces of darkness to him and dooms him as their sacrifice. But Guts won't take his fate lying down; he'll cut a crimson swath of carnage through the ranks of the damned - and anyone else foolish enough to oppose him! Accompanied by Puck the Elf, more an annoyance than a companion, Guts relentlessly follows a dark, bloodstained path that leads only to death...or vengeance."
     ],
     "price": 14.99,
-    "coverImage": "../public/covers/berserk-v1.jpg"
+    "coverImage": "/covers/berserk-v1.jpg"
   },
   {
     "id": "BLEACH-V1",
@@ -95,7 +95,7 @@
       "Ichigo Kurosaki has always been able to see ghosts, but this ability doesn't change his life nearly as much as his close encounter with Rukia Kuchiki, a Soul Reaper and member of the mysterious Soul Society. While fighting a Hollow, an evil spirit that preys on humans who display psychic energy, Rukia attempts to lend Ichigo some of her powers so that he can save his family; but much to her surprise, Ichigo absorbs every last drop of her energy. Now a full-fledged Soul Reaper himself, Ichigo quickly learns that the world he inhabits is one full of dangerous spirits and, along with Rukia--who is slowly regaining her powers--it's Ichigo's job to protect the innocent from Hollows and help the spirits themselves find peace."
     ],
     "price": 11.99,
-    "coverImage": "../public/covers/bleach-v1.jpg"
+    "coverImage": "/covers/bleach-v1.jpg"
   },
   {
     "id": "BLUEPERIOD-V1",
@@ -109,7 +109,7 @@
       "Yatora is the perfect high school student, with good grades and lots of friends. It's an effortless performance, and, ultimately... a dull one. But he wanders into the art room one day, and a lone painting captures his eye, awakening him to a kind of beauty he never knew. Compelled and consumed, he dives in headfirst--and he's about to learn how savage and unforgiving art can be..."
     ],
     "price": 12.99,
-    "coverImage": "../public/covers/blueperiod-v1.jpg"
+    "coverImage": "/covers/blueperiod-v1.jpg"
   },
   {
     "id": "CSM-V1",
@@ -124,7 +124,7 @@
       "Denji’s a poor young man who’ll do anything for money, even hunting down devils with his pet devil Pochita. He’s a simple man with simple dreams, drowning under a mountain of debt. But his sad life gets turned upside down one day when he’s betrayed by someone he trusts. Now with the power of a devil inside him, Denji’s become a whole new man—Chainsaw Man!"
     ],
     "price": 11.99,
-    "coverImage": "../public/covers/chainsawman-v1.jpg"
+    "coverImage": "/covers/chainsawman-v1.jpg"
   },
   {
     "id": "DANDADAN-V1",
@@ -139,7 +139,7 @@
       "Momo Ayase strikes up an unusual friendship with her school’s UFO fanatic, whom she nicknames “Okarun” because he has a name that is not to be said aloud. While Momo believes in spirits, she thinks aliens are nothing but nonsense. Her new friend, meanwhile, thinks the exact opposite. To settle matters, the two set out to prove each other wrong—Momo to a UFO hotspot and Okarun to a haunted tunnel! What unfolds next is a beautiful story of young love…and oddly horny aliens and spirits?"
     ],
     "price": 11.99,
-    "coverImage": "../public/covers/dandadan-v1.jpg"
+    "coverImage": "/covers/dandadan-v1.jpg"
   },
   {
     "id": "DEATHNOTE-V1",
@@ -154,7 +154,7 @@
       "Light tests the boundaries of the Death Note's powers as L and the police begin to close in. Luckily Light's father is the head of the Japanese National Police Agency and leaves vital information about the case lying around the house. With access to his father's files, Light can keep one step ahead of the authorities. But who is the strange man following him, and how can Light guard against enemies whose names he doesn't know?"
     ],
     "price": 11.99,
-    "coverImage": "../public/covers/deathnote-v1.jpg"
+    "coverImage": "/covers/deathnote-v1.jpg"
   },
   {
     "id": "DELICIOUS-V1",
@@ -171,7 +171,7 @@
       "When young adventurer Laios and his company are attacked and soundly thrashed by a dragon deep in a dungeon, the party loses all its money and provisions...and a member! They're eager to go back and save her, but there is just one problem: If they set out with no food or coin to speak of, they're sure to starve on the way! But Laios comes up with a brilliant idea: \"Let's eat the monsters!\" Slimes, basilisks, and even dragons...none are safe from the appetites of these dungeon-crawling gourmands!"
     ],
     "price": 14.99,
-    "coverImage": "../public/covers/deliciousindungeon-v1.jpg"
+    "coverImage": "/covers/deliciousindungeon-v1.jpg"
   },
   {
     "id": "DELICIOUS-V10",
@@ -184,7 +184,7 @@
       "Led to Sissel’s threshold by the winged lion imprisoned within it, Laios and friends steel themselves for…some heavy-duty cleaning?! Sissel’s seemingly innocuous cottage is piled with clutter, hindering both their search for the lion and their meal prep! Once satiated, the party hastily lays plans for Falin’s rescue. However, here in the depths of the dungeon, even the cutest residents have a vicious streak a mile wide!"
     ],
     "price": 14.99,
-    "coverImage": "../public/covers/deliciousindungeon-v10.jpg"
+    "coverImage": "/covers/deliciousindungeon-v10.jpg"
   },
   {
     "id": "DELICIOUS-V11",
@@ -197,7 +197,7 @@
       "Locked in battle with the Lunatic Magician, Laios is the last man standing against an array of the dungeon’s deadliest dragons. Using his extensive monster knowledge to his advantage, Laios manages to defy the odds of almost certain death—at least until Sissel devises an even more terrible plan! Will Laios’s love of dungeon dining prove to be his downfall?"
     ],
     "price": 14.99,
-    "coverImage": "../public/covers/deliciousindungeon-v11.jpg"
+    "coverImage": "/covers/deliciousindungeon-v11.jpg"
   },
   {
     "id": "DELICIOUS-V12",
@@ -210,7 +210,7 @@
       "In her first hours as lord of the dungeon, Marcille has completely transformed the dungeon’s layout, sending hordes of monsters from the deepest floors—as well as several of her own making—hurtling dangerously close to the surface. Though the demon’s influence is strong, Laios has a surefire way to reach Marcille: through her stomach! Drawn from fondly remembered flavors, will Senshi’s ultimate culinary creation be enough to break through to their friend?!"
     ],
     "price": 14.99,
-    "coverImage": "../public/covers/deliciousindungeon-v12.jpg"
+    "coverImage": "/covers/deliciousindungeon-v12.jpg"
   },
   {
     "id": "DELICIOUS-V13",
@@ -223,7 +223,7 @@
       "Though the party succeeded in breaking Marcille free from the dungeon’s influence, the winged lion remains at large. Should the demon escape to the surface, its all-powerful manifestation will surely grow to feast upon the world—and the desires of all who live in it! Laios has one last all-or-nothing plan up his sleeve to sate the beast and save his sister, but will his own deepest desires unleash an even greater monster first?"
     ],
     "price": 14.99,
-    "coverImage": "../public/covers/deliciousindungeon-v13.jpg"
+    "coverImage": "/covers/deliciousindungeon-v13.jpg"
   },
   {
     "id": "DELICIOUS-V14",
@@ -236,7 +236,7 @@
       "Laios’s plan to overcome the demon seems to have worked—but at great physical cost to his monstrous form. As the dungeon crumbles around them, his friends are forced to leave him behind in a race to escape. Even with the demon out of the picture, the people of the Golden Country are still trapped in the dungeon depths, and Falin remains a chimera. Plus, all this running around is really working up an appetite…! Join our heroes for the ultimate feast in the final volume of Delicious in Dungeon!"
     ],
     "price": 14.99,
-    "coverImage": "../public/covers/deliciousindungeon-v14.jpg"
+    "coverImage": "/covers/deliciousindungeon-v14.jpg"
   },
   {
     "id": "DELICIOUS-V2",
@@ -249,7 +249,7 @@
       "With the possibility of starvation as a constant companion, Laios's party continues advancing deeper into the dungeon. The adventurers have made it to the third floor, but only rotting zombies, ghastly spirits, living paintings, and golems await them--all of which are absolutely inedible. The party has come this far by adapting and learning how to live off the dubious bounties of the dungeon. But how will they manage when even the meanest monster won't make a decent meal?"
     ],
     "price": 14.99,
-    "coverImage": "../public/covers/deliciousindungeon-v2.jpg"
+    "coverImage": "/covers/deliciousindungeon-v2.jpg"
   },
   {
     "id": "DELICIOUS-V3",
@@ -262,7 +262,7 @@
       "New dangers and new recipes await the party in the third installment of the utterly unique and endearing Delicious in Dungeon!"
     ],
     "price": 14.99,
-    "coverImage": "../public/covers/deliciousindungeon-v3.jpg"
+    "coverImage": "/covers/deliciousindungeon-v3.jpg"
   },
   {
     "id": "DELICIOUS-V4",
@@ -275,7 +275,7 @@
       "The time has come! Showdown with the Red Dragon!!! After finally reaching the fifth floor, it's time for the adventurers to face their greatest challenge yet. They're putting their lives on to the line in a fight with a monster with crimson hide that turns away even the toughest steel and a fiery breath that turns even bones to ash. Can they save Laios's sister? ...And maybe just as importantly, can they eat dragon meat?!?"
     ],
     "price": 14.99,
-    "coverImage": "../public/covers/deliciousindungeon-v4.jpg"
+    "coverImage": "/covers/deliciousindungeon-v4.jpg"
   },
   {
     "id": "DELICIOUS-V5",
@@ -288,7 +288,7 @@
       "The party has defeated the Red Dragon and rescued Farin! But their quest won't be finished until they make it back out of the dungeon unscathed. The adventure's not complete until everyone returns alive...and full!"
     ],
     "price": 14.99,
-    "coverImage": "../public/covers/deliciousindungeon-v5.jpg"
+    "coverImage": "/covers/deliciousindungeon-v5.jpg"
   },
   {
     "id": "DELICIOUS-V6",
@@ -301,7 +301,7 @@
       "Old companions reunited in the dungeon...Will ex-comrads be able to work together in the rescue of Falin from the Lunatic Magician? Will a shared meal manage to right past wrongs?"
     ],
     "price": 14.99,
-    "coverImage": "../public/covers/deliciousindungeon-v6.jpg"
+    "coverImage": "/covers/deliciousindungeon-v6.jpg"
   },
   {
     "id": "DELICIOUS-V7",
@@ -314,7 +314,7 @@
       "Massive changes in the dungeon have drawn out new monsters for Laios and his party to take on—and taste! But the shift has attracted the attention of the western elves, whose intervention could spell further trouble not only for Laios, but also for everyone on the island! Facing the threat of the Lunatic Magician from within and the elves from without, the adventurers must rally as a team like never before, especially when forced to confront a beast straight out of Senshi’s nightmares!"
     ],
     "price": 14.99,
-    "coverImage": "../public/covers/deliciousindungeon-v7.jpg"
+    "coverImage": "/covers/deliciousindungeon-v7.jpg"
   },
   {
     "id": "DELICIOUS-V8",
@@ -327,7 +327,7 @@
       "In the dungeon, one false step can be the difference between life and death…or elf and dwarf?! The changeling mushrooms have done their work, leaving Laios and company radically altered, transformed from one race to another! The journey into the heart of the dungeon was never going to be easy, but with new senses, strengths, and statures to contend with, the mission seems more daunting than ever. Thankfully their sense of taste doesn’t seem to have been affected!!"
     ],
     "price": 14.99,
-    "coverImage": "../public/covers/deliciousindungeon-v8.jpg"
+    "coverImage": "/covers/deliciousindungeon-v8.jpg"
   },
   {
     "id": "DELICIOUS-V9",
@@ -340,7 +340,7 @@
       "Laios nears the bottom of the dungeon and his inevitable confrontation with Sissel, the lunatic lord of its labyrinthine halls. In a succubus-induced slumber, Laios comes face-to-face with the winged lion, the source of Sissel’s power. Laios knows only that the lion is held captive by Sissel in the dungeon’s depths, but it could be the Canaries know a great deal more…With their centuries of experience, the elves’ knowledge could shed some light on the truth of the dungeon and its master-or prove to be Laios’s undoing…!"
     ],
     "price": 14.99,
-    "coverImage": "../public/covers/deliciousindungeon-v9.jpg"
+    "coverImage": "/covers/deliciousindungeon-v9.jpg"
   },
   {
     "id": "DEMONSLAYER-V1",
@@ -355,7 +355,7 @@
       "Learning to destroy demons won’t be easy, and Tanjiro barely knows where to start. The surprise appearance of another boy named Giyu, who seems to know what’s going on, might provide some answers—but only if Tanjiro can stop Giyu from killing his sister first!"
     ],
     "price": 11.99,
-    "coverImage": "../public/covers/demonslayer-v1.jpg"
+    "coverImage": "/covers/demonslayer-v1.jpg"
   },
   {
     "id": "DOROHEDORO-V1",
@@ -369,7 +369,7 @@
       "In a city so dismal it's known only as \"the Hole,\" a clan of Sorcerers have been plucking people off the streets to use as guinea pigs for atrocious \"experiments\" in the black arts. In a dark alley, Nikaido found Caiman, a man with a reptile head and a bad case of amnesia. To undo the spell, they're hunting and killing the Sorcerers in the Hole, hoping that eventually they'll kill the right one. But when En, the head Sorcerer, gets word of a lizard-man slaughtering his people, he sends a crew of \"cleaners\" into the Hole, igniting a war between two worlds."
     ],
     "price": 16.99,
-    "coverImage": "../public/covers/dorohedoro-v1.jpg"
+    "coverImage": "/covers/dorohedoro-v1.jpg"
   },
   {
     "id": "DB-V1",
@@ -384,7 +384,7 @@
       "Before there was Dragon Ball Z, there was Akira Toriyama's action epic Dragon Ball, starring the younger version of Son Goku and all the other Dragon Ball Z heroes! Meet a naive young monkey-tailed boy named Goku, whose quiet life changes when he meets Bulma, a girl who is on a quest to collect seven \"Dragon Balls.\" If she gathers them all, an incredibly powerful dragon will appear and grant her one wish. But the precious orbs are scattered all over the world, and Bulma needs Goku's help (and his super-strength)! With a magic staff for a weapon and a flying cloud for a ride, Goku sets out on the adventure of a lifetime..."
     ],
     "price": 11.99,
-    "coverImage": "../public/covers/dragonball-v1.jpg"
+    "coverImage": "/covers/dragonball-v1.jpg"
   },
   {
     "id": "FIREPUNCH-V1",
@@ -399,7 +399,7 @@
       "Orphaned siblings Agni and Luna, like the Ice Witch who cursed their world, are two of the “blessed,” humans who hold special abilities. However, not all who are blessed are friendly, and after another of their kind attacks Agni and decimates the orphans' village, Agni fights to survive, vowing revenge."
     ],
     "price": 14.99,
-    "coverImage": "../public/covers/firepunch-v1.jpg"
+    "coverImage": "/covers/firepunch-v1.jpg"
   },
   {
     "id": "FRIEREN-V1",
@@ -414,7 +414,7 @@
       "Decades after their victory, the funeral of one her friends confronts Frieren with her own near immortality. Frieren sets out to fulfill the last wishes of her comrades and finds herself beginning a new adventure…"
     ],
     "price": 11.99,
-    "coverImage": "../public/covers/frieren-v1.jpg"
+    "coverImage": "/covers/frieren-v1.jpg"
   },
   {
     "id": "FMA-V1",
@@ -429,7 +429,7 @@
       "Alchemy: the mystical power to alter the natural world; something between magic, art and science. When two brothers, Edward and Alphonse Elric, dabbled in this power to grant their dearest wish, one of them lost an arm and a leg…and the other became nothing but a soul locked into a body of living steel. Now Edward is an agent of the government, a slave of the military-alchemical complex, using his unique powers to obey orders…even to kill. Except his powers aren't unique. The world has been ravaged by the abuse of alchemy. And in pursuit of the ultimate alchemical treasure, the Philosopher's Stone, their enemies are even more ruthless than they are…"
     ],
     "price": 11.99,
-    "coverImage": "../public/covers/fullmetalalchemist-v1.jpg"
+    "coverImage": "/covers/fullmetalalchemist-v1.jpg"
   },
   {
     "id": "GOLDENKAMUY-V1",
@@ -444,7 +444,7 @@
       "In the early twentieth century, Russo-Japanese War veteran Saichi “Immortal” Sugimoto scratches out a meager existence during the postwar gold rush in the wilderness of Hokkaido. When he stumbles across a map to a fortune in hidden Ainu gold, he sets off on a treacherous quest to find it. But Sugimoto is not the only interested party, and everyone who knows about the gold will kill to possess it! Faced with the harsh conditions of the northern wilderness, ruthless criminals and rogue Japanese soldiers, Sugimoto will need all his skills and luck—and the help of an Ainu girl named Asirpa—to survive."
     ],
     "price": 14.99,
-    "coverImage": "../public/covers/goldenkamuy-v1.jpg"
+    "coverImage": "/covers/goldenkamuy-v1.jpg"
   },
   {
     "id": "GOODBYEERI",
@@ -460,7 +460,7 @@
       "Yuta’s moviemaking career started with a request from his mother to record her final moments. After her death, Yuta meets a mysterious girl named Eri, who takes his life in new directions. The two begin creating a movie together, but Eri is harboring an explosive secret."
     ],
     "price": 14.99,
-    "coverImage": "../public/covers/goodbyeeri.jpg"
+    "coverImage": "/covers/goodbyeeri.jpg"
   },
   {
     "id": "PUNPUN-V1",
@@ -479,7 +479,7 @@
       "That’s what he wants, but what does he get…?"
     ],
     "price": 24.99,
-    "coverImage": "../public/covers/goodnightpunpun-v1.jpg"
+    "coverImage": "/covers/goodnightpunpun-v1.jpg"
   },
   {
     "id": "HAIKYU-V1",
@@ -494,7 +494,7 @@
       "After losing his first and last volleyball match against Tobio Kageyama, “the King of the Court,” Shoyo Hinata swears to become his rival after graduating middle school. But what happens when the guy he wants to defeat ends up being his teammate?!"
     ],
     "price": 11.99,
-    "coverImage": "../public/covers/haikyu-v1.jpg"
+    "coverImage": "/covers/haikyu-v1.jpg"
   },
   {
     "id": "HXH-V1",
@@ -510,7 +510,7 @@
       "Having survived the terrors of the high seas, Gon and his companions now have to prove their worth in a variety of tests in order to find the elusive Exam Hall. And once they get there, will they ever leave alive...?"
     ],
     "price": 11.99,
-    "coverImage": "../public/covers/hunterxhunter-v1.jpg"
+    "coverImage": "/covers/hunterxhunter-v1.jpg"
   },
   {
     "id": "JOJO7-V1",
@@ -525,7 +525,7 @@
       "Riders from around the world gather in the Wild West for the race of the century! Johnny Joestar, a former jockey paralyzed from the waist down, comes to spectate, and momentarily regains the ability to walk while watching a duel fought by Gyro Zeppeli. Desperate to learn more about this power, Johnny joins the race alongside Gyro and embarks on the most epic and bizarre race to ever cross the American frontier!"
     ],
     "price": 24.99,
-    "coverImage": "../public/covers/jojopart7-v1.jpg"
+    "coverImage": "/covers/jojopart7-v1.jpg"
   },
   {
     "id": "JJK-V1",
@@ -540,7 +540,7 @@
       "Although Yuji Itadori looks like your average teenager, his immense physical strength is something to behold! Every sports club wants him to join, but Itadori would rather hang out with the school outcasts in the Occult Research Club. One day, the club manages to get their hands on a sealed cursed object. Little do they know the terror they’ll unleash when they break the seal…"
     ],
     "price": 11.99,
-    "coverImage": "../public/covers/jujutsukaisen-v1.jpg"
+    "coverImage": "/covers/jujutsukaisen-v1.jpg"
   },
   {
     "id": "KAKEGURUI-V1",
@@ -557,7 +557,7 @@
       "Hyakkaou Private Academy. An institution for the privileged with a very peculiar curriculum. You see, when you're the sons and daughters of the wealthiest of the wealthy, it's not athletic prowess or book smarts that keep you ahead. It's reading your opponent-the art of the deal. What better way to hone those skills than with a rigorous curriculum of gambling? At Hyakkaou Private Academy, the winners live like kings, and the losers are put through the wringer. But when Yumeko Jabami enrolls, she's gonna teach these kids what a high roller really looks like!"
     ],
     "price": 14.99,
-    "coverImage": "../public/covers/kakegurui-v1.jpg"
+    "coverImage": "/covers/kakegurui-v1.jpg"
   },
   {
     "id": "LUSTROUS-V1",
@@ -572,7 +572,7 @@
       "In a world inhabited by crystalline lifeforms called The Lustrous, every unique gem must fight for their way of life against the threat of lunarians who would turn them into decorations. Phosphophyllite, the most fragile and brittle of gems, longs to join the battle. When Phos is instead assigned to complete a natural history of their world, it sounds like a dull and pointless task. But this new job brings Phos into contact with Cinnabar, a gem forced to live in isolation. Can Phos's seemingly mundane assignment lead both Phos and Cinnabar to the fulfillment they desire?"
     ],
     "price": 12.99,
-    "coverImage": "../public/covers/landofthelustrous-v1.jpg"
+    "coverImage": "/covers/landofthelustrous-v1.jpg"
   },
   {
     "id": "LOOKBACK",
@@ -586,7 +586,7 @@
       "The overly confident Fujino and the shut-in Kyomoto couldn’t be more different, but a love of drawing manga brings these two small-town girls together. A poignant story of growing up and moving forward that only Tatsuki Fujimoto, the creator of Chainsaw Man, could have crafted."
     ],
     "price": 14.99,
-    "coverImage": "../public/covers/lookback.jpg"
+    "coverImage": "/covers/lookback.jpg"
   },
   {
     "id": "MP100-V1",
@@ -600,7 +600,7 @@
       "What's his secret to busting ghosts while keeping prices low? Well, first, he's a fraud, and second, he pays the guy who's got the real psychic power--his student assistant Shigeo--less than minimum wage. Shigeo is an awkward but kind boy whose urge to help others and get along with them is bound up with the mental safety locks he's placed on his own emotions. Reigen knows he needs to exploit Shigeo to stay in business, yet for better or worse he's also his mentor and counselor. And he also knows whenever the normally repressed kid's emotions reach level 100, it may unleash more psychic energy than either of them can handle!"
     ],
     "price": 11.99,
-    "coverImage": "../public/covers/mobpsycho100-v1.jpg"
+    "coverImage": "/covers/mobpsycho100-v1.jpg"
   },
   {
     "id": "MONSTERP-V1",
@@ -615,7 +615,7 @@
       "Everyone faces uncertainty at some point in their lives. Even a brilliant surgeon like Kenzo Tenma is no exception. But there’s no way he could have known that his decision to stop chasing professional success and instead concentrate on his oath to save peoples’ lives would result in the birth of an abomination. The questions of good and evil now take on a terrifyingly real dimension."
     ],
     "price": 22.99,
-    "coverImage": "../public/covers/monsterperfect-v1.jpg"
+    "coverImage": "/covers/monsterperfect-v1.jpg"
   },
   {
     "id": "MHA-V1",
@@ -630,7 +630,7 @@
       "Middle school student Izuku Midoriya wants to be a hero more than anything, but he hasn’t got an ounce of power in him. With no chance of ever getting into the prestigious U.A. High School for budding heroes, his life is looking more and more like a dead end. Then an encounter with All Might, the greatest hero of them all, gives him a chance to change his destiny…"
     ],
     "price": 11.99,
-    "coverImage": "../public/covers/myheroacademia-v1.jpg"
+    "coverImage": "/covers/myheroacademia-v1.jpg"
   },
   {
     "id": "NANA-V1",
@@ -647,7 +647,7 @@
       "This is the story of two 20-year-old women who share the same name. Even though they come from completely different backgrounds, they somehow meet and become best friends. The world of Nana is a world exploding with sex, music, fashion, gossip and all-night parties."
     ],
     "price": 11.99,
-    "coverImage": "../public/covers/nana-v1.jpg"
+    "coverImage": "/covers/nana-v1.jpg"
   },
   {
     "id": "NARUTO-V1",
@@ -662,7 +662,7 @@
       "Twelve years ago the Village Hidden in the Leaves was attacked by a fearsome threat. A nine-tailed fox spirit claimed the life of the village leader, the Hokage, and many others. Today, the village is at peace and a troublemaking kid named Naruto is struggling to graduate from Ninja Academy. His goal may be to become the next Hokage, but his true destiny will be much more complicated. The adventure begins now!"
     ],
     "price": 11.99,
-    "coverImage": "../public/covers/naruto-v1.jpg"
+    "coverImage": "/covers/naruto-v1.jpg"
   },
   {
     "id": "OP-V1",
@@ -676,7 +676,7 @@
       "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world..."
     ],
     "price": 11.99,
-    "coverImage": "../public/covers/onepiece-v1.jpg"
+    "coverImage": "/covers/onepiece-v1.jpg"
   },
   {
     "id": "OPM-V1",
@@ -691,7 +691,7 @@
       "Every time a promising villain appears, Saitama beats the snot out of ’em with one punch! Can he finally find an opponent who can go toe-to-toe with him and give his life some meaning? Or is he doomed to a life of superpowered boredom?"
     ],
     "price": 11.99,
-    "coverImage": "../public/covers/onepunchman-v1.jpg"
+    "coverImage": "/covers/onepunchman-v1.jpg"
   },
   {
     "id": "REAL-V1",
@@ -706,7 +706,7 @@
       "A motorcycle accident, bone cancer, a speeding truck crashing into a boy on a stolen bicycle--tragic life-changing events turn the worlds of three young men upside down. These three very different personalities have only one thing in common--their passion for basketball."
     ],
     "price": 16.99,
-    "coverImage": "../public/covers/real-v1.jpg"
+    "coverImage": "/covers/real-v1.jpg"
   },
   {
     "id": "SAILORMOON-V1",
@@ -720,7 +720,7 @@
       "Teenager Usagi is not the best athlete, she's never gotten good grades, and, well, she's a bit of a crybaby. But when she meets a talking cat, she begins a journey that will teach her she has a well of great strength just beneath the surface and the heart to inspire and stand up for her friends as Sailor Moon! The original Sailor Moon in a new, affordable edition."
     ],
     "price": 12.99,
-    "coverImage": "../public/covers/sailormoon-v1.jpg"
+    "coverImage": "/covers/sailormoon-v1.jpg"
   },
   {
     "id": "SKIPANDLOAFER-V1",
@@ -734,7 +734,7 @@
       "Mitsumi is bound for high school in Tokyo! She's got book smarts, but this small-town girl is about to find out she's massively unprepared for the social norms of big city high schoolers."
     ],
     "price": 12.99,
-    "coverImage": "../public/covers/skipandloafer-v1.jpg"
+    "coverImage": "/covers/skipandloafer-v1.jpg"
   },
   {
     "id": "SLAMDUNK-V1",
@@ -750,7 +750,7 @@
       "Hanamichi Sakuragi's got no game with girls--none at all! It doesn't help that he's known for throwing down at a moment's notice and always coming out on top. A hopeless bruiser, he's been rejected by 50 girls in a row! All that changes when he meets the girl of his dreams, Haruko, and she's actually not afraid of him! When she introduces him to the game of basketball, his life is changed forever..."
     ],
     "price": 11.99,
-    "coverImage": "../public/covers/slamdunk-v1.jpg"
+    "coverImage": "/covers/slamdunk-v1.jpg"
   },
   {
     "id": "SOLOLEVELING-V1",
@@ -769,7 +769,7 @@
       "Known as the Weakest Hunter of All Mankind, E-rank hunter Jinwoo Sung’s contribution to raids amounts to trying not to get killed. Unfortunately, between his mother’s hospital bills, his sister’s tuition, and his own lack of job prospects, he has no choice but to continue to put his life on the line. So when an opportunity arises for a bigger payout, he takes it…only to come face-to-face with a being whose power outranks anything he’s ever seen! With the party leader missing an arm and the only healer a quivering mess, can Jinwoo some­how find them a way out?"
     ],
     "price": 19.99,
-    "coverImage": "../public/covers/sololeveling-v1.jpg"
+    "coverImage": "/covers/sololeveling-v1.jpg"
   },
   {
     "id": "SXF-V1",
@@ -784,7 +784,7 @@
       "Not one to depend on others, Twilight has his work cut out for him procuring both a wife and a child for his mission to infiltrate an elite private school. What he doesn’t know is that the wife he’s chosen is an assassin and the child he’s adopted is a telepath!"
     ],
     "price": 11.99,
-    "coverImage": "../public/covers/spyxfamily-v1.jpg"
+    "coverImage": "/covers/spyxfamily-v1.jpg"
   },
   {
     "id": "CLIMBER-V1",
@@ -804,7 +804,7 @@
       "Transfer student Buntaro Mori starts his first day at his new school already on the administration’s radar. He’s withdrawn and sullen, and the teachers are just waiting for him to explode. When his annoying classmate Miyamoto promises to leave him alone forever if he climbs to the top of the school, Mori eagerly takes up the challenge and shocks everyone when he makes it all the way to the roof. Flushed with the victory of his first successful climb, Mori can’t resist the lure of the local peak, despite warnings from more experienced climbers about the risks of climbing alone. But Mori doesn’t care. A little danger is nothing in the face of his new obsession."
     ],
     "price": 22.99,
-    "coverImage": "../public/covers/climber-v1.jpg"
+    "coverImage": "/covers/climber-v1.jpg"
   },
   {
     "id": "ETERNITY-V1",
@@ -818,7 +818,7 @@
       "A lonely boy wandering the desolate tundra meets a wolf, and the two become fast friends, depending on each other to survive the harsh environment. But the boy has a history, and the wolf is more than meets the eye as well... To Your Eternity is a totally unique and moving manga about death, life, reincarnation, and the nature of love."
     ],
     "price": 12.99,
-    "coverImage": "../public/covers/eternity-v1.jpg"
+    "coverImage": "/covers/eternity-v1.jpg"
   },
   {
     "id": "TKG-V1",
@@ -833,7 +833,7 @@
       "Shy Ken Kaneki is thrilled to go on a date with the beautiful Rize. But it turns out that she’s only interested in his body—eating it, that is. When a morally questionable rescue transforms him into the first half-human half-Ghoul hybrid, Ken is drawn into the dark and violent world of Ghouls, which exists alongside our own."
     ],
     "price": 14.99,
-    "coverImage": "../public/covers/tokyoghoul-v1.jpg"
+    "coverImage": "/covers/tokyoghoul-v1.jpg"
   },
   {
     "id": "UZUMAKI",
@@ -847,7 +847,7 @@
       "Kurouzu-cho, a small fogbound town on the coast of Japan, is cursed. According to Shuichi Saito, the withdrawn boyfriend of teenager Kirie Goshima, their town is haunted not by a person or being but a pattern: UZUMAKI, the spiral—the hypnotic secret shape of the world. The bizarre masterpiece horror manga is now available all in a single volume. Fall into a whirlpool of terror!"
     ],
     "price": 34.99,
-    "coverImage": "../public/covers/uzumaki.jpg"
+    "coverImage": "/covers/uzumaki.jpg"
   },
   {
     "id": "VINLAND-V1",
@@ -860,7 +860,7 @@
       "As a child, Thorfinn sat at the feet of the great Leif Ericson and thrilled to wild tales of a land far to the west. But his youthful fantasies were shattered by a mercenary raid. Raised by the Vikings who murdered his family, Thorfinn became a terrifying warrior, forever seeking to kill the band's leader, Askeladd, and avenge his father. Sustaining Thorfinn through his ordeal are his pride in his family and his dreams of a fertile westward land, a land without war or slavery...the land Leif called Vinland."
     ],
     "price": 19.99,
-    "coverImage": "../public/covers/vinlandsaga-v1.jpg"
+    "coverImage": "/covers/vinlandsaga-v1.jpg"
   },
   {
     "id": "WITCHHAT-V1",
@@ -874,7 +874,7 @@
       "In a world where everyone takes wonders like magic spells and dragons for granted, Coco is a girl with a simple dream: She wants to be a witch. But everybody knows magicians are born, not made, and Coco was not born with a gift for magic. Resigned to her un-magical life, Coco is about to give up on her dream to become a witch...until the day she meets Qifrey, a mysterious, traveling magician. After secretly seeing Qifrey perform magic in a way she's never seen before, Coco soon learns what everybody \"knows\" might not be the truth, and discovers that her magical dream may not be as far away as it may seem..."
     ],
     "price": 12.99,
-    "coverImage": "../public/covers/witchhatatelier-v1.jpg"
+    "coverImage": "/covers/witchhatatelier-v1.jpg"
   },
   {
     "id": "YOTSUBA-V1",
@@ -887,7 +887,7 @@
       "Hello! This is Koiwai Yotsuba, Yotsuba Koiwai...um, YOTSUBA! Yotsuba moved with Daddy to a new house from our old house waaaaaaay over there! And moving's fun 'cos people wave! (Ohhhh!!) And Yotsuba met these nice people next door and made friends to play with (one of 'em acted like one of those bad strangers Daddy told Yotsuba not to go with, but it was okay in the end). I hope we get to play a lot. And eat ice cream! And-and-and...oh yeah! You should come play with Yotsuba too!"
     ],
     "price": 12.99,
-    "coverImage": "../public/covers/yotsuba-v1.jpg"
+    "coverImage": "/covers/yotsuba-v1.jpg"
   },
   {
     "id": "FIREPUNCH-V2",
@@ -902,7 +902,7 @@
       "Following the fight with his longtime enemy Doma, Agni is beheaded, and it’s decided that his head is to be taken to the sea. However, during the journey, a mysterious person named Togata appears, and their madness-tainted filming begins!"
     ],
     "price": 14.99,
-    "coverImage": "../public/covers/firepunch-v2.jpg"
+    "coverImage": "/covers/firepunch-v2.jpg"
   },
   {
     "id": "FIREPUNCH-V3",
@@ -917,7 +917,7 @@
       "After receiving Togata's upgrade, Agni heads to Behemdorg to exact his vengeance on Doma, unaware that Togata has flipped the script entirely. There, instead of finding Doma, Agni is to be pitted against the worst, most violent Blessed that Behemdorg has to offer. But on the way, Agni's heart fills with a new resolve, ruining Togata's much-anticipated climax!"
     ],
     "price": 14.99,
-    "coverImage": "../public/covers/firepunch-v3.jpg"
+    "coverImage": "/covers/firepunch-v3.jpg"
   },
   {
     "id": "FIREPUNCH-V4",
@@ -932,7 +932,7 @@
       "Boss, the leader of the Behemdorg escapees, finds he’s at a disadvantage when fighting the soldiers who continue pursuing them. But all that changes with the sudden appearance of a mysterious spear-wielding girl and a masked man, who are willing to lend their aid. Meanwhile, will Agni have to perform that certain act once again for those who revere him?!"
     ],
     "price": 14.99,
-    "coverImage": "../public/covers/firepunch-v4.jpg"
+    "coverImage": "/covers/firepunch-v4.jpg"
   },
   {
     "id": "FIREPUNCH-V5",
@@ -947,7 +947,7 @@
       "After painful words are unleashed and Togata’s secret is finally exposed, the revelations leave Agni shaken. Knowing he must face his destiny, Agni seeks out the man at the root of all of his suffering!"
     ],
     "price": 14.99,
-    "coverImage": "../public/covers/firepunch-v5.jpg"
+    "coverImage": "/covers/firepunch-v5.jpg"
   },
   {
     "id": "FIREPUNCH-V6",
@@ -962,7 +962,7 @@
       "In order to absorb all life, Judah has been turned into a massive tree by the Ice Witch. And just as Agni loses his will to live, Judah’s sorrowful pleas for death echo in his ear. What will await the world after its destruction and rebirth is complete?"
     ],
     "price": 14.99,
-    "coverImage": "../public/covers/firepunch-v6.jpg"
+    "coverImage": "/covers/firepunch-v6.jpg"
   },
   {
     "id": "FIREPUNCH-V7",
@@ -977,7 +977,7 @@
       "With his promise to Tena imprinted on his mind, Agni can only enjoy an inauthentic peace coated thickly with lies. His existence blames, tortures and undermines him, becoming an affliction worse than the anger, pain and madness he’d experienced as Fire Punch. As Agni searches desperately for an escape from this hell, an old friend suddenly appears."
     ],
     "price": 14.99,
-    "coverImage": "../public/covers/firepunch-v7.jpg"
+    "coverImage": "/covers/firepunch-v7.jpg"
   },
   {
     "id": "FIREPUNCH-V8",
@@ -992,7 +992,7 @@
       "Agni’s body is once again engulfed in flames, and he burns everyone and everything in his path on his way to Judah. Sun’s blind belief explodes into fury as his savior Agni becomes the villain! Will it be an inferno of revenge or a redeeming light finally end this frozen world?!"
     ],
     "price": 14.99,
-    "coverImage": "../public/covers/firepunch-v8.jpg"
+    "coverImage": "/covers/firepunch-v8.jpg"
   },
   {
     "id": "PUNPUN-V2",
@@ -1012,7 +1012,7 @@
       "What are you going to do now, Punpun?"
     ],
     "price": 24.99,
-    "coverImage": "../public/covers/goodnightpunpun-v2.jpg"
+    "coverImage": "/covers/goodnightpunpun-v2.jpg"
   },
   {
     "id": "PUNPUN-V3",
@@ -1032,7 +1032,7 @@
       "A guy can wish, Punpun…"
     ],
     "price": 24.99,
-    "coverImage": "../public/covers/goodnightpunpun-v3.jpg"
+    "coverImage": "/covers/goodnightpunpun-v3.jpg"
   },
   {
     "id": "PUNPUN-V4",
@@ -1050,7 +1050,7 @@
       "But buck up, Punpun! It’s only for the rest of your life, right?"
     ],
     "price": 24.99,
-    "coverImage": "../public/covers/goodnightpunpun-v4.jpg"
+    "coverImage": "/covers/goodnightpunpun-v4.jpg"
   },
   {
     "id": "PUNPUN-V5",
@@ -1068,7 +1068,7 @@
       "Hey, Punpun, your lease just ran out."
     ],
     "price": 24.99,
-    "coverImage": "../public/covers/goodnightpunpun-v5.jpg"
+    "coverImage": "/covers/goodnightpunpun-v5.jpg"
   },
   {
     "id": "PUNPUN-V6",
@@ -1088,7 +1088,7 @@
       "Punpun, what do you do when there’s no way out?"
     ],
     "price": 24.99,
-    "coverImage": "../public/covers/goodnightpunpun-v6.jpg"
+    "coverImage": "/covers/goodnightpunpun-v6.jpg"
   },
   {
     "id": "PUNPUN-V7",
@@ -1103,6 +1103,6 @@
       "This is the end, Punpun."
     ],
     "price": 24.99,
-    "coverImage": "../public/covers/goodnightpunpun-v7.jpg"
+    "coverImage": "/covers/goodnightpunpun-v7.jpg"
   }
 ]
