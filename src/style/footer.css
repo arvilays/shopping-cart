@@ -124,19 +124,16 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    gap: 5px;
     padding: 30px;
   }
 
   .footer-credits-logo {
-    font-family: "cal sans";
-    font-size: 2em;
-  }
-
-  .footer-credits-logo span {
-    color: grey;
+    max-width: 200px;
   }
 
   .footer-credits-copyright {
     font-size: 0.9em;
+    text-align: center;
   }
 }

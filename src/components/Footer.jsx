@@ -6,6 +6,7 @@ import instagramImage from "../assets/instagram.svg";
 import tiktokImage from "../assets/tiktok.svg";
 import xImage from "../assets/x.svg";
 import youtubeImage from "../assets/youtube.svg";
+import logoImage from "../assets/logo.png";
 
 const socialLinks = [
   { href: "https://bsky.app/", src: blueskyImage, alt: "bluesky" },
@@ -75,7 +76,7 @@ function Footer() {
 
       <div className="footer-credits">
         <div className="footer-credits-logo">
-          MANGA<span>KART</span>🍥
+          <img src={logoImage} alt="MangaKart" />
         </div>
         <div className="footer-credits-copyright">
           &copy; 2025-20XX, MangaKart, A Totally Real Company
