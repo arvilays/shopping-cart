@@ -140,10 +140,15 @@ function Search() {
     selectedSeries,
   ]);
 
+  // --- Changing Pages ---
   const paginatedData = filteredStoreData.slice(
     (currentPage - 1) * itemsPerPage,
     currentPage * itemsPerPage,
   );
+
+  useEffect(() => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }, [currentPage]);
 
   return (
     <div className="search">
