@@ -27,7 +27,7 @@ function Search() {
     queryParams.get("series") || "",
   );
   const [currentPage, setCurrentPage] = useState(1);
-  const itemsPerPage = 50;
+  const itemsPerPage = 20;
 
   const allGenres = useMemo(
     () =>
