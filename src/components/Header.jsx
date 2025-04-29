@@ -1,7 +1,6 @@
 import { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import "../style/header.css";
-import logoImage from "../assets/logo.png";
 import searchImage from "../assets/magnify.svg";
 import cartImage from "../assets/cart-outline.svg";
 
@@ -26,44 +25,36 @@ function Header() {
   return (
     <header>
       <div className="header-main">
-        <div className="header-main-logo">
-          <Link to="/">
-            <img
-              src={logoImage}
-              alt="mangakart"
-              onClick={() => setSearchTerm("")}
-            />
-          </Link>
-        </div>
+        <Link to="/" className="header-main-logo">
+          MANGA<span>KART</span>🍥
+        </Link>
 
-        <div className="header-main-search">
-          <div className="header-main-search-bar">
-            <input
-              type="text"
-              name="search"
-              id="search"
-              placeholder="Search"
-              value={searchTerm}
-              onChange={(e) => setSearchTerm(e.target.value)}
-              onKeyDown={(e) => e.key === "Enter" && handleSearch()}
-            />
-          </div>
-
-          <div className="header-main-search-icon">
+        <div className="header-main-search-cart">
+          <div className="header-main-search">
+            <div className="header-main-search-bar">
+              <input
+                type="text"
+                name="search"
+                id="search"
+                placeholder="Search"
+                value={searchTerm}
+                onChange={(e) => setSearchTerm(e.target.value)}
+                onKeyDown={(e) => e.key === "Enter" && handleSearch()}
+              />
+            </div>
             <div
+              className="header-main-search-icon"
               onClick={handleSearch}
-              className="search-button"
               aria-label="Search"
             >
               <img src={searchImage} alt="search icon" />
             </div>
           </div>
-        </div>
-
-        <div className="header-main-cart">
-          <Link to="/cart">
-            <img src={cartImage} alt="cart" />
-          </Link>
+          <div className="header-main-cart">
+            <Link to="/cart">
+              <img src={cartImage} alt="cart" />
+            </Link>
+          </div>
         </div>
       </div>
 

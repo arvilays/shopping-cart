@@ -1,6 +1,5 @@
 @media only screen and (min-width: 0px) {
   header {
-    background-color: lightgrey;
     display: flex;
     flex-direction: column;
   }
@@ -12,34 +11,45 @@
 @media only screen and (min-width: 0px) {
   .header-main {
     display: flex;
+    flex-direction: column;
     align-items: center;
-    padding: 15px 30px;
-    border-bottom: 1px solid black;
+    padding: 10px 30px 20px;
   }
 
   .header-main-logo {
-    flex: 1;
+    color: initial;
+    text-decoration: none;
+    font-family: "cal sans";
+    font-size: 3em;
   }
 
-  .header-main-logo img {
-    width: 150px;
+  .header-main-logo span {
+    color: grey;
+  }
+
+  .header-main-search-cart {
+    flex: 3;
+    display: flex;
+    align-items: center;
+    width: 100%;
   }
 
   .header-main-search {
+    flex: 1;
     overflow: hidden;
-    flex: 3;
     display: flex;
     margin: 0px 20px;
-    border: 2px solid grey;
+    border: 2px solid black;
     border-radius: 15px;
   }
 
   .header-main-search-bar {
-    flex: 1;
+    display: flex;
+    width: 100%;
   }
 
   .header-main-search-bar input {
-    width: 100%;
+    flex: 1;
     padding: 12px 20px;
     border: 0px;
   }
@@ -51,14 +61,14 @@
   }
 
   .header-main-search-icon {
-    background-color: hsl(34, 99%, 70%);
+    background-color: hsl(0, 91%, 72%);
     display: flex;
     align-items: center;
   }
 
   .header-main-search-icon:hover {
     cursor: pointer;
-    background-color: hsl(34, 99%, 60%);
+    background-color: hsl(0, 77%, 66%);
   }
 
   .header-main-search-icon img {
@@ -67,13 +77,24 @@
   }
 
   .header-main-cart {
-    flex: 1;
     display: flex;
     justify-content: end;
+    padding: 10px;
   }
 
   .header-main-cart img {
     width: 35px;
+  }
+}
+
+@media only screen and (min-width: 800px) {
+  .header-main {
+    flex-direction: row;
+    padding: 10px 30px;
+  }
+
+  .header-main-cart {
+    padding: 0px;
   }
 }
 
@@ -82,23 +103,25 @@
 ##############################*/
 @media only screen and (min-width: 0px) {
   .header-categories {
+    background-color: darkgrey;
     display: flex;
+    color: white;
     font-family: "cal sans";
     text-align: center;
     width: 100%;
-    padding: 10px;
   }
 
   .header-category {
     flex: 1;
     color: inherit;
     text-decoration: none;
+    padding: 5px;
     transition: color 0.25s;
     will-change: color;
   }
 
   .header-category:hover {
     cursor: pointer;
-    color: rgb(90, 90, 90);
+    color: black;
   }
 }

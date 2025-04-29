@@ -128,12 +128,13 @@ function Search() {
 
   return (
     <div className="search">
+      <div className="search-results">Results</div>
       {searchTerm && (
         <div className="search-title">
           Showing results for "{searchTerm}".
-          <hr />
         </div>
       )}
+      <hr />
 
       <div className="search-main">
         <div className={`search-filter ${filterOpen ? "opened" : ""}`}>

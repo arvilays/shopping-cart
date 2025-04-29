@@ -112,7 +112,7 @@ function Product() {
         <div className="product-series">
           <ProductBar
             storeData={rotatedProductSeries}
-            title={`📚More ${series} Volumes`}
+            title={`📚More Volumes of "${series}"`}
             link={`/search?series=${encodeURIComponent(series)}`}
             shuffle={false}
             uniqueSeries={false}

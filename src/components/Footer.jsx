@@ -1,6 +1,5 @@
 import "../style/footer.css";
 import pochitaImage from "../assets/pochita.png";
-import logoImage from "../assets/logo.png";
 import blueskyImage from "../assets/bluesky.svg";
 import facebookImage from "../assets/facebook.svg";
 import instagramImage from "../assets/instagram.svg";
@@ -76,7 +75,7 @@ function Footer() {
 
       <div className="footer-credits">
         <div className="footer-credits-logo">
-          <img src={logoImage} alt="mangakart" />
+          MANGA<span>KART</span>🍥
         </div>
         <div className="footer-credits-copyright">
           &copy; 2025-20XX, MangaKart, A Totally Real Company
