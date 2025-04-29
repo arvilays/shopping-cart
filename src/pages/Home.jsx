@@ -35,53 +35,75 @@ function Home() {
     <main className="home">
       <Carousel />
 
-      <ProductBar 
-        storeData={storeData} 
-        title="🔥Popular Releases" 
-        link="/search" 
+      <ProductBar
+        storeData={storeData}
+        title="🔥Popular Releases"
+        link="/search"
       />
 
       <div className="home-explore">
         <div className="home-explore-text">
           <img src={logoImage} alt="mangakart" className="home-explore-logo" />
           <div className="home-explore-title">Your One Stop Manga Shop!</div>
-          <Link to="/search" className="home-explore-button" onClick={() => window.scrollTo(0, 0)}>SHOP NOW</Link>
+          <Link
+            to="/search"
+            className="home-explore-button"
+            onClick={() => window.scrollTo(0, 0)}
+          >
+            SHOP NOW
+          </Link>
         </div>
         <div className="home-explore-grid" ref={gridRef}>
-          {shuffleArray(storeData).slice(0, 50).map((manga) => (
-            <img src={manga.coverImage} alt={manga.title} key={manga.id} />
-          ))}
+          {shuffleArray(storeData)
+            .slice(0, 50)
+            .map((manga) => (
+              <img src={manga.coverImage} alt={manga.title} key={manga.id} />
+            ))}
         </div>
       </div>
 
       <ProductBar
-        storeData={storeData.filter((product) => product.genre.includes("Action"))}
+        storeData={storeData.filter((product) =>
+          product.genre.includes("Action"),
+        )}
         title="⚔️Pulse-Pounding Action"
         link="/search?genres=Action"
       />
       <ProductBar
-        storeData={storeData.filter((product) => product.genre.includes("Drama"))}
+        storeData={storeData.filter((product) =>
+          product.genre.includes("Drama"),
+        )}
         title="💖Stories That Break and Mend"
         link="/search?genres=Drama"
       />
 
       <div className="home-reviews">
-        <div className="home-reviews-title">🗣️Voices from the MangaKart Community</div>
+        <div className="home-reviews-title">
+          🗣️Voices from the MangaKart Community
+        </div>
         <div className="home-reviews-collection">
           <div className="home-review">
-            <div className="home-review-text">❝I Naruto-ran to the door when my package arrived. 10/10❞</div>
+            <div className="home-review-text">
+              ❝I Naruto-ran to the door when my package arrived. 10/10❞
+            </div>
             <div className="home-review-avatar">
               <img src={avatar1Image} alt="review avatar" />
             </div>
           </div>
           <div className="home-review">
-            <div className="home-review-text">❝Bought one volume, blacked out, woke up with a whole bookshelf. No regrets. Only manga.❞</div>
+            <div className="home-review-text">
+              ❝Bought one volume, blacked out, woke up with a whole bookshelf.
+              No regrets. Only manga.❞
+            </div>
             <div className="home-review-avatar">
               <img src={avatar2Image} alt="review avatar" />
             </div>
           </div>
           <div className="home-review">
-            <div className="home-review-text">❝If loving this store is wrong, throw me in Impel Down with Luffy. I'm loyal to the brand now.❞</div>
+            <div className="home-review-text">
+              ❝If loving this store is wrong, throw me in Impel Down with Luffy.
+              I'm loyal to the brand now.❞
+            </div>
             <div className="home-review-avatar">
               <img src={avatar3Image} alt="review avatar" />
             </div>

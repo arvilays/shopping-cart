@@ -23,6 +23,9 @@ function Search() {
     min: queryParams.get("min") || "",
     max: queryParams.get("max") || "",
   });
+  const [selectedSeries, setSelectedSeries] = useState(
+    queryParams.get("series") || "",
+  );
 
   // Pagination states
   const [currentPage, setCurrentPage] = useState(1);
@@ -43,6 +46,7 @@ function Search() {
       min: params.get("min") || "",
       max: params.get("max") || "",
     });
+    setSelectedSeries(params.get("series") || "");
     setCurrentPage(1);
   }, [location.search]);
 
@@ -54,6 +58,7 @@ function Search() {
     if (selectedGenres.length) params.set("genres", selectedGenres.join(","));
     if (priceRange.min) params.set("min", priceRange.min);
     if (priceRange.max) params.set("max", priceRange.max);
+    if (selectedSeries) params.set("series", selectedSeries);
     setCurrentPage(1);
 
     navigate(`${location.pathname}?${params.toString()}`, { replace: true });
@@ -65,27 +70,62 @@ function Search() {
 
   // Apply filters to storeData
   let filteredStoreData = storeData
+    // 1. Filter by series if selected
+    .filter((product) =>
+      selectedSeries ? product.series === selectedSeries : true,
+    )
+    // 2. Filter by search term
     .filter((product) =>
       searchTerm
         ? product.title.toLowerCase().includes(searchTerm.toLowerCase())
         : true,
     )
+    // 3. Filter by selected genres
     .filter((product) =>
       selectedGenres.length
         ? selectedGenres.some((genre) => product.genre.includes(genre))
         : true,
     )
+    // 4. Filter by price
     .filter((product) => {
       const min = priceRange.min ? parseFloat(priceRange.min) : 0;
       const max = priceRange.max ? parseFloat(priceRange.max) : Infinity;
       return product.price >= min && product.price <= max;
     })
+    // 5. Sort
     .sort((a, b) => {
+      if (selectedSeries) {
+        // If a series is selected, just sort by volume
+        return a.volume - b.volume;
+      }
+
       switch (sortFilter) {
         case "name-asc":
-          return a.title.localeCompare(b.title);
+          if (a.series && b.series) {
+            const seriesCompare = a.series.localeCompare(b.series);
+            if (seriesCompare !== 0) {
+              return seriesCompare; // Different series → sort alphabetically
+            } else {
+              // Same series → sort by volume
+              return a.volume - b.volume;
+            }
+          } else {
+            // Fallback: sort by title alphabetically
+            return a.title.localeCompare(b.title);
+          }
+
         case "name-desc":
-          return b.title.localeCompare(a.title);
+          if (a.series && b.series) {
+            const seriesCompare = b.series.localeCompare(a.series); // notice flipped for desc
+            if (seriesCompare !== 0) {
+              return seriesCompare;
+            } else {
+              return a.volume - b.volume;
+            }
+          } else {
+            return b.title.localeCompare(a.title);
+          }
+
         case "price-asc":
           return a.price - b.price;
         case "price-desc":

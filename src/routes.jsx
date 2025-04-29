@@ -20,7 +20,7 @@ const routes = [
         element: <Search />,
       },
       {
-        path: "product/:name?",
+        path: "product/:id?",
         element: <Product />,
       },
       {

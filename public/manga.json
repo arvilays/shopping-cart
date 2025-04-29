@@ -2,16 +2,10 @@
   {
     "id": "20THCENTURYP-V1",
     "title": "20th Century Boys: The Perfect Edition, Vol. 1",
-    "credits": [
-      "Naoki Urasawa (Creator)"
-    ],
+    "credits": ["Naoki Urasawa (Creator)"],
     "series": "20th Century Boys: The Perfect Edition",
     "volume": 1,
-    "genre": [
-      "Mystery",
-      "Science Fiction",
-      "Thriller"
-    ],
+    "genre": ["Mystery", "Science Fiction", "Thriller"],
     "description": [
       "A deluxe bind-up edition of Naoki Urasawa’s award-winning epic of doomsday cults, giant robots and a group of friends trying to save the world from destruction!",
       "Humanity, having faced extinction at the end of the 20th century, would not have entered the new millennium if it weren’t for them. In 1969, during their youth, they created a symbol. In 1997, as the coming disaster slowly starts to unfold, that symbol returns. This is the story of a group of boys who try to save the world."
@@ -22,14 +16,10 @@
   {
     "id": "SILENTVOICE-V1",
     "title": "A Silent Voice, Vol. 1",
-    "credits": [
-      "Yoshitoki Oima (Author)"
-    ],
+    "credits": ["Yoshitoki Oima (Author)"],
     "series": "A Silent Voice",
     "volume": 1,
-    "genre": [
-      "Drama"
-    ],
+    "genre": ["Drama"],
     "description": [
       "Shoya is a bully. When Shoko, a girl who can’t hear, enters his elementary school class, she becomes their favorite target, and Shoya and his friends goad each other into devising new tortures for her. But the children’s cruelty goes too far. Shoko is forced to leave the school, and Shoya ends up shouldering all the blame. Six years later, the two meet again. Can Shoya make up for his past mistakes, or is it too late?"
     ],
@@ -39,16 +29,10 @@
   {
     "id": "AOT-V1",
     "title": "Attack on Titan, Vol. 1",
-    "credits": [
-      "Hajime Isayama (Author)"
-    ],
+    "credits": ["Hajime Isayama (Author)"],
     "series": "Attack on Titan",
     "volume": 1,
-    "genre": [
-      "Action",
-      "Fantasy",
-      "Post-Apocalyptic"
-    ],
+    "genre": ["Action", "Fantasy", "Post-Apocalyptic"],
     "description": [
       "In this post-apocalytpic sci-fi story, humanity has been devastated by the bizarre, giant humanoids known as the Titans. Little is known about where they came from or why they are bent on consuming mankind. Seemingly unintelligent, they have roamed the world for years, killing everyone they see. For the past century, what's left of man has hidden in a giant, three-walled city. People believe their 50-meter-high walls will protect them from the Titans, but the sudden appearance of an immense Titan is about to change everything.",
       "Winner of the 2011 Kodansha Manga Award (Shonen) and nominated for the prestigious Osamu Tezuka Cultural Prize for 2012.",
@@ -60,16 +44,10 @@
   {
     "id": "BEASTARS-V1",
     "title": "BEASTARS, Vol. 1",
-    "credits": [
-      "Paru Itagaki (Author)"
-    ],
+    "credits": ["Paru Itagaki (Author)"],
     "series": "BEASTARS",
     "volume": 1,
-    "genre": [
-      "Coming of Age",
-      "Drama",
-      "Fantasy"
-    ],
+    "genre": ["Coming of Age", "Drama"],
     "description": [
       "At this high school, instead of jocks and nerds, the students are divided into predators and prey.",
       "At a high school where the students are literally divided into predators and prey, friendships maintain the fragile peace. Who among them will become a Beastar—a hero destined to lead in a society naturally rife with mistrust?",
@@ -79,18 +57,25 @@
     "coverImage": "../public/covers/beastars-v1.jpg"
   },
   {
+    "id": "BLAME-V1",
+    "title": "BLAME!, Vol. 1",
+    "credits": ["Tsutomu Nihei (Author, Artist) "],
+    "series": "BLAME!",
+    "volume": 1,
+    "genre": ["Action", "Cyberpunk", "Post-Apocalyptic"],
+    "description": [
+      "In a future version of Earth, there is a city grown so chaotically massive that its inhabitants no longer recall what \"land\" is. Within this megastructure the silent, stoic Kyrii is on a mission to find the Net Terminal Gene—a genetic mutation that once allowed humans to access the cybernetic NetSphere. Armed with a powerful Graviton Beam Emitter, Kyrii fends off waves of attacks from fellow humans, cyborgs and silicon-based lifeforms. Along the way, he encounters a highly-skilled scientist whose body has deteriorated from a lengthy imprisonment who promises to help Kyrii find the Net Terminal Gene, once she settles a score for herself..."
+    ],
+    "price": 19.99,
+    "coverImage": "../public/covers/blame-v1.jpg"
+  },
+  {
     "id": "BERSERK-V1",
     "title": "Berserk, Vol. 1",
-    "credits": [
-      "Kentaro Miura (Author, Illustrator)"
-    ],
+    "credits": ["Kentaro Miura (Author, Illustrator)"],
     "series": "Berserk",
     "volume": 1,
-    "genre": [
-      "Action",
-      "Horror",
-      "Fantasy"
-    ],
+    "genre": ["Action", "Horror", "Fantasy"],
     "description": [
       "Created by Kentaro Miura, Berserk is manga mayhem to the extreme - violent, horrifying, and mercilessly funny - and the wellspring for the internationally popular anime series. Not for the squeamish or the easily offended, Berserk asks for no quarter - and offers none! His name is Guts, the Black Swordsman, a feared warrior spoken of only in whispers. Bearer of a gigantic sword, an iron hand, and the scars of countless battles and tortures, his flesh is also indelibly marked with The Brand, an unholy symbol that draws the forces of darkness to him and dooms him as their sacrifice. But Guts won't take his fate lying down; he'll cut a crimson swath of carnage through the ranks of the damned - and anyone else foolish enough to oppose him! Accompanied by Puck the Elf, more an annoyance than a companion, Guts relentlessly follows a dark, bloodstained path that leads only to death...or vengeance."
     ],
@@ -100,16 +85,10 @@
   {
     "id": "BLEACH-V1",
     "title": "Bleach, Vol. 1",
-    "credits": [
-      "Tite Kubo (Author)"
-    ],
+    "credits": ["Tite Kubo (Author)"],
     "series": "Bleach",
     "volume": 1,
-    "genre": [
-      "Adventure",
-      "Supernatural",
-      "Martial Arts"
-    ],
+    "genre": ["Adventure", "Supernatural", "Martial Arts"],
     "description": [
       "Part-time student, full-time Soul Reaper, Ichigo is one of the chosen few guardians of the afterlife.",
       "Ichigo Kurosaki never asked for the ability to see ghosts—he was born with the gift. When his family is attacked by a Hollow—a malevolent lost soul—Ichigo becomes a Soul Reaper, dedicating his life to protecting the innocent and helping the tortured spirits themselves find peace. Find out why Tite Kubo’s Bleach has become an international manga smash-hit!",
@@ -121,15 +100,10 @@
   {
     "id": "BLUEPERIOD-V1",
     "title": "Blue Period, Vol. 1",
-    "credits": [
-      "Tsubasa Yamaguchi (Author)"
-    ],
+    "credits": ["Tsubasa Yamaguchi (Author)"],
     "series": "Blue Period",
     "volume": 1,
-    "genre": [
-      "Coming of Age",
-      "Drama"
-    ],
+    "genre": ["Coming of Age", "Drama"],
     "description": [
       "A manga about the struggles and rewards of a life dedicated to art. Popular guy Yatora realizes he's just going through the motions to make other people happy and finds himself in a new passion: painting. But untethering yourself from all your past expectations is dangerous as well as thrilling...",
       "Yatora is the perfect high school student, with good grades and lots of friends. It's an effortless performance, and, ultimately... a dull one. But he wanders into the art room one day, and a lone painting captures his eye, awakening him to a kind of beauty he never knew. Compelled and consumed, he dives in headfirst--and he's about to learn how savage and unforgiving art can be..."
@@ -140,17 +114,10 @@
   {
     "id": "CSM-V1",
     "title": "Chainsaw Man, Vol. 1",
-    "credits": [
-      "Tatsuki Fujimoto (Author)"
-    ],
+    "credits": ["Tatsuki Fujimoto (Author)"],
     "series": "Chainsaw Man",
     "volume": 1,
-    "genre": [
-      "Action",
-      "Comedy",
-      "Horror",
-      "Fantasy"
-    ],
+    "genre": ["Action", "Horror"],
     "description": [
       "Broke young man + chainsaw demon = Chainsaw Man!",
       "Denji was a small-time devil hunter just trying to survive in a harsh world. After being killed on a job, he is revived by his pet devil Pochita and becomes something new and dangerous—Chainsaw Man!",
@@ -162,16 +129,10 @@
   {
     "id": "DANDADAN-V1",
     "title": "Dandadan, Vol. 1",
-    "credits": [
-      "Yukinobu Tatsu (Author)"
-    ],
+    "credits": ["Yukinobu Tatsu (Author)"],
     "series": "Dandadan",
     "volume": 1,
-    "genre": [
-      "Action",
-      "Comedy",
-      "Thriller"
-    ],
+    "genre": ["Action", "Supernatural"],
     "description": [
       "A nerd must fight powerful spirits and aliens all vying for the secret power of his “family jewel,” so who better to fight alongside him than his high school crush and a spirit granny?!",
       "Momo Ayase and Okarun are on opposite sides of the paranormal spectrum regarding what they’ll believe in and what they won’t. Their quest to prove each other wrong leads them down a path of secret crushes and paranormal battles they’ll have to participate in to believe!",
@@ -183,16 +144,10 @@
   {
     "id": "DEATHNOTE-V1",
     "title": "Death Note, Vol. 1",
-    "credits": [
-      "Tsugumi Ohba (Author)",
-      "Takeshi Obata (Illustrator)"
-    ],
+    "credits": ["Tsugumi Ohba (Author)", "Takeshi Obata (Illustrator)"],
     "series": "Death Note",
     "volume": 1,
-    "genre": [
-      "Mystery",
-      "Thriller"
-    ],
+    "genre": ["Mystery", "Thriller"],
     "description": [
       "When Light Yagami finds a notebook giving him power over death, will he use it for good—or evil?",
       "Light Yagami is an ace student with great prospects--and he's bored out of his mind. But all that changes when he finds the Death Note, a notebook dropped by a rogue Shinigami death god. Any human whose name is written in the notebook dies, and now Light has vowed to use the power of the Death Note to rid the world of evil. But when criminals begin dropping dead, the authorities send the legendary detective L to track down the killer. With L hot on his heels, will Light lose sight of his noble goal...or his life?",
@@ -205,18 +160,13 @@
     "id": "DELICIOUS-V1",
     "title": "Delicious in Dungeon, Vol. 1",
     "credits": [
-      "Ryoko Kui (Author)",
+      "Ryoko Kui (Author, Artist)",
       "Taylor Engel (Translator)",
       "Abigail Blackman (Letterer)"
     ],
     "series": "Delicious in Dungeon",
     "volume": 1,
-    "genre": [
-      "Adventure",
-      "Fantasy",
-      "Comedy",
-      "Cooking"
-    ],
+    "genre": ["Adventure", "Fantasy", "Comedy", "Cooking"],
     "description": [
       "When young adventurer Laios and his company are attacked and soundly thrashed by a dragon deep in a dungeon, the party loses all its money and provisions...and a member! They're eager to go back and save her, but there is just one problem: If they set out with no food or coin to speak of, they're sure to starve on the way! But Laios comes up with a brilliant idea: \"Let's eat the monsters!\" Slimes, basilisks, and even dragons...none are safe from the appetites of these dungeon-crawling gourmands!"
     ],
@@ -224,18 +174,181 @@
     "coverImage": "../public/covers/deliciousindungeon-v1.jpg"
   },
   {
+    "id": "DELICIOUS-V10",
+    "title": "Delicious in Dungeon, Vol. 10",
+    "credits": ["Ryoko Kui (Author, Artist)", "Taylor Engel (Translator)"],
+    "series": "Delicious in Dungeon",
+    "volume": 10,
+    "genre": ["Adventure", "Fantasy", "Comedy", "Cooking"],
+    "description": [
+      "Led to Sissel’s threshold by the winged lion imprisoned within it, Laios and friends steel themselves for…some heavy-duty cleaning?! Sissel’s seemingly innocuous cottage is piled with clutter, hindering both their search for the lion and their meal prep! Once satiated, the party hastily lays plans for Falin’s rescue. However, here in the depths of the dungeon, even the cutest residents have a vicious streak a mile wide!"
+    ],
+    "price": 14.99,
+    "coverImage": "../public/covers/deliciousindungeon-v10.jpg"
+  },
+  {
+    "id": "DELICIOUS-V11",
+    "title": "Delicious in Dungeon, Vol. 11",
+    "credits": ["Ryoko Kui (Author, Artist)", "Taylor Engel (Translator)"],
+    "series": "Delicious in Dungeon",
+    "volume": 11,
+    "genre": ["Adventure", "Fantasy", "Comedy", "Cooking"],
+    "description": [
+      "Locked in battle with the Lunatic Magician, Laios is the last man standing against an array of the dungeon’s deadliest dragons. Using his extensive monster knowledge to his advantage, Laios manages to defy the odds of almost certain death—at least until Sissel devises an even more terrible plan! Will Laios’s love of dungeon dining prove to be his downfall?"
+    ],
+    "price": 14.99,
+    "coverImage": "../public/covers/deliciousindungeon-v11.jpg"
+  },
+  {
+    "id": "DELICIOUS-V12",
+    "title": "Delicious in Dungeon, Vol. 12",
+    "credits": ["Ryoko Kui (Author, Artist)", "Taylor Engel (Translator)"],
+    "series": "Delicious in Dungeon",
+    "volume": 12,
+    "genre": ["Adventure", "Fantasy", "Comedy", "Cooking"],
+    "description": [
+      "In her first hours as lord of the dungeon, Marcille has completely transformed the dungeon’s layout, sending hordes of monsters from the deepest floors—as well as several of her own making—hurtling dangerously close to the surface. Though the demon’s influence is strong, Laios has a surefire way to reach Marcille: through her stomach! Drawn from fondly remembered flavors, will Senshi’s ultimate culinary creation be enough to break through to their friend?!"
+    ],
+    "price": 14.99,
+    "coverImage": "../public/covers/deliciousindungeon-v12.jpg"
+  },
+  {
+    "id": "DELICIOUS-V13",
+    "title": "Delicious in Dungeon, Vol. 13",
+    "credits": ["Ryoko Kui (Author, Artist)", "Taylor Engel (Translator)"],
+    "series": "Delicious in Dungeon",
+    "volume": 13,
+    "genre": ["Adventure", "Fantasy", "Comedy", "Cooking"],
+    "description": [
+      "Though the party succeeded in breaking Marcille free from the dungeon’s influence, the winged lion remains at large. Should the demon escape to the surface, its all-powerful manifestation will surely grow to feast upon the world—and the desires of all who live in it! Laios has one last all-or-nothing plan up his sleeve to sate the beast and save his sister, but will his own deepest desires unleash an even greater monster first?"
+    ],
+    "price": 14.99,
+    "coverImage": "../public/covers/deliciousindungeon-v13.jpg"
+  },
+  {
+    "id": "DELICIOUS-V14",
+    "title": "Delicious in Dungeon, Vol. 14",
+    "credits": ["Ryoko Kui (Author, Artist)", "Taylor Engel (Translator)"],
+    "series": "Delicious in Dungeon",
+    "volume": 14,
+    "genre": ["Adventure", "Fantasy", "Comedy", "Cooking"],
+    "description": [
+      "Laios’s plan to overcome the demon seems to have worked—but at great physical cost to his monstrous form. As the dungeon crumbles around them, his friends are forced to leave him behind in a race to escape. Even with the demon out of the picture, the people of the Golden Country are still trapped in the dungeon depths, and Falin remains a chimera. Plus, all this running around is really working up an appetite…! Join our heroes for the ultimate feast in the final volume of Delicious in Dungeon!"
+    ],
+    "price": 14.99,
+    "coverImage": "../public/covers/deliciousindungeon-v14.jpg"
+  },
+  {
+    "id": "DELICIOUS-V2",
+    "title": "Delicious in Dungeon, Vol. 2",
+    "credits": ["Ryoko Kui (Author, Artist)", "Taylor Engel (Translator)"],
+    "series": "Delicious in Dungeon",
+    "volume": 2,
+    "genre": ["Adventure", "Fantasy", "Comedy", "Cooking"],
+    "description": [
+      "With the possibility of starvation as a constant companion, Laios's party continues advancing deeper into the dungeon. The adventurers have made it to the third floor, but only rotting zombies, ghastly spirits, living paintings, and golems await them--all of which are absolutely inedible. The party has come this far by adapting and learning how to live off the dubious bounties of the dungeon. But how will they manage when even the meanest monster won't make a decent meal?"
+    ],
+    "price": 14.99,
+    "coverImage": "../public/covers/deliciousindungeon-v2.jpg"
+  },
+  {
+    "id": "DELICIOUS-V3",
+    "title": "Delicious in Dungeon, Vol. 3",
+    "credits": ["Ryoko Kui (Author, Artist)", "Taylor Engel (Translator)"],
+    "series": "Delicious in Dungeon",
+    "volume": 3,
+    "genre": ["Adventure", "Fantasy", "Comedy", "Cooking"],
+    "description": [
+      "New dangers and new recipes await the party in the third installment of the utterly unique and endearing Delicious in Dungeon!"
+    ],
+    "price": 14.99,
+    "coverImage": "../public/covers/deliciousindungeon-v3.jpg"
+  },
+  {
+    "id": "DELICIOUS-V4",
+    "title": "Delicious in Dungeon, Vol. 4",
+    "credits": ["Ryoko Kui (Author, Artist)", "Taylor Engel (Translator)"],
+    "series": "Delicious in Dungeon",
+    "volume": 4,
+    "genre": ["Adventure", "Fantasy", "Comedy", "Cooking"],
+    "description": [
+      "The time has come! Showdown with the Red Dragon!!!After finally reaching the fifth floor, it's time for the adventurers to face their greatest challenge yet. They're putting their lives on to the line in a fight with a monster with crimson hide that turns away even the toughest steel and a fiery breath that turns even bones to ash. Can they save Laios's sister? ...And maybe just as importantly, can they eat dragon meat?!?"
+    ],
+    "price": 14.99,
+    "coverImage": "../public/covers/deliciousindungeon-v4.jpg"
+  },
+  {
+    "id": "DELICIOUS-V5",
+    "title": "Delicious in Dungeon, Vol. 5",
+    "credits": ["Ryoko Kui (Author, Artist)", "Taylor Engel (Translator)"],
+    "series": "Delicious in Dungeon",
+    "volume": 5,
+    "genre": ["Adventure", "Fantasy", "Comedy", "Cooking"],
+    "description": [
+      "The party has defeated the Red Dragon and rescued Farin! But their quest won't be finished until they make it back out of the dungeon unscathed. The adventure's not complete until everyone returns alive...and full!"
+    ],
+    "price": 14.99,
+    "coverImage": "../public/covers/deliciousindungeon-v5.jpg"
+  },
+  {
+    "id": "DELICIOUS-V6",
+    "title": "Delicious in Dungeon, Vol. 6",
+    "credits": ["Ryoko Kui (Author, Artist)", "Taylor Engel (Translator)"],
+    "series": "Delicious in Dungeon",
+    "volume": 6,
+    "genre": ["Adventure", "Fantasy", "Comedy", "Cooking"],
+    "description": [
+      "Old companions reunited in the dungeon...Will ex-comrads be able to work together in the rescue of Falin from the Lunatic Magician? Will a shared meal manage to right past wrongs?"
+    ],
+    "price": 14.99,
+    "coverImage": "../public/covers/deliciousindungeon-v6.jpg"
+  },
+  {
+    "id": "DELICIOUS-V7",
+    "title": "Delicious in Dungeon, Vol. 7",
+    "credits": ["Ryoko Kui (Author, Artist)", "Taylor Engel (Translator)"],
+    "series": "Delicious in Dungeon",
+    "volume": 7,
+    "genre": ["Adventure", "Fantasy", "Comedy", "Cooking"],
+    "description": [
+      "Massive changes in the dungeon have drawn out new monsters for Laios and his party to take on—and taste! But the shift has attracted the attention of the western elves, whose intervention could spell further trouble not only for Laios, but also for everyone on the island! Facing the threat of the Lunatic Magician from within and the elves from without, the adventurers must rally as a team like never before, especially when forced to confront a beast straight out of Senshi’s nightmares!"
+    ],
+    "price": 14.99,
+    "coverImage": "../public/covers/deliciousindungeon-v7.jpg"
+  },
+  {
+    "id": "DELICIOUS-V8",
+    "title": "Delicious in Dungeon, Vol. 8",
+    "credits": ["Ryoko Kui (Author, Artist)", "Taylor Engel (Translator)"],
+    "series": "Delicious in Dungeon",
+    "volume": 8,
+    "genre": ["Adventure", "Fantasy", "Comedy", "Cooking"],
+    "description": [
+      "In the dungeon, one false step can be the difference between life and death…or elf and dwarf?! The changeling mushrooms have done their work, leaving Laios and company radically altered, transformed from one race to another! The journey into the heart of the dungeon was never going to be easy, but with new senses, strengths, and statures to contend with, the mission seems more daunting than ever. Thankfully their sense of taste doesn’t seem to have been affected!!"
+    ],
+    "price": 14.99,
+    "coverImage": "../public/covers/deliciousindungeon-v8.jpg"
+  },
+  {
+    "id": "DELICIOUS-V9",
+    "title": "Delicious in Dungeon, Vol. 9",
+    "credits": ["Ryoko Kui (Author, Artist)", "Taylor Engel (Translator)"],
+    "series": "Delicious in Dungeon",
+    "volume": 9,
+    "genre": ["Adventure", "Fantasy", "Comedy", "Cooking"],
+    "description": [
+      "Laios nears the bottom of the dungeon and his inevitable confrontation with Sissel, the lunatic lord of its labyrinthine halls. In a succubus-induced slumber, Laios comes face-to-face with the winged lion, the source of Sissel’s power. Laios knows only that the lion is held captive by Sissel in the dungeon’s depths, but it could be the Canaries know a great deal more…With their centuries of experience, the elves’ knowledge could shed some light on the truth of the dungeon and its master-or prove to be Laios’s undoing…!"
+    ],
+    "price": 14.99,
+    "coverImage": "../public/covers/deliciousindungeon-v9.jpg"
+  },
+  {
     "id": "DEMONSLAYER-V1",
     "title": "Demon Slayer: Kimetsu no Yaiba, Vol. 1",
-    "credits": [
-      "Koyoharu Gotouge (Author)"
-    ],
+    "credits": ["Koyoharu Gotouge (Author)"],
     "series": "Demon Slayer: Kimetsu no Yaiba",
     "volume": 1,
-    "genre": [
-      "Adventure",
-      "Fantasy",
-      "Martial Arts"
-    ],
+    "genre": ["Adventure", "Martial Arts"],
     "description": [
       "Tanjiro sets out on the path of the Demon Slayer to save his sister and avenge his family!",
       "In Taisho-era Japan, kindhearted Tanjiro Kamado makes a living selling charcoal. But his peaceful life is shattered when a demon slaughters his entire family. His little sister Nezuko is the only survivor, but she has been transformed into a demon herself! Tanjiro sets out on a dangerous journey to find a way to return his sister to normal and destroy the demon who ruined his life.",
@@ -247,15 +360,10 @@
   {
     "id": "DOROHEDORO-V1",
     "title": "Dorohedoro, Vol. 1",
-    "credits": [
-      "Q Hayashida (Author)"
-    ],
+    "credits": ["Q Hayashida (Author)"],
     "series": "Dorohedoro",
     "volume": 1,
-    "genre": [
-      "Action",
-      "Fantasy"
-    ],
+    "genre": ["Action"],
     "description": [
       "A twisted tale of sadistic Sorcerers and the monsters they create.",
       "In a city so dismal it's known only as \"the Hole,\" a clan of Sorcerers have been plucking people off the streets to use as guinea pigs for atrocious \"experiments\" in the black arts. In a dark alley, Nikaido found Caiman, a man with a reptile head and a bad case of amnesia. To undo the spell, they're hunting and killing the Sorcerers in the Hole, hoping that eventually they'll kill the right one. But when En, the head Sorcerer, gets word of a lizard-man slaughtering his people, he sends a crew of \"cleaners\" into the Hole, igniting a war between two worlds."
@@ -266,17 +374,10 @@
   {
     "id": "DB-V1",
     "title": "Dragon Ball, Vol. 1",
-    "credits": [
-      "Akira Toriyama (Author, Illustrator)"
-    ],
+    "credits": ["Akira Toriyama (Author, Illustrator)"],
     "series": "Dragon Ball",
     "volume": 1,
-    "genre": [
-      "Action",
-      "Fantasy",
-      "Comedy",
-      "Martial Arts"
-    ],
+    "genre": ["Action", "Martial Arts"],
     "description": [
       "Eath's greatest hero...is from outerspace!",
       "Dragon Ball introduces a young monkey-tailed boy named Goku (a wry update of the classic Chinese \"Monkey King\" legend), whose quiet life changes when he meets a girl named Bulma who is on a quest to collect seven \"Dragon Balls.\" If she gathers them all, an incredibly powerful dragon will appear and grant her one wish. But the precious orbs are scattered all over the world, and Bulma could use the help of a certain super-strong boy... (In Japan, Dragon Ball and Dragon Ball Z were originally a single 42-volume series. VIZ Media's Dragon Ball contains vols. 1-16 of the original Japanese Dragon Ball, from the beginning of the series to the climax of Goku's last fight with Piccolo.)",
@@ -288,15 +389,10 @@
   {
     "id": "FIREPUNCH-V1",
     "title": "Fire Punch, Vol. 1",
-    "credits": [
-      "Tatsuki Fujimoto (Author)"
-    ],
+    "credits": ["Tatsuki Fujimoto (Author)"],
     "series": "Fire Punch",
     "volume": 1,
-    "genre": [
-      "Fantasy",
-      "Thriller"
-    ],
+    "genre": ["Fantasy", "Thriller"],
     "description": [
       "In a frozen dystopia where inhabitants eat flesh to survive, can the destructive powers of fire bring salvation?",
       "In the not-too-distant past, the Ice Witch blankets the world in snow, starvation, and madness, leading the inhabitants to seek their salvation in fire. With that, an unusual destiny unfolds for two young orphans, Agni and Luna, blessed with the ability to regenerate. But will this ability prove to be more of a curse than a blessing?",
@@ -308,17 +404,10 @@
   {
     "id": "FRIEREN-V1",
     "title": "Frieren: Beyond Journey's End, Vol. 1",
-    "credits": [
-      "Kanehito Yamada (Author)",
-      "Tsukasa Abe (Illustrator)"
-    ],
+    "credits": ["Kanehito Yamada (Author)", "Tsukasa Abe (Illustrator)"],
     "series": "Frieren: Beyond Journey's End",
     "volume": 1,
-    "genre": [
-      "Adventure",
-      "Drama",
-      "Fantasy"
-    ],
+    "genre": ["Adventure", "Drama", "Fantasy"],
     "description": [
       "The adventure is over but life goes on for an elf mage just beginning to learn what living is all about.",
       "Elf mage Frieren and her courageous fellow adventurers have defeated the Demon King and brought peace to the land. But Frieren will long outlive the rest of her former party. How will she come to understand what life means to the people around her?",
@@ -330,15 +419,10 @@
   {
     "id": "FMA-V1",
     "title": "Fullmetal Alchemist, Vol. 1",
-    "credits": [
-      "Hiromu Arakawa (Author, Illustrator)"
-    ],
+    "credits": ["Hiromu Arakawa (Author, Illustrator)"],
     "series": "Fullmetal Alchemist",
     "volume": 1,
-    "genre": [
-      "Adventure",
-      "Fantasy"
-    ],
+    "genre": ["Adventure", "Fantasy"],
     "description": [
       "Breaking the laws of nature is a serious crime!",
       "In an alchemical ritual gone wrong, Edward Elric lost his arm and his leg, and his brother Alphonse became nothing but a soul in a suit of armor. Equipped with mechanical “auto-mail” limbs, Edward becomes a state alchemist, seeking the one thing that can restore his and his brother’s bodies...the legendary Philosopher’s Stone.",
@@ -350,16 +434,10 @@
   {
     "id": "GOLDENKAMUY-V1",
     "title": "Golden Kamuy, Vol. 1",
-    "credits": [
-      "Satoru Noda (Author)"
-    ],
+    "credits": ["Satoru Noda (Author)"],
     "series": "Golden Kamuy",
     "volume": 1,
-    "genre": [
-      "Adventure",
-      "Historical",
-      "Western"
-    ],
+    "genre": ["Adventure", "Historical", "Western"],
     "description": [
       "A tale of high adventure and survival!",
       "In the early twentieth century, Russo-Japanese War veteran Saichi Sugimoto searches the wilderness of Hokkaido for a hoard of hidden gold. With only a cryptic map and a native Ainu girl to help him, Saichi must also deal with every murderous cutthroat, bandit and rogue who knows about the treasure!",
@@ -371,15 +449,10 @@
   {
     "id": "GOODBYEERI",
     "title": "Goodbye, Eri",
-    "credits": [
-      "Tatsuki Fujimoto (Author)"
-    ],
+    "credits": ["Tatsuki Fujimoto (Author)"],
     "series": "Goodbye, Eri",
-    "volume": 1,
-    "genre": [
-      "Drama",
-      "Mystery"
-    ],
+    "volume": 0,
+    "genre": ["Drama", "Mystery"],
     "description": [
       "An explosive story from the mad genius behind Chainsaw Man and Look Back!",
       "Young filmmaker Yuta contemplates suicide after the death of his mother, but a chance meeting with a mysterious girl will alter his life in an explosive way.",
@@ -392,16 +465,10 @@
   {
     "id": "PUNPUN-V1",
     "title": "Goodnight Punpun, Vol. 1",
-    "credits": [
-      "Inio Asano (Author)"
-    ],
+    "credits": ["Inio Asano (Author)"],
     "series": "Goodnight Punpun",
     "volume": 1,
-    "genre": [
-      "Coming of Age",
-      "Drama",
-      "Slice of Life"
-    ],
+    "genre": ["Coming of Age", "Drama", "Slice of Life"],
     "description": [
       "A dark coming-of-age tale where slice-of-life slices back.",
       "This is Punpun Onodera’s coming-of-age story. His parents’ marriage is falling apart. His dad goes to jail, and his mom goes to the hospital. He has to live with his loser uncle. He has a crush on a girl who lives in a weird cult. Punpun tries talking with God about his problems, but God is a jerk. Punpun keeps hoping things will get better, but they really, really don’t.",
@@ -417,16 +484,10 @@
   {
     "id": "HAIKYU-V1",
     "title": "Haikyu!!, Vol. 1",
-    "credits": [
-      "Haruichi Furudate (Author)"
-    ],
+    "credits": ["Haruichi Furudate (Author)"],
     "series": "Haikyu!!",
     "volume": 1,
-    "genre": [
-      "Comedy",
-      "Coming of Age",
-      "Sports"
-    ],
+    "genre": ["Sports", "Coming of Age"],
     "description": [
       "Shoyo Hinata is out to prove that in volleyball you don't need to be tall to fly!",
       "Ever since he saw the legendary player known as “the Little Giant” compete at the national volleyball finals, Shoyo Hinata has been aiming to be the best volleyball player ever! Who says you need to be tall to play volleyball when you can jump higher than anyone else?",
@@ -438,16 +499,10 @@
   {
     "id": "HXH-V1",
     "title": "Hunter x Hunter, Vol. 1",
-    "credits": [
-      "Yoshihiro Togashi (Author)"
-    ],
+    "credits": ["Yoshihiro Togashi (Author)"],
     "series": "Hunter x Hunter",
     "volume": 1,
-    "genre": [
-      "Adventure",
-      "Fantasy",
-      "Martial Arts"
-    ],
+    "genre": ["Adventure", "Martial Arts"],
     "description": [
       "Plucky Gon’s quest to find his dad leads him into a whole world of crazy adventure.",
       "Hunters are a special breed, dedicated to tracking down treasures, magical beasts, and even other people. But such pursuits require a license, and less than one in a hundred thousand can pass the grueling qualification exam. Those who do pass gain access to restricted areas, amazing stores of information, and the right to call themselves Hunters.",
@@ -460,16 +515,10 @@
   {
     "id": "JOJO7-V1",
     "title": "JoJo's Bizarre Adventure: Part 7--Steel Ball Run, Vol. 1",
-    "credits": [
-      "Hirohiko Araki (Author)"
-    ],
+    "credits": ["Hirohiko Araki (Author)"],
     "series": "JoJo's Bizarre Adventure: Part 7--Steel Ball Run",
     "volume": 1,
-    "genre": [
-      "Adventure",
-      "Supernatural",
-      "Western"
-    ],
+    "genre": ["Adventure", "Supernatural", "Western"],
     "description": [
       "A multigenerational tale of the heroic Joestar family and their never-ending battle against evil!",
       "The legendary Shonen Jump series is now available in deluxe hardcover editions featuring color pages! JoJo’s Bizarre Adventure is a groundbreaking manga famous for its outlandish characters, wild humor, and frenetic battles.",
@@ -481,16 +530,10 @@
   {
     "id": "JJK-V1",
     "title": "Jujutsu Kaisen, Vol. 1",
-    "credits": [
-      "Gege Akutami (Creator)"
-    ],
+    "credits": ["Gege Akutami (Creator)"],
     "series": "Jujutsu Kaisen",
     "volume": 1,
-    "genre": [
-      "Adventure",
-      "Fantasy",
-      "Supernatural"
-    ],
+    "genre": ["Action", "Supernatural"],
     "description": [
       "To gain the power he needs to save his friend from a cursed spirit, Yuji Itadori swallows a piece of a demon, only to find himself caught in the midst of a horrific war of the supernatural!",
       "In a world where cursed spirits feed on unsuspecting humans, fragments of the legendary and feared demon Ryomen Sukuna have been lost and scattered about. Should any demon consume Sukuna’s body parts, the power they gain could destroy the world as we know it. Fortunately, there exists a mysterious school of jujutsu sorcerers who exist to protect the precarious existence of the living from the supernatural!",
@@ -509,9 +552,7 @@
     ],
     "series": "Kakegurui - Compulsive Gambler",
     "volume": 1,
-    "genre": [
-      "Thriller"
-    ],
+    "genre": ["Thriller"],
     "description": [
       "Hyakkaou Private Academy. An institution for the privileged with a very peculiar curriculum. You see, when you're the sons and daughters of the wealthiest of the wealthy, it's not athletic prowess or book smarts that keep you ahead. It's reading your opponent-the art of the deal. What better way to hone those skills than with a rigorous curriculum of gambling? At Hyakkaou Private Academy, the winners live like kings, and the losers are put through the wringer. But when Yumeko Jabami enrolls, she's gonna teach these kids what a high roller really looks like!"
     ],
@@ -521,16 +562,10 @@
   {
     "id": "LUSTROUS-V1",
     "title": "Land of the Lustrous, Vol. 1",
-    "credits": [
-      "Haruko Ichikawa (Author)"
-    ],
+    "credits": ["Haruko Ichikawa (Author)"],
     "series": "Land of the Lustrous",
     "volume": 1,
-    "genre": [
-      "Action",
-      "Fantasy",
-      "Post-Apocalyptic"
-    ],
+    "genre": ["Fantasy", "Post-Apocalyptic", "Drama"],
     "description": [
       "The elegant, enthralling action manga that became the hit anime! Find out why readers have flocked to this \"gorgeous, absorbing, surprisingly emotionally resonant\" masterpiece!",
       "SEARCHING FOR PURPOSE",
@@ -542,15 +577,10 @@
   {
     "id": "LOOKBACK",
     "title": "Look Back",
-    "credits": [
-      "Tatsuki Fujimoto (Author)"
-    ],
+    "credits": ["Tatsuki Fujimoto (Author)"],
     "series": "Look Back",
-    "volume": 1,
-    "genre": [
-      "Coming of Age",
-      "Drama"
-    ],
+    "volume": 0,
+    "genre": ["Coming of Age", "Drama"],
     "description": [
       "A heart-wrenching single-volume story about the struggles of being an artist, from the creator of Chainsaw Man.",
       "The overly confident Fujino and the shut-in Kyomoto couldn’t be more different, but a love of drawing manga brings these two small-town girls together. A poignant story of growing up and moving forward that only Tatsuki Fujimoto, the creator of Chainsaw Man, could have crafted."
@@ -561,16 +591,10 @@
   {
     "id": "MP100-V1",
     "title": "Mob Psycho, Vol. 1",
-    "credits": [
-      "ONE (Author, Illustrator)"
-    ],
+    "credits": ["ONE (Author, Illustrator)"],
     "series": "Mob Psycho 100",
     "volume": 1,
-    "genre": [
-      "Action",
-      "Comedy",
-      "Supernatural"
-    ],
+    "genre": ["Action", "Comedy", "Supernatural"],
     "description": [
       "From the creator of One-Punch Man and now a Netflix Live Action Series! Do you or someone you know need an exorcist who works cheap? Reigen's your guy!",
       "What's his secret to busting ghosts while keeping prices low? Well, first, he's a fraud, and second, he pays the guy who's got the real psychic power--his student assistant Shigeo--less than minimum wage. Shigeo is an awkward but kind boy whose urge to help others and get along with them is bound up with the mental safety locks he's placed on his own emotions. Reigen knows he needs to exploit Shigeo to stay in business, yet for better or worse he's also his mentor and counselor. And he also knows whenever the normally repressed kid's emotions reach level 100, it may unleash more psychic energy than either of them can handle!"
@@ -581,16 +605,10 @@
   {
     "id": "MONSTERP-V1",
     "title": "Monster: The Perfect Edition, Vol. 1",
-    "credits": [
-      "Naoki Urasawa (Creator)"
-    ],
+    "credits": ["Naoki Urasawa (Creator)"],
     "series": "Monster: The Perfect Edition",
     "volume": 1,
-    "genre": [
-      "Crime",
-      "Mystery",
-      "Thriller"
-    ],
+    "genre": ["Crime", "Mystery", "Thriller"],
     "description": [
       "Naoki Urasawa’s unforgettable thriller follows a brilliant doctor’s journey into the darkest depths of the human soul.",
       "Johan is a cold and calculating killer with a mysterious past, and brilliant Dr. Kenzo Tenma is the only one who can stop him! Conspiracy and serial murder open the door to a compelling, intricately woven plot in this masterwork of suspense.",
@@ -602,17 +620,10 @@
   {
     "id": "MHA-V1",
     "title": "My Hero Academia, Vol. 1",
-    "credits": [
-      "Kohei Horikoshi (Author)",
-      "Caleb D. Cook (Translator)"
-    ],
+    "credits": ["Kohei Horikoshi (Author)", "Caleb D. Cook (Translator)"],
     "series": "My Hero Academia",
     "volume": 1,
-    "genre": [
-      "Adventure",
-      "Fantasy",
-      "Superhero"
-    ],
+    "genre": ["Action", "Superhero"],
     "description": [
       "Midoriya inherits the superpower of the world’s greatest hero, but greatness won’t come easy.",
       "What would the world be like if 80 percent of the population manifested superpowers called “Quirks”? Heroes and villains would be battling it out everywhere! Being a hero would mean learning to use your power, but where would you go to study? The Hero Academy of course! But what would you do if you were one of the 20 percent who were born Quirkless?",
@@ -624,16 +635,10 @@
   {
     "id": "NANA-V1",
     "title": "Nana, Vol. 1",
-    "credits": [
-      "Ai Yazawa (Author)"
-    ],
+    "credits": ["Ai Yazawa (Author)"],
     "series": "Nana",
     "volume": 1,
-    "genre": [
-      "Drama",
-      "Music",
-      "Romance"
-    ],
+    "genre": ["Drama", "Music", "Romance"],
     "description": [
       "A chance meeting on a train to Tokyo sends two girls named Nana on a collision course with destiny!",
       "Nana \"Hachi\" Komatsu hopes that moving to Tokyo will help her make a clean start and leave her capricious love life behind her. Nana Osaki, who arrives in the city at the same time, has plans to score big in the world of rock'n'roll. Although these two young women come from different backgrounds, they quickly become best friends in a whirlwind world of sex, music, fashion, gossip and all-night parties!",
@@ -647,17 +652,10 @@
   {
     "id": "NARUTO-V1",
     "title": "Naruto, Vol. 1: Uzumaki Naruto",
-    "credits": [
-      "Masashi Kishimoto (Author, Illustrator)"
-    ],
+    "credits": ["Masashi Kishimoto (Author, Illustrator)"],
     "series": "Naruto",
     "volume": 1,
-    "genre": [
-      "Action",
-      "Fantasy",
-      "Comedy",
-      "Martial Arts"
-    ],
+    "genre": ["Action", "Martial Arts"],
     "description": [
       "The world’s most popular ninja comic!",
       "Naruto is a young shinobi with an incorrigible knack for mischief. He’s got a wild sense of humor, but Naruto is completely serious about his mission to be the world’s greatest ninja!",
@@ -669,17 +667,10 @@
   {
     "id": "OP-V1",
     "title": "One Piece, Vol. 1: Romance Dawn",
-    "credits": [
-      "Eiichiro Oda (Author, Illustrator)"
-    ],
+    "credits": ["Eiichiro Oda (Author, Illustrator)"],
     "series": "One Piece",
     "volume": 1,
-    "genre": [
-      "Action",
-      "Adventure",
-      "Fantasy",
-      "Comedy"
-    ],
+    "genre": ["Action", "Adventure"],
     "description": [
       "Join Monkey D. Luffy and his swashbuckling crew in their search for the ultimate treasure, One Piece!",
       "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world..."
@@ -690,17 +681,10 @@
   {
     "id": "OPM-V1",
     "title": "One-Punch Man, Vol. 1",
-    "credits": [
-      "ONE (Author)",
-      "Yusuke Murata (Illustrator)"
-    ],
+    "credits": ["ONE (Author)", "Yusuke Murata (Illustrator)"],
     "series": "One-Punch Man",
     "volume": 1,
-    "genre": [
-      "Action",
-      "Comedy",
-      "Superhero"
-    ],
+    "genre": ["Action", "Comedy", "Superhero"],
     "description": [
       "Life gets pretty boring when you can beat the snot out of any villain with just one punch.",
       "Nothing about Saitama passes the eyeball test when it comes to superheroes, from his lifeless expression to his bald head to his unimpressive physique. However, this average-looking guy has a not-so-average problem—he just can’t seem to find an opponent strong enough to take on!",
@@ -712,15 +696,10 @@
   {
     "id": "REAL-V1",
     "title": "Real, Vol. 1",
-    "credits": [
-      "Takehiko Inoue (Author)"
-    ],
+    "credits": ["Takehiko Inoue (Author)"],
     "series": "Real",
     "volume": 1,
-    "genre": [
-      "Drama",
-      "Sports"
-    ],
+    "genre": ["Drama", "Sports"],
     "description": [
       "Eisner-award nominated creator Takehiko Inoue creates a dramatic tale of triumph over adversity. This is the story of three young men whose lives are profoundly changed by their involvement with wheelchair basketball.",
       "Critically acclaimed, award-winning manga artist Takehiko Inoue doesn’t pull any punches in this stunning portrayal of people struggling with serious life issues. Masterfully combining rich character development with beautifully detailed line art, Inoue, the creator of the mega-hit masterpieces Slam Dunk and Vagabond, lifts the manga medium to a completely new level of storytelling.",
@@ -732,14 +711,10 @@
   {
     "id": "SAILORMOON-V1",
     "title": "Sailor Moon, Vol. 1",
-    "credits": [
-      "Naoko Takeuchi (Author)"
-    ],
+    "credits": ["Naoko Takeuchi (Author)"],
     "series": "Sailor Moon",
     "volume": 1,
-    "genre": [
-      "Magical Girl"
-    ],
+    "genre": ["Action", "Comedy", "Fantasy", "Magical Girl"],
     "description": [
       "A new edition of the Sailor Moon manga, for a new generation of fans! Featuring an updated translation and high page count in a more affordable, portable edition, perfect to go wherever you or the legendary guardian in your life want to take it.",
       "Teenager Usagi is not the best athlete, she's never gotten good grades, and, well, she's a bit of a crybaby. But when she meets a talking cat, she begins a journey that will teach her she has a well of great strength just beneath the surface and the heart to inspire and stand up for her friends as Sailor Moon! The original Sailor Moon in a new, affordable edition."
@@ -750,16 +725,10 @@
   {
     "id": "SKIPANDLOAFER-V1",
     "title": "Skip and Loafer, Vol. 1",
-    "credits": [
-      "Misaki Takamatsu (Author)"
-    ],
+    "credits": ["Misaki Takamatsu (Author)"],
     "series": "Skip and Loafer",
     "volume": 1,
-    "genre": [
-      "Comedy",
-      "Romance",
-      "Slice of Life"
-    ],
+    "genre": ["Comedy", "Romance", "Slice of Life"],
     "description": [
       "The award-winning romantic comedy about a country girl chasing her dreams in Tokyo--and don't miss the anime!",
       "Mitsumi is bound for high school in Tokyo! She's got book smarts, but this small-town girl is about to find out she's massively unprepared for the social norms of big city high schoolers."
@@ -770,16 +739,10 @@
   {
     "id": "SLAMDUNK-V1",
     "title": "Slam Dunk, Vol. 1",
-    "credits": [
-      "Takehiko Inoue (Author)"
-    ],
+    "credits": ["Takehiko Inoue (Author)"],
     "series": "Slam Dunk",
     "volume": 1,
-    "genre": [
-      "Comedy",
-      "Coming of Age",
-      "Sports"
-    ],
+    "genre": ["Comedy", "Coming of Age", "Sports"],
     "description": [
       "The best-selling series from Eisner-nominated Takehiko Inoue, one of Japan’s greatest manga creators.",
       "Winning isn't everything in the game of basketball, but who wants to come in second? It takes dedication and discipline to be the best, and the Shohoku High hoops team wants to be just that. They have one last year to make their captain's dream of reaching the finals come true—will they do it?",
@@ -801,10 +764,7 @@
     ],
     "series": "Solo Leveling",
     "volume": 1,
-    "genre": [
-      "Action",
-      "Fantasy"
-    ],
+    "genre": ["Action"],
     "description": [
       "Known as the Weakest Hunter of All Mankind, E-rank hunter Jinwoo Sung’s contribution to raids amounts to trying not to get killed. Unfortunately, between his mother’s hospital bills, his sister’s tuition, and his own lack of job prospects, he has no choice but to continue to put his life on the line. So when an opportunity arises for a bigger payout, he takes it…only to come face-to-face with a being whose power outranks anything he’s ever seen! With the party leader missing an arm and the only healer a quivering mess, can Jinwoo some­how find them a way out?"
     ],
@@ -814,15 +774,10 @@
   {
     "id": "SXF-V1",
     "title": "Spy x Family, Vol. 1",
-    "credits": [
-      "Tatsuya Endo (Author)"
-    ],
+    "credits": ["Tatsuya Endo (Author)"],
     "series": "Spy x Family",
     "volume": 1,
-    "genre": [
-      "Action",
-      "Comedy"
-    ],
+    "genre": ["Comedy", "Slice of Life", "Action"],
     "description": [
       "An action-packed comedy about a fake family that includes a spy, an assassin and a telepath!",
       "Master spy Twilight is unparalleled when it comes to going undercover on dangerous missions for the betterment of the world. But when he receives the ultimate assignment—to get married and have a kid—he may finally be in over his head!",
@@ -842,11 +797,7 @@
     ],
     "series": "The Climber",
     "volume": 1,
-    "genre": [
-      "Adventure",
-      "Drama",
-      "Sports"
-    ],
+    "genre": ["Drama", "Sports"],
     "description": [
       "The harder you climb, the higher you live.",
       "Buntaro Mori is a loner, but being alone in a crowd is almost as bad as being forced to fit in. When a dangerous bid for solitude introduces Mori to the rush of solo climbing, he becomes addicted to the brilliant sense of freedom he finds as he pits his body and soul against the heights. But how high does he have to climb to leave humanity behind?",
@@ -858,15 +809,10 @@
   {
     "id": "ETERNITY-V1",
     "title": "To Your Eternity, Vol. 1",
-    "credits": [
-      "Yoshitoki Oima (Author)"
-    ],
+    "credits": ["Yoshitoki Oima (Author)"],
     "series": "To Your Eternity",
     "volume": 1,
-    "genre": [
-      "Drama",
-      "Fantasy"
-    ],
+    "genre": ["Drama", "Fantasy"],
     "description": [
       "A new manga from the creator of the acclaimed A Silent Voice, featuring intimate, emotional drama and an epic story spanning time and space...",
       "A lonely boy wandering the desolate tundra meets a wolf, and the two become fast friends, depending on each other to survive the harsh environment. But the boy has a history, and the wolf is more than meets the eye as well... To Your Eternity is a totally unique and moving manga about death, life, reincarnation, and the nature of love."
@@ -877,15 +823,10 @@
   {
     "id": "TKG-V1",
     "title": "Tokyo Ghoul, Vol. 1",
-    "credits": [
-      "Sui Ishida (Author)"
-    ],
+    "credits": ["Sui Ishida (Author)"],
     "series": "Tokyo Ghoul",
     "volume": 1,
-    "genre": [
-      "Fantasy",
-      "Thriller"
-    ],
+    "genre": ["Thriller", "Action"],
     "description": [
       "Ghouls live among us, the same as normal people in every way—except their craving for human flesh.",
       "Ken Kaneki is an ordinary college student until a violent encounter turns him into the first half-human half-ghoul hybrid. Trapped between two worlds, he must survive Ghoul turf wars, learn more about Ghoul society and master his new powers.",
@@ -895,38 +836,26 @@
     "coverImage": "../public/covers/tokyoghoul-v1.jpg"
   },
   {
-    "id": "UZUMAKI-V1",
+    "id": "UZUMAKI",
     "title": "Uzumaki (3-in-1 Deluxe Edition)",
-    "credits": [
-      "Junji Ito (Author)"
-    ],
+    "credits": ["Junji Ito (Author)"],
     "series": "Uzumaki",
-    "volume": 1,
-    "genre": [
-      "Fantasy",
-      "Horror",
-      "Supernatural"
-    ],
+    "volume": 0,
+    "genre": ["Horror", "Supernatural"],
     "description": [
       "A masterpiece of horror manga, now available in a deluxe hardcover edition!",
       "Kurouzu-cho, a small fogbound town on the coast of Japan, is cursed. According to Shuichi Saito, the withdrawn boyfriend of teenager Kirie Goshima, their town is haunted not by a person or being but a pattern: UZUMAKI, the spiral—the hypnotic secret shape of the world. The bizarre masterpiece horror manga is now available all in a single volume. Fall into a whirlpool of terror!"
     ],
     "price": 34.99,
-    "coverImage": "../public/covers/uzumaki-v1.jpg"
+    "coverImage": "../public/covers/uzumaki.jpg"
   },
   {
     "id": "VINLAND-V1",
     "title": "Vinland Saga, Vol. 1",
-    "credits": [
-      "Makoto Yukimura (Author)"
-    ],
+    "credits": ["Makoto Yukimura (Author)"],
     "series": "Vinland Saga",
     "volume": 1,
-    "genre": [
-      "Adventure",
-      "Epic",
-      "Historical"
-    ],
+    "genre": ["Adventure", "Epic", "Historical"],
     "description": [
       "As a child, Thorfinn sat at the feet of the great Leif Ericson and thrilled to wild tales of a land far to the west. But his youthful fantasies were shattered by a mercenary raid. Raised by the Vikings who murdered his family, Thorfinn became a terrifying warrior, forever seeking to kill the band's leader, Askeladd, and avenge his father. Sustaining Thorfinn through his ordeal are his pride in his family and his dreams of a fertile westward land, a land without war or slavery...the land Leif called Vinland."
     ],
@@ -936,14 +865,10 @@
   {
     "id": "WITCHHAT-V1",
     "title": "Witch Hat Atelier, Vol. 1",
-    "credits": [
-      "Kamome Shirahama (Author)"
-    ],
+    "credits": ["Kamome Shirahama (Author)"],
     "series": "Witch Hat Atelier",
     "volume": 1,
-    "genre": [
-      "Fantasy"
-    ],
+    "genre": ["Fantasy", "Coming of Age"],
     "description": [
       "A beautifully-illustrated story about a girl who longs for magic in her life and learns that, on the inside, she already is what she wishes she could be. Reminiscent of Studio Ghibli, this lushly-drawn story has captured the hearts of fantasy fans worldwide.",
       "In a world where everyone takes wonders like magic spells and dragons for granted, Coco is a girl with a simple dream: She wants to be a witch. But everybody knows magicians are born, not made, and Coco was not born with a gift for magic. Resigned to her un-magical life, Coco is about to give up on her dream to become a witch...until the day she meets Qifrey, a mysterious, traveling magician. After secretly seeing Qifrey perform magic in a way she's never seen before, Coco soon learns what everybody \"knows\" might not be the truth, and discovers that her magical dream may not be as far away as it may seem..."
@@ -954,16 +879,10 @@
   {
     "id": "YOTSUBA-V1",
     "title": "Yotsuba&!, Vol. 1",
-    "credits": [
-      "Kiyohiko Azuma (Creator)",
-      "Amy Forsyth (Translator)"
-    ],
+    "credits": ["Kiyohiko Azuma (Creator)", "Amy Forsyth (Translator)"],
     "series": "Yotsuba&!",
     "volume": 1,
-    "genre": [
-      "Comedy",
-      "Slice of Life"
-    ],
+    "genre": ["Comedy", "Slice of Life"],
     "description": [
       "Hello! This is Koiwai Yotsuba, Yotsuba Koiwai...um, YOTSUBA! Yotsuba moved with Daddy to a new house from our old house waaaaaaay over there! And moving's fun 'cos people wave! (Ohhhh!!) And Yotsuba met these nice people next door and made friends to play with (one of 'em acted like one of those bad strangers Daddy told Yotsuba not to go with, but it was okay in the end). I hope we get to play a lot. And eat ice cream! And-and-and...oh yeah! You should come play with Yotsuba too!"
     ],

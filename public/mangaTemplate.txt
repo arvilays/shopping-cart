@@ -1,0 +1,19 @@
+{
+  "id": "",
+  "title": "",
+  "credits": [
+    ""
+  ],
+  "series": "",
+  "volume": 1,
+  "genre": [
+    ""
+  ],
+  "description": [
+    "",
+    "",
+    ""
+  ],
+  "price": ,
+  "coverImage": "../public/covers/.jpg"
+}

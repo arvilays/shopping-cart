@@ -1,22 +1,27 @@
 @media only screen and (min-width: 0px) {
-  .product-card {
+.product-card {
     display: flex;
     flex-direction: column;
     align-items: center;
     text-align: center;
+  }
+
+  .product-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     gap: 5px;
-    height: fit-content;
 
     text-decoration: none;
     color: inherit;
 
+    position: relative;
     transition: transform 0.2s ease;
     transform: translateY(0);
     will-change: transform;
-    position: relative;
   }
 
-  .product-card:hover {
+  .product-content:hover {
     cursor: pointer;
     transform: translateY(-8px);
   }
@@ -35,4 +40,3 @@
   .product-card-price {
     font-weight: 200;
   }
-}
