@@ -100,22 +100,27 @@
 
   .header-main-search {
     flex: 1;
+    min-width: 0;
     overflow: hidden;
     display: flex;
-    margin: 0px 20px;
+    gap: 0;
+    margin: 0 10px;
     border: 2px solid black;
     border-radius: 15px;
   }
 
   .header-main-search-bar {
+    flex: 1;
+    min-width: 0;
     display: flex;
-    width: 100%;
   }
 
   .header-main-search-bar input {
     flex: 1;
+    min-width: 0;
+    width: 100%;
     padding: 12px 20px;
-    border: 0px;
+    border: none;
   }
 
   .header-main-search-bar input:focus {
@@ -160,11 +165,4 @@
   .header-main-cart {
     padding: 0px;
   }
-}
-
-/*##############################
-||         CATEGORIES         ||
-##############################*/
-@media only screen and (min-width: 0px) {
-  
 }
