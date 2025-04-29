@@ -25,7 +25,7 @@ function Header() {
   return (
     <header>
       <div className="header-main">
-        <Link to="/" className="header-main-logo">
+        <Link to="/" className="header-main-logo" onClick={() => setSearchTerm("")}>
           MANGA<span>KART</span>🍥
         </Link>
 
