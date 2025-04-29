@@ -32,7 +32,12 @@ function Header() {
   };
 
   const handleOutsideClick = (e) => {
-    if (sidebarRef.current && !sidebarRef.current.contains(e.target)) {
+    const menuIcon = document.getElementById("menu-icon");
+    if (
+      sidebarRef.current &&
+      !sidebarRef.current.contains(e.target) &&
+      !menuIcon.contains(e.target)
+    ) {
       setSidebarOpen(false);
     }
   };
