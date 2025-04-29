@@ -91,19 +91,38 @@ function Search() {
         (product) => product.price >= minPrice && product.price <= maxPrice,
       )
       .sort((a, b) => {
-        if (selectedSeries) return a.volume - b.volume;
+        if (selectedSeries) {
+          // If a series is selected, just sort by volume
+          return a.volume - b.volume;
+        }
 
         switch (sortFilter) {
           case "name-asc":
-            return (
-              a.series?.localeCompare(b.series) ||
-              a.title.localeCompare(b.title)
-            );
+            if (a.series && b.series) {
+              const seriesCompare = a.series.localeCompare(b.series);
+              if (seriesCompare !== 0) {
+                return seriesCompare; // Different series → sort alphabetically
+              } else {
+                // Same series → sort by volume
+                return a.volume - b.volume;
+              }
+            } else {
+              // Fallback: sort by title alphabetically
+              return a.title.localeCompare(b.title);
+            }
+
           case "name-desc":
-            return (
-              b.series?.localeCompare(a.series) ||
-              b.title.localeCompare(a.title)
-            );
+            if (a.series && b.series) {
+              const seriesCompare = b.series.localeCompare(a.series);
+              if (seriesCompare !== 0) {
+                return seriesCompare;
+              } else {
+                return a.volume - b.volume;
+              }
+            } else {
+              return b.title.localeCompare(a.title);
+            }
+
           case "price-asc":
             return a.price - b.price;
           case "price-desc":
