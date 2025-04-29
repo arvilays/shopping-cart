@@ -5,7 +5,7 @@
     flex-direction: column;
     margin-bottom: -35px;
     padding: 0px 30px;
-    height: 420px;
+    height: 360px;
   }
 
   .product-bar-header {
@@ -43,7 +43,13 @@
   }
 }
 
-@media only screen and (min-width: 350px) {
+@media only screen and (min-width: 320px) {
+  .product-bar {
+    height: 420px;
+  }
+}
+
+@media only screen and (min-width: 410px) {
   .product-bar {
     height: 490px;
   }
