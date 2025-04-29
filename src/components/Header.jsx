@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import "../style/header.css";
 import menuImage from "../assets/menu.svg";
@@ -20,6 +20,7 @@ function Header() {
   const navigate = useNavigate();
   const [sidebarOpen, setSidebarOpen] = useState(false);
   const [searchTerm, setSearchTerm] = useState("");
+  const sidebarRef = useRef(null);
 
   const toggleSidebar = () => {
     setSidebarOpen((prev) => !prev);
@@ -29,6 +30,24 @@ function Header() {
     const trimmed = searchTerm.trim();
     navigate(`/search?search=${encodeURIComponent(trimmed)}`);
   };
+
+  const handleOutsideClick = (e) => {
+    if (sidebarRef.current && !sidebarRef.current.contains(e.target)) {
+      setSidebarOpen(false);
+    }
+  };
+
+  useEffect(() => {
+    if (sidebarOpen) {
+      document.addEventListener("mousedown", handleOutsideClick);
+    } else {
+      document.removeEventListener("mousedown", handleOutsideClick);
+    }
+
+    return () => {
+      document.removeEventListener("mousedown", handleOutsideClick);
+    };
+  }, [sidebarOpen]);
 
   return (
     <>
@@ -71,7 +90,7 @@ function Header() {
         </div>
       </header>
 
-      <div className={`sidebar ${sidebarOpen ? "sidebar-opened" : ""}`}>
+      <div ref={sidebarRef} className={`sidebar ${sidebarOpen ? "sidebar-opened" : ""}`}>
         <Link to="/search" className="sidebar-category">
           All
         </Link>
