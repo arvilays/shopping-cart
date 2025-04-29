@@ -13,8 +13,10 @@
   .home-carousel {
     overflow: hidden;
     background-color: #ffffff;
-      opacity: 1;
-      background-image: repeating-radial-gradient(circle at 0 0, transparent 0, #ffffff 32px), repeating-linear-gradient(#f3f3f355, #f3f3f3);
+    opacity: 1;
+    background-image:
+      repeating-radial-gradient(circle at 0 0, transparent 0, #ffffff 32px),
+      repeating-linear-gradient(#f3f3f355, #f3f3f3);
     display: flex;
     justify-content: center;
     position: relative;

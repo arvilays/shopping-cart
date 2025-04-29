@@ -24,7 +24,7 @@ function Header() {
 
   const toggleSidebar = () => {
     setSidebarOpen((prev) => !prev);
-  }
+  };
 
   const handleSearch = () => {
     const trimmed = searchTerm.trim();
@@ -59,8 +59,18 @@ function Header() {
       <header>
         <div className="header-main">
           <div className="header-main-menu-logo">
-            <img src={sidebarOpen ? closeImage : menuImage} alt="menu" className={sidebarOpen ? "menu-opened" : ""} id="menu-icon" onClick={toggleSidebar} />
-            <Link to="/" className="header-main-logo" onClick={() => setSearchTerm("")}>
+            <img
+              src={sidebarOpen ? closeImage : menuImage}
+              alt="menu"
+              className={sidebarOpen ? "menu-opened" : ""}
+              id="menu-icon"
+              onClick={toggleSidebar}
+            />
+            <Link
+              to="/"
+              className="header-main-logo"
+              onClick={() => setSearchTerm("")}
+            >
               <img src={logoImage} alt="MangaKart" />
             </Link>
           </div>
@@ -95,7 +105,10 @@ function Header() {
         </div>
       </header>
 
-      <div ref={sidebarRef} className={`sidebar ${sidebarOpen ? "sidebar-opened" : ""}`}>
+      <div
+        ref={sidebarRef}
+        className={`sidebar ${sidebarOpen ? "sidebar-opened" : ""}`}
+      >
         <Link to="/search" className="sidebar-category">
           All
         </Link>

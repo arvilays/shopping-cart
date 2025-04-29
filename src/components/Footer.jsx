@@ -81,6 +81,12 @@ function Footer() {
         <div className="footer-credits-copyright">
           &copy; 2025-20XX, MangaKart, A Totally Real Company
         </div>
+        <div className="footer-credits-dev">
+          Mock Store Project by&nbsp;
+          <a href="https://github.com/arvilays" target="_blank" rel="noopener noreferrer">
+            arvilays
+          </a>
+        </div>
       </div>
     </footer>
   );

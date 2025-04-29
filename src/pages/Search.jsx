@@ -147,16 +147,14 @@ function Search() {
   );
 
   useEffect(() => {
-    window.scrollTo({ top: 0, behavior: 'smooth' });
+    window.scrollTo({ top: 0, behavior: "smooth" });
   }, [currentPage]);
 
   return (
     <div className="search">
       <div className="search-results">Results</div>
       {searchTerm && (
-        <div className="search-title">
-          Showing results for "{searchTerm}".
-        </div>
+        <div className="search-title">Showing results for "{searchTerm}".</div>
       )}
       <hr />
 
