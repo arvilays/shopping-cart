@@ -19,7 +19,8 @@ function Header() {
   const [searchTerm, setSearchTerm] = useState("");
 
   const handleSearch = () => {
-    navigate(`/search?search=${encodeURIComponent(searchTerm.trim() || "")}`);
+    const trimmed = searchTerm.trim();
+    navigate(`/search?search=${encodeURIComponent(trimmed)}`);
   };
 
   return (
@@ -34,6 +35,7 @@ function Header() {
             />
           </Link>
         </div>
+
         <div className="header-main-search">
           <div className="header-main-search-bar">
             <input
@@ -46,14 +48,18 @@ function Header() {
               onKeyDown={(e) => e.key === "Enter" && handleSearch()}
             />
           </div>
+
           <div className="header-main-search-icon">
-            <Link
-              to={`/search?search=${encodeURIComponent(searchTerm.trim())}`}
+            <div
+              onClick={handleSearch}
+              className="search-button"
+              aria-label="Search"
             >
-              <img src={searchImage} alt="search" />
-            </Link>
+              <img src={searchImage} alt="search icon" />
+            </div>
           </div>
         </div>
+
         <div className="header-main-cart">
           <Link to="/cart">
             <img src={cartImage} alt="cart" />
@@ -68,7 +74,7 @@ function Header() {
         {genres.map((genre) => (
           <Link
             key={genre}
-            to={`/search?genres=${genre}`}
+            to={`/search?genres=${encodeURIComponent(genre)}`}
             className="header-category"
           >
             {genre}

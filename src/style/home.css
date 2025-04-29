@@ -4,17 +4,19 @@
     flex-direction: column;
     gap: 20px;
   }
+}
 
-  /*##############################
-  ||          CAROUSEL          ||
-  ##############################*/
+/*##############################
+||          CAROUSEL          ||
+##############################*/
+@media only screen and (min-width: 0px) {
   .home-carousel {
+    overflow: hidden;
     display: flex;
     justify-content: center;
     position: relative;
     width: 100%;
     padding: 0px 0px 40px;
-    overflow: hidden;
   }
 
   .home-carousel-banner {
@@ -23,51 +25,53 @@
   }
 
   .home-carousel-dots {
-    position: absolute;
-    bottom: 15px;
-    width: 100%;
     display: flex;
     justify-content: center;
     gap: 10px;
+    position: absolute;
+    bottom: 15px;
+    width: 100%;
   }
 
   .home-carousel-dots .dot {
+    cursor: pointer;
+    background-color: white;
     width: 12px;
     height: 12px;
-    border-radius: 50%;
-    background-color: white;
     border: 2px solid black;
-    cursor: pointer;
+    border-radius: 50%;
     transition: background-color 0.3s;
   }
 
   .home-carousel-dots .dot.active {
     background-color: black;
   }
+}
 
-  /*##############################
-  ||          EXPLORE           ||
-  ##############################*/
+/*##############################
+||          EXPLORE           ||
+##############################*/
+@media only screen and (min-width: 0px) {
   .home-explore {
-    position: relative;
+    overflow: hidden;
     background-color: grey;
+    position: relative;
     height: 700px;
     margin: 10px 0px;
-    overflow: hidden;
   }
 
   .home-explore-text {
     z-index: 1;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
     display: flex;
     flex-direction: column;
     align-items: center;
     gap: 20px;
     font-family: "cal sans";
     text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
   }
 
   .home-explore-logo {
@@ -92,7 +96,6 @@
     font-weight: 500;
     text-decoration: none;
     padding: 5px 20px;
-
     transition: background-color 0.25s;
   }
 
@@ -106,8 +109,8 @@
     position: relative;
     top: -50%;
     filter: brightness(75%);
-    transition: transform 0.2s ease-out; /* smoother movement */
-    will-change: transform; /* better performance hint */
+    transition: transform 0.2s ease-out;
+    will-change: transform;
   }
 
   .home-explore-grid img {
@@ -118,10 +121,12 @@
   .home-explore-grid img:nth-child(2n) {
     transform: translateY(-150px);
   }
+}
 
-  /*##############################
-  ||          REVIEWS           ||
-  ##############################*/
+/*##############################
+||          REVIEWS           ||
+##############################*/
+@media only screen and (min-width: 0px) {
   .home-reviews {
     display: flex;
     flex-direction: column;
@@ -151,12 +156,12 @@
   }
 
   .home-review-text {
-    position: relative;
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 1.5em;
     font-family: "cal sans";
+    font-size: 1.5em;
+    position: relative;
     width: 100%;
     height: 200px;
     padding: 20px;
@@ -170,9 +175,9 @@
     bottom: -20px;
     left: 50%;
     transform: translateX(-50%);
+    border-top: 20px solid black;
     border-left: 20px solid transparent;
     border-right: 20px solid transparent;
-    border-top: 20px solid black;
   }
 
   .home-review-avatar img {

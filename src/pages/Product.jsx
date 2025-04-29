@@ -6,70 +6,105 @@ function Product() {
   const { id } = useParams();
   const { storeData } = useOutletContext();
 
-  if (!id) {
-    return <div className="product-none">🤔Please select a product!</div>;
-  }
-
   const productData = storeData.find((manga) => manga.id === id);
 
-  if (!productData) {
-    return <div className="product-none">🤷‍♀️Product not found!</div>;
+  if (!id || !productData) {
+    return (
+      <div className="product-none">
+        {!id ? "🤔Please select a product!" : "🤷‍♀️Product not found!"}
+      </div>
+    );
   }
 
+  const {
+    title,
+    credits,
+    series,
+    volume,
+    genre,
+    description,
+    price,
+    coverImage,
+  } = productData;
+
+  // Find related products by matching genres of the current product
   const relatedProducts = storeData.filter(
     (product) =>
-      product.id !== productData.id && // Exclude the current product itself
-      product.genre.some((genre) => productData.genre.includes(genre)), // Match genres
+      product.id !== id && product.genre.some((g) => genre.includes(g)),
   );
-
-  const currentVolume = productData.volume;
 
   const productSeries = storeData
-    .filter(
-      (product) =>
-        product.id !== productData.id && product.series === productData.series,
-    )
+    .filter((product) => product.id !== id && product.series === series)
     .sort((a, b) => a.volume - b.volume);
 
-  const laterVolumes = productSeries.filter(
-    (product) => product.volume > currentVolume,
-  );
-  const earlierVolumes = productSeries.filter(
-    (product) => product.volume <= currentVolume,
-  );
-
+  const laterVolumes = productSeries.filter((p) => p.volume > volume);
+  const earlierVolumes = productSeries.filter((p) => p.volume <= volume);
   const rotatedProductSeries = [...laterVolumes, ...earlierVolumes];
 
   return (
     <div className="product">
       <div className="product-main">
         <div className="product-image">
-          <img src={productData.coverImage} alt={productData.title} />
+          <img src={coverImage} alt={title} />
         </div>
+
         <div className="product-information">
-          <div className="product-title">{productData.title}</div>
-          <div className="product-credits">
-            by {productData.credits.join(", ")}
-          </div>
-          {productData.volume > 0 && (
+          <div className="product-title">{title}</div>
+          <div className="product-credits">by {credits.join(", ")}</div>
+
+          {volume > 0 && (
             <Link
-              to={`/search?series=${encodeURIComponent(productData.series)}`}
+              to={`/search?series=${encodeURIComponent(series)}`}
               className="product-volume"
             >
-              Volume {productData.volume} of "{productData.series}"
+              Volume {volume} of "{series}"
             </Link>
           )}
 
+          <hr />
+
           <div className="product-description">
-            {productData.description.map((line, index) => (
+            {description.map((line, index) => (
               <div key={index}>{line}</div>
             ))}
           </div>
+
+          <hr />
+
+          <div className="product-genres">
+            <div className="product-genre-list">
+              {genre.map((g) => (
+                <Link
+                  to={`/search?genres=${encodeURIComponent(g)}`}
+                  key={g}
+                  className="product-genre"
+                >
+                  {g}
+                </Link>
+              ))}
+            </div>
+          </div>
         </div>
+
         <div className="product-purchase">
-          <div className="product-price">${productData.price}</div>
-          <div className="product-add-to-cart">Add to Cart</div>
-          <div className="product-buy">Buy Now</div>
+          <div className="product-purchase-container">
+            <div className="product-price">${price}</div>
+            <div className="product-quantity">
+              <span>Quantity:</span>
+              <input
+                type="number"
+                name="quantity"
+                id="quantity"
+                placeholder="#"
+                min={1}
+                defaultValue={1}
+              />
+            </div>
+            <div className="product-add-to-cart product-button">
+              Add to Cart
+            </div>
+            <div className="product-buy product-button">Buy Now</div>
+          </div>
         </div>
       </div>
 
@@ -77,8 +112,8 @@ function Product() {
         <div className="product-series">
           <ProductBar
             storeData={rotatedProductSeries}
-            title={`📚More ${productData.series} Volumes`}
-            link={`/search?series=${encodeURIComponent(productData.series)}`}
+            title={`📚More ${series} Volumes`}
+            link={`/search?series=${encodeURIComponent(series)}`}
             shuffle={false}
             uniqueSeries={false}
           />
@@ -88,7 +123,7 @@ function Product() {
       <div className="product-recommend">
         <ProductBar
           storeData={relatedProducts}
-          title="😍Readers Also Like"
+          title="😍More Titles You'll Love"
           link="/search"
           showViewMore={false}
         />

@@ -4,6 +4,19 @@
 body {
   display: flex;
   flex-direction: column;
-  font-family: "roboto";
+  font-family: "roboto", Arial;
   font-size: 16px;
+}
+
+.loading {
+  font-size: 5em;
+  font-weight: 100;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+fieldset {
+  border: none;
 }

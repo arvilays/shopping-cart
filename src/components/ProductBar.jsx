@@ -11,17 +11,13 @@ function ProductBar({
   shuffle = true,
   uniqueSeries = true,
 }) {
-  let newStoreData;
+  const filteredData = uniqueSeries
+    ? storeData.filter((product) => product.volume <= 1)
+    : storeData;
 
-  if (uniqueSeries) {
-    newStoreData = storeData.filter((product) => product.volume <= 1);
-  } else {
-    newStoreData = storeData;
-  }
-
-  newStoreData = shuffle
-    ? shuffleArray(newStoreData).slice(0, 12)
-    : newStoreData.slice(0, 12);
+  const displayData = shuffle
+    ? shuffleArray(filteredData).slice(0, 12)
+    : filteredData.slice(0, 12);
 
   return (
     <div className="product-bar">
@@ -41,7 +37,7 @@ function ProductBar({
       <hr />
 
       <div className="product-bar-grid">
-        {newStoreData.map((manga) => (
+        {displayData.map((manga) => (
           <ProductCard key={manga.id} productData={manga} />
         ))}
       </div>

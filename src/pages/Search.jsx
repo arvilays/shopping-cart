@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState, useEffect, useMemo } from "react";
 import { useOutletContext, useLocation, useNavigate } from "react-router-dom";
 import "../style/search.css";
 import ProductCard from "../components/ProductCard";
@@ -10,7 +10,7 @@ function Search() {
   const navigate = useNavigate();
   const queryParams = new URLSearchParams(location.search);
 
-  // States initialized from URL params
+  // --- States initialized from URL ---
   const [filterOpen, setFilterOpen] = useState(false);
   const [searchTerm, setSearchTerm] = useState(queryParams.get("search") || "");
   const [sortFilter, setSortFilter] = useState(
@@ -26,17 +26,18 @@ function Search() {
   const [selectedSeries, setSelectedSeries] = useState(
     queryParams.get("series") || "",
   );
-
-  // Pagination states
   const [currentPage, setCurrentPage] = useState(1);
-  const itemsPerPage = 50; // Number of items per page
+  const itemsPerPage = 50;
 
-  // Generate list of unique genres
-  const allGenres = storeData.length
-    ? [...new Set(storeData.flatMap((product) => product.genre))].sort()
-    : [];
+  const allGenres = useMemo(
+    () =>
+      storeData.length
+        ? [...new Set(storeData.flatMap((product) => product.genre))].sort()
+        : [],
+    [storeData],
+  );
 
-  // Update state based on URL changes
+  // --- Sync state with URL ---
   useEffect(() => {
     const params = new URLSearchParams(location.search);
     setSearchTerm(params.get("search") || "");
@@ -50,103 +51,86 @@ function Search() {
     setCurrentPage(1);
   }, [location.search]);
 
-  // Update URL whenever filters change
-  const updateURL = () => {
-    const params = new URLSearchParams();
-    if (searchTerm) params.set("search", searchTerm);
-    if (sortFilter) params.set("sort", sortFilter);
-    if (selectedGenres.length) params.set("genres", selectedGenres.join(","));
-    if (priceRange.min) params.set("min", priceRange.min);
-    if (priceRange.max) params.set("max", priceRange.max);
-    if (selectedSeries) params.set("series", selectedSeries);
-    setCurrentPage(1);
-
-    navigate(`${location.pathname}?${params.toString()}`, { replace: true });
-  };
-
+  // --- Debounced URL Update ---
   useEffect(() => {
-    updateURL();
-  }, [searchTerm, sortFilter, selectedGenres, priceRange]);
+    const timeout = setTimeout(() => {
+      const params = new URLSearchParams();
+      if (searchTerm) params.set("search", searchTerm);
+      if (sortFilter) params.set("sort", sortFilter);
+      if (selectedGenres.length) params.set("genres", selectedGenres.join(","));
+      if (priceRange.min) params.set("min", priceRange.min);
+      if (priceRange.max) params.set("max", priceRange.max);
+      if (selectedSeries) params.set("series", selectedSeries);
 
-  // Apply filters to storeData
-  let filteredStoreData = storeData
-    // 1. Filter by series if selected
-    .filter((product) =>
-      selectedSeries ? product.series === selectedSeries : true,
-    )
-    // 2. Filter by search term
-    .filter((product) =>
-      searchTerm
-        ? product.title.toLowerCase().includes(searchTerm.toLowerCase())
-        : true,
-    )
-    // 3. Filter by selected genres
-    .filter((product) =>
-      selectedGenres.length
-        ? selectedGenres.some((genre) => product.genre.includes(genre))
-        : true,
-    )
-    // 4. Filter by price
-    .filter((product) => {
-      const min = priceRange.min ? parseFloat(priceRange.min) : 0;
-      const max = priceRange.max ? parseFloat(priceRange.max) : Infinity;
-      return product.price >= min && product.price <= max;
-    })
-    // 5. Sort
-    .sort((a, b) => {
-      if (selectedSeries) {
-        // If a series is selected, just sort by volume
-        return a.volume - b.volume;
-      }
+      navigate(`${location.pathname}?${params.toString()}`, { replace: true });
+    }, 300);
 
-      switch (sortFilter) {
-        case "name-asc":
-          if (a.series && b.series) {
-            const seriesCompare = a.series.localeCompare(b.series);
-            if (seriesCompare !== 0) {
-              return seriesCompare; // Different series → sort alphabetically
-            } else {
-              // Same series → sort by volume
-              return a.volume - b.volume;
-            }
-          } else {
-            // Fallback: sort by title alphabetically
-            return a.title.localeCompare(b.title);
-          }
+    return () => clearTimeout(timeout);
+  }, [searchTerm, sortFilter, selectedGenres, priceRange, selectedSeries]);
 
-        case "name-desc":
-          if (a.series && b.series) {
-            const seriesCompare = b.series.localeCompare(a.series); // notice flipped for desc
-            if (seriesCompare !== 0) {
-              return seriesCompare;
-            } else {
-              return a.volume - b.volume;
-            }
-          } else {
-            return b.title.localeCompare(a.title);
-          }
+  // --- Filter & Sort Logic ---
+  const filteredStoreData = useMemo(() => {
+    const minPrice = parseFloat(priceRange.min) || 0;
+    const maxPrice = parseFloat(priceRange.max) || Infinity;
 
-        case "price-asc":
-          return a.price - b.price;
-        case "price-desc":
-          return b.price - a.price;
-        default:
-          return 0;
-      }
-    });
+    return storeData
+      .filter((product) =>
+        selectedSeries ? product.series === selectedSeries : true,
+      )
+      .filter((product) =>
+        searchTerm
+          ? product.title.toLowerCase().includes(searchTerm.toLowerCase())
+          : true,
+      )
+      .filter((product) =>
+        selectedGenres.length
+          ? selectedGenres.some((genre) => product.genre.includes(genre))
+          : true,
+      )
+      .filter(
+        (product) => product.price >= minPrice && product.price <= maxPrice,
+      )
+      .sort((a, b) => {
+        if (selectedSeries) return a.volume - b.volume;
 
-  // Pagination: Slice the filtered data
-  const startIndex = (currentPage - 1) * itemsPerPage;
+        switch (sortFilter) {
+          case "name-asc":
+            return (
+              a.series?.localeCompare(b.series) ||
+              a.title.localeCompare(b.title)
+            );
+          case "name-desc":
+            return (
+              b.series?.localeCompare(a.series) ||
+              b.title.localeCompare(a.title)
+            );
+          case "price-asc":
+            return a.price - b.price;
+          case "price-desc":
+            return b.price - a.price;
+          default:
+            return 0;
+        }
+      });
+  }, [
+    storeData,
+    searchTerm,
+    sortFilter,
+    selectedGenres,
+    priceRange,
+    selectedSeries,
+  ]);
+
   const paginatedData = filteredStoreData.slice(
-    startIndex,
-    startIndex + itemsPerPage,
+    (currentPage - 1) * itemsPerPage,
+    currentPage * itemsPerPage,
   );
 
   return (
     <div className="search">
       {searchTerm && (
         <div className="search-title">
-          Showing Results for "{searchTerm}".
+          Showing results for "{searchTerm}".
           <hr />
         </div>
       )}
@@ -159,7 +143,6 @@ function Search() {
                 Sort by:
               </label>
               <select
-                name="sort"
                 id="sort"
                 value={sortFilter}
                 onChange={(e) => setSortFilter(e.target.value)}
@@ -171,8 +154,8 @@ function Search() {
               </select>
             </div>
 
-            <div className="search-filter-genre">
-              <div className="filter-title">Filter by Genre:</div>
+            <fieldset className="search-filter-genre">
+              <legend className="filter-title">Filter by Genre:</legend>
               <div className="search-filter-genre-boxes">
                 {allGenres.map((genre) => (
                   <label key={genre}>
@@ -182,23 +165,21 @@ function Search() {
                       checked={selectedGenres.includes(genre)}
                       onChange={(e) => {
                         const value = e.target.value;
-                        if (e.target.checked) {
-                          setSelectedGenres((prev) => [...prev, value]);
-                        } else {
-                          setSelectedGenres((prev) =>
-                            prev.filter((g) => g !== value),
-                          );
-                        }
+                        setSelectedGenres((prev) =>
+                          e.target.checked
+                            ? [...prev, value]
+                            : prev.filter((g) => g !== value),
+                        );
                       }}
                     />
                     {genre}
                   </label>
                 ))}
               </div>
-            </div>
+            </fieldset>
 
-            <div className="search-filter-price">
-              <div className="filter-title">Filter by Price:</div>
+            <fieldset className="search-filter-price">
+              <legend className="filter-title">Filter by Price:</legend>
               <div className="search-filter-price-inputs">
                 <input
                   type="number"
@@ -218,7 +199,7 @@ function Search() {
                   }
                 />
               </div>
-            </div>
+            </fieldset>
           </div>
         </div>
 

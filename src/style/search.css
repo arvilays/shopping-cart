@@ -15,15 +15,16 @@
   }
 
   .search-filter {
-    border-right: 1px solid black;
-    align-self: stretch;
     overflow: hidden;
+    align-self: stretch;
     width: 0px;
-    transition: width 0.5s;
+    border-right: 1px solid black;
+    transition: width 0.35s;
     will-change: width;
   }
 
   .search-filter.opened {
+    overflow: revert;
     width: 200px;
   }
 
@@ -36,6 +37,8 @@
     display: flex;
     flex-direction: column;
     gap: 20px;
+    position: sticky;
+    top: 25px;
     width: 200px;
     padding-right: 35px;
   }
@@ -71,8 +74,8 @@
   .search-filter-toggle {
     background-color: white;
     position: sticky;
-    transform: translate(-50%, 0%);
     top: 50px;
+    transform: translate(-50%, 0%);
     padding: 2px;
     border: 2px solid black;
     border-radius: 50%;
@@ -93,6 +96,7 @@
     flex: 1;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-auto-rows: 400px;
     gap: 10px;
   }
 

@@ -1,13 +1,13 @@
 import { useState, useEffect } from "react";
-import { Link, Outlet } from "react-router-dom";
+import { Outlet } from "react-router-dom";
 import "./style/reset.css";
 import "./style/style.css";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 
 function App() {
-  const [loading, setLoading] = useState(true);
   const [storeData, setStoreData] = useState([]);
+  const [loading, setLoading] = useState(true);
 
   const fetchManga = async () => {
     try {
@@ -28,7 +28,7 @@ function App() {
     fetchManga();
   }, []);
 
-  if (loading) return <div>Loading...</div>;
+  if (loading) return <div className="loading">Loading...</div>;
 
   return (
     <>

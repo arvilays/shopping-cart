@@ -1,11 +1,11 @@
 @media only screen and (min-width: 0px) {
   .product-bar {
+    overflow: hidden;
     display: flex;
     flex-direction: column;
     margin-bottom: -35px;
     padding: 0px 30px;
     height: 490px;
-    overflow: hidden;
   }
 
   .product-bar-header {
@@ -20,10 +20,10 @@
   }
 
   .product-bar-more {
-    font-size: 0.8em;
-    margin-left: auto;
-    text-decoration: underline;
     color: inherit;
+    font-size: 0.8em;
+    text-decoration: underline;
+    margin-left: auto;
   }
 
   .product-bar-more:hover {

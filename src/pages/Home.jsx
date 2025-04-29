@@ -14,16 +14,23 @@ function Home() {
   const gridRef = useRef(null);
 
   useEffect(() => {
+    let ticking = false;
+
     const handleScroll = () => {
       if (!gridRef.current) return;
+      if (!ticking) {
+        window.requestAnimationFrame(() => {
+          const scrollY = window.scrollY;
+          const offsetTop = gridRef.current.offsetTop;
+          const windowHeight = window.innerHeight;
 
-      const scrollY = window.scrollY;
-      const offsetTop = gridRef.current.offsetTop;
-      const windowHeight = window.innerHeight;
-
-      if (scrollY + windowHeight > offsetTop) {
-        const distance = (scrollY + windowHeight - offsetTop) * 0.05; // adjust 0.05 to control speed
-        gridRef.current.style.transform = `translateY(${distance}px)`;
+          if (scrollY + windowHeight > offsetTop) {
+            const distance = (scrollY + windowHeight - offsetTop) * 0.05;
+            gridRef.current.style.transform = `translateY(${distance}px)`;
+          }
+          ticking = false;
+        });
+        ticking = true;
       }
     };
 
@@ -31,12 +38,14 @@ function Home() {
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
+  const featuredProducts = storeData.filter((product) => product.volume <= 1);
+
   return (
     <main className="home">
       <Carousel />
 
       <ProductBar
-        storeData={storeData}
+        storeData={featuredProducts}
         title="🔥Popular Releases"
         link="/search"
       />
@@ -54,7 +63,7 @@ function Home() {
           </Link>
         </div>
         <div className="home-explore-grid" ref={gridRef}>
-          {shuffleArray(storeData)
+          {shuffleArray(featuredProducts)
             .slice(0, 50)
             .map((manga) => (
               <img src={manga.coverImage} alt={manga.title} key={manga.id} />
@@ -63,14 +72,14 @@ function Home() {
       </div>
 
       <ProductBar
-        storeData={storeData.filter((product) =>
+        storeData={featuredProducts.filter((product) =>
           product.genre.includes("Action"),
         )}
         title="⚔️Pulse-Pounding Action"
         link="/search?genres=Action"
       />
       <ProductBar
-        storeData={storeData.filter((product) =>
+        storeData={featuredProducts.filter((product) =>
           product.genre.includes("Drama"),
         )}
         title="💖Stories That Break and Mend"
@@ -87,7 +96,11 @@ function Home() {
               ❝I Naruto-ran to the door when my package arrived. 10/10❞
             </div>
             <div className="home-review-avatar">
-              <img src={avatar1Image} alt="review avatar" />
+              <img
+                src={avatar1Image}
+                alt="Avatar of an enthusiastic reviewer"
+                title="Source: Dead Dead Demon's Dededede Destruction"
+              />
             </div>
           </div>
           <div className="home-review">
@@ -96,7 +109,11 @@ function Home() {
               No regrets. Only manga.❞
             </div>
             <div className="home-review-avatar">
-              <img src={avatar2Image} alt="review avatar" />
+              <img
+                src={avatar2Image}
+                alt="Avatar of an easygoing reviewer"
+                title="Source: Delicious in Dungeon"
+              />
             </div>
           </div>
           <div className="home-review">
@@ -105,7 +122,11 @@ function Home() {
               I'm loyal to the brand now.❞
             </div>
             <div className="home-review-avatar">
-              <img src={avatar3Image} alt="review avatar" />
+              <img
+                src={avatar3Image}
+                alt="Avatar of a loyal reviewer"
+                title="Source: One Piece"
+              />
             </div>
           </div>
         </div>

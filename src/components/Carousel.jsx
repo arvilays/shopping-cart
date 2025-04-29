@@ -5,6 +5,7 @@ import bannerChainsawMan from "../assets/banner-chainsawman.png";
 import bannerDeliciousInDungeon from "../assets/banner-deliciousindungeon.png";
 
 const autoScrollInterval = 8000;
+
 const banners = [
   {
     src: bannerDeliciousInDungeon,
@@ -43,19 +44,16 @@ function Carousel() {
 
   useEffect(() => {
     startAutoScroll();
-
     return () => clearInterval(intervalRef.current);
   }, []);
+
+  const { src, alt, link, title } = banners[currentIndex];
 
   return (
     <div className="home-carousel">
       <div className="home-carousel-banner">
-        <Link to={banners[currentIndex].link}>
-          <img
-            src={banners[currentIndex].src}
-            alt={banners[currentIndex].alt}
-            title={banners[currentIndex].title}
-          />
+        <Link to={link}>
+          <img src={src} alt={alt} title={title} />
         </Link>
       </div>
 
