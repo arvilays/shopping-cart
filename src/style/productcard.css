@@ -21,21 +21,23 @@
 
   .product-content:hover {
     cursor: pointer;
-    transform: translateY(-8px);
+    transform: translateY(-5px) scale(1.03);
   }
 
   .product-card-image img {
-    width: 200px;
-    height: 300px;
+    width: clamp(120px, 45vw, 200px);
+    aspect-ratio: 2 / 3;
     box-shadow: 5px 5px 10px grey;
   }
 
   .product-card-title {
     font-weight: 600;
     margin-top: 5px;
+    font-size: clamp(1rem, 1.2vw, 1.1rem);
   }
 
   .product-card-price {
     font-weight: 200;
+    font-size: clamp(1rem, 1vw, 1rem);
   }
 }

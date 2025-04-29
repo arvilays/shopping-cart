@@ -74,29 +74,29 @@
     left: 50%;
     transform: translate(-50%, -50%);
     width: 100%;
+    padding: 50px;
   }
 
   .home-explore-logo {
     background-color: white;
-    font-size: 3.5em;
-    padding: 0px 20px;
+    padding: 20px;
     box-shadow: 10px 10px 0px lightgrey;
-  }
-
-  .home-explore-logo span {
-    color: grey;
+    width: 100%;
+    max-width: 1000px;
+    height: auto;
+    display: block;
   }
 
   .home-explore-title {
     color: white;
-    font-size: 3em;
+    font-size: clamp(1.5rem, 4vw, 3em);
     font-weight: 500;
     text-shadow:
-      -3px -3px 0 black,
-      3px -3px 0 black,
-      -3px 3px 0 black,
-      3px 3px 0 black;
-    margin: 10px 0px;
+      -2px -2px 0 black,
+      2px -2px 0 black,
+      -2px 2px 0 black,
+      2px 2px 0 black;
+    margin: 20px 0;
   }
 
   .home-explore-button {

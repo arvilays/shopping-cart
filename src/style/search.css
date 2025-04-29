@@ -83,6 +83,7 @@
 
   .search-filter-toggle {
     background-color: white;
+    flex-shrink: 0;
     position: sticky;
     top: 50px;
     transform: translate(-50%, 0%);
@@ -105,8 +106,7 @@
   .search-grid {
     flex: 1;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    grid-auto-rows: 400px;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
     gap: 10px;
     margin-bottom: 45px;
   }
@@ -124,5 +124,12 @@
   .search-pagination button {
     width: 100px;
     padding: 5px 10px;
+  }
+}
+
+@media only screen and (min-width: 700px) {
+  .search-grid {
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-auto-rows: 400px;
   }
 }

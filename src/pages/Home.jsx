@@ -4,6 +4,7 @@ import "../style/home.css";
 import Carousel from "../components/Carousel";
 import ProductBar from "../components/ProductBar";
 import { shuffleArray } from "../helper";
+import logoImage from "../assets/logo.png";
 import avatar1Image from "../assets/avatar1.png";
 import avatar2Image from "../assets/avatar2.png";
 import avatar3Image from "../assets/avatar3.png";
@@ -51,8 +52,7 @@ function Home() {
 
       <div className="home-explore">
         <div className="home-explore-text">
-          <div className="home-explore-logo">MANGA<span>KART</span>🍥</div>
-          {/* <img src={logoImage} alt="mangakart" className="home-explore-logo" /> */}
+          <img src={logoImage} alt="mangakart" className="home-explore-logo" />
           <div className="home-explore-title">Your One Stop Manga Shop!</div>
           <Link
             to="/search"
