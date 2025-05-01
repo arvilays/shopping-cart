@@ -153,7 +153,10 @@ function Product() {
             <Link
               to="/cart"
               className="product-buy product-button"
-              onClick={() => addToCart({ id, quantity: Number(quantity) })}
+              onClick={() => {
+                addToCart({ id, quantity: Number(quantity) });
+                window.scrollTo(0, 0);
+              }}
             >
               Buy Now
             </Link>
