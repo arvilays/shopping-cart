@@ -149,12 +149,25 @@
 
   .header-main-cart {
     display: flex;
+    align-items: center;
     justify-content: end;
+    text-decoration: none;
     padding: 10px;
   }
 
   .header-main-cart img {
     width: 35px;
+  }
+
+  .header-main-cart-quantity {
+    background-color: hsl(210, 77%, 66%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "cal sans";
+    color: white;
+    padding: 5px 10px;
+    border-radius: 20px;
   }
 }
 

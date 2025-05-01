@@ -16,11 +16,14 @@ const genres = [
   "Thriller",
 ];
 
-function Header() {
+function Header({ cartData }) {
   const navigate = useNavigate();
   const [sidebarOpen, setSidebarOpen] = useState(false);
   const [searchTerm, setSearchTerm] = useState("");
   const sidebarRef = useRef(null);
+
+  const totalQuantity =
+    cartData?.reduce((sum, item) => sum + item.quantity, 0) ?? 0;
 
   const toggleSidebar = () => {
     setSidebarOpen((prev) => !prev);
@@ -96,11 +99,14 @@ function Header() {
                 <img src={searchImage} alt="search icon" />
               </div>
             </div>
-            <div className="header-main-cart">
-              <Link to="/cart">
-                <img src={cartImage} alt="cart" />
-              </Link>
-            </div>
+            <Link to="/cart" className="header-main-cart">
+              {totalQuantity > 0 && (
+                <div className="header-main-cart-quantity">
+                  {totalQuantity > 99 ? "99+" : totalQuantity}
+                </div>
+              )}
+              <img src={cartImage} alt="cart" />
+            </Link>
           </div>
         </div>
       </header>

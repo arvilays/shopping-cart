@@ -127,6 +127,9 @@
     padding: 5px;
     border-radius: 10px;
     box-shadow: 2px 2px 1px lightgrey;
+
+    user-select: none;
+    -webkit-user-select: none;
   }
 
   .product-button:hover {
@@ -143,6 +146,7 @@
 
   .product-buy {
     background-color: hsl(150, 77%, 66%);
+    text-decoration: none;
   }
 
   .product-buy:hover {

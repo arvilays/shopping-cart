@@ -83,7 +83,11 @@ function Footer() {
         </div>
         <div className="footer-credits-dev">
           Mock Store Project by&nbsp;
-          <a href="https://github.com/arvilays" target="_blank" rel="noopener noreferrer">
+          <a
+            href="https://github.com/arvilays"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             arvilays
           </a>
         </div>

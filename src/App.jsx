@@ -8,6 +8,15 @@ import Footer from "./components/Footer";
 function App() {
   const [storeData, setStoreData] = useState([]);
   const [loading, setLoading] = useState(true);
+  const [cartData, setCartData] = useState(() => {
+    const saved = localStorage.getItem("cartData");
+    return saved ? JSON.parse(saved) : [];
+  });
+
+  // Save cartData to localStorage whenever it changes
+  useEffect(() => {
+    localStorage.setItem("cartData", JSON.stringify(cartData));
+  }, [cartData]);
 
   const fetchManga = async () => {
     try {
@@ -32,8 +41,8 @@ function App() {
 
   return (
     <>
-      <Header />
-      <Outlet context={{ storeData }} />
+      <Header cartData={cartData} />
+      <Outlet context={{ storeData, cartData, setCartData }} />
       <Footer />
     </>
   );

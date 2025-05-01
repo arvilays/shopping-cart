@@ -1,10 +1,11 @@
+import { useMemo, useState, useEffect } from "react";
 import { Link, useParams, useOutletContext } from "react-router-dom";
 import "../style/product.css";
 import ProductBar from "../components/ProductBar";
 
 function Product() {
   const { id } = useParams();
-  const { storeData } = useOutletContext();
+  const { storeData, setCartData } = useOutletContext();
 
   const productData = storeData.find((manga) => manga.id === id);
 
@@ -15,6 +16,12 @@ function Product() {
       </div>
     );
   }
+
+  const [quantity, setQuantity] = useState(1);
+
+  useEffect(() => {
+    setQuantity(1);
+  }, [id]);
 
   const {
     title,
@@ -27,19 +34,50 @@ function Product() {
     coverImage,
   } = productData;
 
-  // Find related products by matching genres of the current product
-  const relatedProducts = storeData.filter(
-    (product) =>
-      product.id !== id && product.genre.some((g) => genre.includes(g)),
+  const getRelatedProducts = (genre) => {
+    return storeData.filter(
+      (product) =>
+        product.id !== id && product.genre.some((g) => genre.includes(g)),
+    );
+  };
+  const relatedProducts = useMemo(
+    () => getRelatedProducts(genre),
+    [id, genre, storeData],
   );
 
-  const productSeries = storeData
-    .filter((product) => product.id !== id && product.series === series)
-    .sort((a, b) => a.volume - b.volume);
+  const getProductSeries = (series) => {
+    return storeData
+      .filter((product) => product.id !== id && product.series === series)
+      .sort((a, b) => a.volume - b.volume);
+  };
+  const productSeries = useMemo(
+    () => getProductSeries(series),
+    [id, series, storeData],
+  );
 
-  const laterVolumes = productSeries.filter((p) => p.volume > volume);
-  const earlierVolumes = productSeries.filter((p) => p.volume <= volume);
-  const rotatedProductSeries = [...laterVolumes, ...earlierVolumes];
+  // Rotating Product Series
+  const rotatedProductSeries = useMemo(() => {
+    const laterVolumes = productSeries.filter((p) => p.volume > volume);
+    const earlierVolumes = productSeries.filter((p) => p.volume <= volume);
+    return [...laterVolumes, ...earlierVolumes];
+  }, [productSeries, volume]);
+
+  // Cart Logic
+  const addToCart = (newItem) => {
+    setCartData((prev) => {
+      const exists = prev.find((item) => item.id === newItem.id);
+
+      if (exists) {
+        return prev.map((item) =>
+          item.id === newItem.id
+            ? { ...item, quantity: item.quantity + newItem.quantity }
+            : item,
+        );
+      } else {
+        return [...prev, newItem];
+      }
+    });
+  };
 
   return (
     <div className="product">
@@ -97,13 +135,23 @@ function Product() {
                 id="quantity"
                 placeholder="#"
                 min={1}
-                defaultValue={1}
+                value={quantity}
+                onChange={(e) => setQuantity(e.target.value)}
               />
             </div>
-            <div className="product-add-to-cart product-button">
+            <div
+              className="product-add-to-cart product-button"
+              onClick={() => addToCart({ id, quantity: Number(quantity) })}
+            >
               Add to Cart
             </div>
-            <div className="product-buy product-button">Buy Now</div>
+            <Link
+              to="/cart"
+              className="product-buy product-button"
+              onClick={() => addToCart({ id, quantity: Number(quantity) })}
+            >
+              Buy Now
+            </Link>
           </div>
         </div>
       </div>
