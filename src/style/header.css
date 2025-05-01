@@ -152,6 +152,7 @@
     align-items: center;
     justify-content: end;
     text-decoration: none;
+    margin-left: 10px;
     padding: 10px;
   }
 

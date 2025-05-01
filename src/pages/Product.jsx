@@ -1,6 +1,8 @@
 import { useMemo, useState, useEffect } from "react";
 import { Link, useParams, useOutletContext } from "react-router-dom";
+import { toast, ToastContainer } from 'react-toastify';
 import "../style/product.css";
+import 'react-toastify/dist/ReactToastify.css';
 import ProductBar from "../components/ProductBar";
 
 function Product() {
@@ -141,7 +143,10 @@ function Product() {
             </div>
             <div
               className="product-add-to-cart product-button"
-              onClick={() => addToCart({ id, quantity: Number(quantity) })}
+              onClick={() => {
+                addToCart({ id, quantity: Number(quantity) });
+                toast.success(`${title} added to cart!`);
+              }}
             >
               Add to Cart
             </div>
@@ -176,6 +181,8 @@ function Product() {
           showViewMore={false}
         />
       </div>
+      
+      <ToastContainer position="bottom-right" autoClose={2000} />
     </div>
   );
 }
