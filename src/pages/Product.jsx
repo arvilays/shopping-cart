@@ -145,7 +145,6 @@ function Product() {
               className="product-add-to-cart product-button"
               onClick={() => {
                 addToCart({ id, quantity: Number(quantity) });
-                toast.success(`${title} added to cart!`);
               }}
             >
               Add to Cart
