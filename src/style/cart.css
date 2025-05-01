@@ -1,12 +1,13 @@
 @media only screen and (min-width: 0px) {
   .cart {
-    padding: 20px 40px 40px;
+    padding: 20px 20px 40px;
   }
 
   .cart-main {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    gap: 30px;
   }
 
   .cart-items {
@@ -35,7 +36,7 @@
 
   .cart-empty-title {
     font-family: "cal sans";
-    font-size: 1.5em;
+    font-size: clamp(1rem, 2vw, 1.5rem);
   }
 
   .cart-empty-subtitle {
@@ -46,7 +47,6 @@
   .cart-item {
     display: flex;
     align-items: center;
-    justify-content: space-between;
     gap: 20px;
     padding: 20px;
     border-radius: 20px;
@@ -54,7 +54,7 @@
   }
 
   .cart-item-image {
-    width: 80px;
+    max-width: 80px;
     box-shadow: 2px 2px 4px lightgrey;
   }
 
@@ -62,8 +62,28 @@
     flex: 1;
     color: initial;
     font-family: "cal sans";
-    font-size: 1.25em;
+    font-size: clamp(0.75rem, 2vw, 1.25rem);
     text-decoration: none;
+  }
+
+  .cart-item-price-quantity {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+  }
+
+  .cart-item-price {
+    font-family: "cal sans";
+    font-size: clamp(0.75rem, 2vw, 1.25rem);
+  }
+
+  .cart-item-quantity {
+    font-size: clamp(0.75rem, 2vw, 1rem);
+    text-align: center;
+    padding: 5px;
+    width: 55px;
+    border-radius: 10px;
   }
 
   .cart-item-delete {
@@ -77,10 +97,61 @@
     cursor: pointer;
     filter: brightness(50%);
   }
+
+  .cart-checkout {
+    min-width: 200px;
+  }
+
+  .cart-checkout-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: sticky;
+    top: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px grey;
+  }
+
+  .cart-checkout-title {
+    font-family: "cal sans";
+    letter-spacing: 5px;
+  }
+
+  .cart-checkout-total {
+    font-family: "cal sans";
+    font-size: 2em;
+  }
+
+  .cart-checkout-button {
+    background-color: hsl(150, 77%, 60%);
+    font-family: "cal sans";
+    color: white;
+    text-align: center;
+    width: 150px;
+    margin-top: 5px;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 1px lightgrey;
+
+    user-select: none;
+    -webkit-user-select: none;
+  }
+
+  .cart-checkout-button:hover {
+    cursor: pointer;
+    background-color: hsl(170, 60%, 58%);
+  }
 }
 
 @media only screen and (min-width: 1000px) {
   .cart-main {
     flex-direction: row;
+  }
+
+  .cart-item-price-quantity {
+    flex-direction: row;
+    gap: 20px;
   }
 }

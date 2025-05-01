@@ -20,8 +20,18 @@ function Cart() {
 
     if (!itemData) return null;
 
+    const handleQuantityChange = (e) => {
+      const value = parseInt(e.target.value) || 1;
+
+      setCartData((prev) =>
+        prev.map((cartItem) =>
+          cartItem.id === item.id ? { ...cartItem, quantity: value } : cartItem,
+        ),
+      );
+    };
+
     return (
-      <div className="cart-item" key={item.id}>
+      <div className="cart-item">
         <Link to={`/product/${item.id}`} onClick={() => window.scrollTo(0, 0)}>
           <img
             src={itemData.coverImage}
@@ -30,8 +40,16 @@ function Cart() {
           />
         </Link>
         <div className="cart-item-title">{itemData.title}</div>
-        <div className="cart-item-price">${itemData.price}</div>
-        <div className="cart-item-quantity">{item.quantity}</div>
+        <div className="cart-item-price-quantity">
+          <div className="cart-item-price">${itemData.price}</div>
+          <input
+            className="cart-item-quantity"
+            type="number"
+            min="1"
+            value={item.quantity}
+            onChange={handleQuantityChange}
+          />
+        </div>
         <img
           src={deleteImage}
           alt="delete"
@@ -48,19 +66,43 @@ function Cart() {
         <div className="cart-items">
           <div className="cart-title">Your Cart</div>
           <hr />
-          {cartData.length > 0 ?
-            cartData.map((item) => (
-              <CartItem item={item} />
-            )) :
+          {cartData.length > 0 ? (
+            cartData.map((item) => <CartItem item={item} key={item.id} />)
+          ) : (
             <div className="cart-empty">
-              <div className="cart-empty-title">Your next favorite story is just a click away! 📚✨</div>
-              <div className="cart-empty-subtitle">Start exploring and discover something epic.</div>
+              <div className="cart-empty-title">
+                Your next favorite story is just a click away! 📚✨
+              </div>
+              <div className="cart-empty-subtitle">
+                Start exploring and discover something epic.
+              </div>
             </div>
-          }
+          )}
         </div>
 
         <div className="cart-checkout">
-          {totalCost.toFixed(2)}
+          <div className="cart-checkout-container">
+            <div className="cart-checkout-title">TOTAL</div>
+            <div className="cart-checkout-total">
+              $
+              {totalCost.toLocaleString(undefined, {
+                minimumFractionDigits: 2,
+                maximumFractionDigits: 2,
+              })}
+            </div>
+            <div
+              className="cart-checkout-button"
+              onClick={() =>
+                confetti({
+                  particleCount: 100,
+                  spread: 70,
+                  origin: { y: 0.6 },
+                })
+              }
+            >
+              Checkout
+            </div>
+          </div>
         </div>
       </div>
     </div>

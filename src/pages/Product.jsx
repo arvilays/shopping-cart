@@ -1,8 +1,8 @@
 import { useMemo, useState, useEffect } from "react";
 import { Link, useParams, useOutletContext } from "react-router-dom";
-import { toast, ToastContainer } from 'react-toastify';
+import { toast, ToastContainer } from "react-toastify";
 import "../style/product.css";
-import 'react-toastify/dist/ReactToastify.css';
+import "react-toastify/dist/ReactToastify.css";
 import ProductBar from "../components/ProductBar";
 
 function Product() {
@@ -181,7 +181,7 @@ function Product() {
           showViewMore={false}
         />
       </div>
-      
+
       <ToastContainer position="bottom-right" autoClose={2000} />
     </div>
   );
