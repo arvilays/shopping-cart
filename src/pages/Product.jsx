@@ -66,6 +66,7 @@ function Product() {
 
   // Cart Logic
   const addToCart = (newItem) => {
+    toast.success(`${title} added to cart!`);
     setCartData((prev) => {
       const exists = prev.find((item) => item.id === newItem.id);
 
