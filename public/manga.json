@@ -2371,6 +2371,234 @@
     "coverImage": "/covers/SXF-V1.jpg"
   },
   {
+    "id": "SXF-V2",
+    "title": "Spy x Family, Vol. 2",
+    "credits": [
+      "Tatsuya Endo (Author)"
+    ],
+    "series": "Spy x Family",
+    "volume": 2,
+    "genre": [
+      "Comedy",
+      "Slice of Life",
+      "Action"
+    ],
+    "description": [
+      "Twilight must infiltrate the prestigious Eden Academy to get close to his target Donovan Desmond, but has he ruined his daughter Anya’s chances with his outburst during the admissions interview? Perhaps the truly impossible mission this time is making sure Anya both becomes an exemplary student and befriends Donovan’s arrogant son Damian!"
+    ],
+    "price": 11.99,
+    "coverImage": "/covers/SXF-V2.jpg"
+  },
+  {
+    "id": "SXF-V3",
+    "title": "Spy x Family, Vol. 3",
+    "credits": [
+      "Tatsuya Endo (Author)"
+    ],
+    "series": "Spy x Family",
+    "volume": 3,
+    "genre": [
+      "Comedy",
+      "Slice of Life",
+      "Action"
+    ],
+    "description": [
+      "Twilight has overcome many challenges in putting together the Forger family, but now all his hard work might come undone when Yor’s younger brother Yuri pops in for a surprise visit! Can Twilight outsmart Yuri, who actually works for the Ostanian secret service?!"
+    ],
+    "price": 11.99,
+    "coverImage": "/covers/SXF-V3.jpg"
+  },
+  {
+    "id": "SXF-V4",
+    "title": "Spy x Family, Vol. 4",
+    "credits": [
+      "Tatsuya Endo (Author)"
+    ],
+    "series": "Spy x Family",
+    "volume": 4,
+    "genre": [
+      "Comedy",
+      "Slice of Life",
+      "Action"
+    ],
+    "description": [
+      "The Forgers look into adding a dog to their family, but this is no easy task—especially when Twilight has to simultaneously foil an assassination plot against a foreign minister! The perpetrators plan to use trained dogs for the attack, but Twilight gets some unexpected help to stop these terrorists."
+    ],
+    "price": 11.99,
+    "coverImage": "/covers/SXF-V4.jpg"
+  },
+  {
+    "id": "SXF-V5",
+    "title": "Spy x Family, Vol. 5",
+    "credits": [
+      "Tatsuya Endo (Author)"
+    ],
+    "series": "Spy x Family",
+    "volume": 5,
+    "genre": [
+      "Comedy",
+      "Slice of Life",
+      "Action"
+    ],
+    "description": [
+      "Anya Forger has been trying her best to befriend Damian Desmond, the son of the powerful Ostanian political leader Donovan Desmond, but her attempts have been constantly rebuffed. Despite the setbacks, Anya is determined to gain access to the Desmonds’ inner circle and even devises a new plan—acing her midterm exams to earn stella stars! Can the academically challenged Anya pull off this feat for the sake of world peace?"
+    ],
+    "price": 11.99,
+    "coverImage": "/covers/SXF-V5.jpg"
+  },
+  {
+    "id": "SXF-V6",
+    "title": "Spy x Family, Vol. 6",
+    "credits": [
+      "Tatsuya Endo (Author)"
+    ],
+    "series": "Spy x Family",
+    "volume": 6,
+    "genre": [
+      "Comedy",
+      "Slice of Life",
+      "Action"
+    ],
+    "description": [
+      "Twilight and Nightfall enter an underground tennis tournament, hoping for an opportunity to obtain an intelligence document that threatens to bring the world to the brink of war! But will their mission be compromised by Nightfall’s secret crush on Twilight?!"
+    ],
+    "price": 11.99,
+    "coverImage": "/covers/SXF-V6.jpg"
+  },
+  {
+    "id": "SXF-V7",
+    "title": "Spy x Family, Vol. 7",
+    "credits": [
+      "Tatsuya Endo (Author)"
+    ],
+    "series": "Spy x Family",
+    "volume": 7,
+    "genre": [
+      "Comedy",
+      "Slice of Life",
+      "Action"
+    ],
+    "description": [
+      "As Donovan Desmond is about to share a rare family moment with his son Damian, Twilight cuts in to meet his target face-to-face for the first time. Can Twilight find some way to endear himself to the inscrutable Donovan?"
+    ],
+    "price": 11.99,
+    "coverImage": "/covers/SXF-V7.jpg"
+  },
+  {
+    "id": "SXF-V8",
+    "title": "Spy x Family, Vol. 8",
+    "credits": [
+      "Tatsuya Endo (Author)"
+    ],
+    "series": "Spy x Family",
+    "volume": 8,
+    "genre": [
+      "Comedy",
+      "Slice of Life",
+      "Action"
+    ],
+    "description": [
+      "Yor is assigned to be a bodyguard for a mafia family on a cruise ship by the secret organization Garden. But with Lloyd and Anya also on board thanks to a giveaway they won, Yor is starting to have doubts about her secret life as an assassin…"
+    ],
+    "price": 11.99,
+    "coverImage": "/covers/SXF-V8.jpg"
+  },
+  {
+    "id": "SXF-V9",
+    "title": "Spy x Family, Vol. 9",
+    "credits": [
+      "Tatsuya Endo (Author)"
+    ],
+    "series": "Spy x Family",
+    "volume": 9,
+    "genre": [
+      "Comedy",
+      "Slice of Life",
+      "Action"
+    ],
+    "description": [
+      "Yor’s on assignment and finds herself up against a gang of assassins on board a luxury cruiser. Meanwhile, Loid and Anya each discover that bombs have been planted throughout the ship! Will their best efforts be enough to save the vessel?"
+    ],
+    "price": 11.99,
+    "coverImage": "/covers/SXF-V9.jpg"
+  },
+  {
+    "id": "SXF-V10",
+    "title": "Spy x Family, Vol. 10",
+    "credits": [
+      "Tatsuya Endo (Author)"
+    ],
+    "series": "Spy x Family",
+    "volume": 10,
+    "genre": [
+      "Comedy",
+      "Slice of Life",
+      "Action"
+    ],
+    "description": [
+      "As a child, [REDACTED] lived an unremarkable life with his parents, playing war games with his friends and quarreling with his father. It never occurred to young [REDACTED] that the life he’d taken for granted might one day end…"
+    ],
+    "price": 11.99,
+    "coverImage": "/covers/SXF-V10.jpg"
+  },
+  {
+    "id": "SXF-V11",
+    "title": "Spy x Family, Vol. 11",
+    "credits": [
+      "Tatsuya Endo (Author)"
+    ],
+    "series": "Spy x Family",
+    "volume": 11,
+    "genre": [
+      "Comedy",
+      "Slice of Life",
+      "Action"
+    ],
+    "description": [
+      "Threatened by Yor’s relationship with Melinda Desmond, Anya gets serious about her own friendship scheme. On the way to a museum field trip, however, she and her class become the target of activists looking to free their political allies…"
+    ],
+    "price": 11.99,
+    "coverImage": "/covers/SXF-V11.jpg"
+  },
+  {
+    "id": "SXF-V12",
+    "title": "Spy x Family, Vol. 12",
+    "credits": [
+      "Tatsuya Endo (Author)"
+    ],
+    "series": "Spy x Family",
+    "volume": 12,
+    "genre": [
+      "Comedy",
+      "Slice of Life",
+      "Action"
+    ],
+    "description": [
+      "Anya’s friendship scheme seems to be taking a turn for the better in the aftermath of the failed hijacking. Meanwhile, Operation Strix and Loid’s true identity are in danger—a mole has been uncovered and has gone underground. Will Loid and his allies be able to catch this double agent before all is lost?"
+    ],
+    "price": 11.99,
+    "coverImage": "/covers/SXF-V12.jpg"
+  },
+  {
+    "id": "SXF-V13",
+    "title": "Spy x Family, Vol. 13",
+    "credits": [
+      "Tatsuya Endo (Author)"
+    ],
+    "series": "Spy x Family",
+    "volume": 13,
+    "genre": [
+      "Comedy",
+      "Slice of Life",
+      "Action"
+    ],
+    "description": [
+      "Twilight is on the ropes after his battle with an Ostanian spy! Can Nightfall save Twilight from disaster? Will WISE manage to recover their stolen secrets? And what will become of Loid and Yor’s marital crisis? Meanwhile, Anya’s friendship scheme gets thrown off by an unexpected gift from Damian!"
+    ],
+    "price": 11.99,
+    "coverImage": "/covers/SXF-V13.jpg"
+  },
+  {
     "id": "CLIMBER-V1",
     "title": "The Climber, Vol. 1",
     "credits": [
