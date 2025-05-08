@@ -104,7 +104,7 @@ function Search() {
       .filter(
         (product) => product.price >= minPrice && product.price <= maxPrice,
       )
-      .filter((product) => (volumeOneOnly ? product.volume === 1 : true))
+      .filter((product) => (volumeOneOnly ? product.volume <= 1 : true))
       .sort((a, b) => {
         if (selectedSeries) {
           // If a series is selected, just sort by volume
