@@ -1,0 +1,219 @@
+[
+  {
+    "id": "LUSTROUS-V2",
+    "title": "Land of the Lustrous, Vol. 2",
+    "credits": [
+      "Haruko Ichikawa (Author)"
+    ],
+    "series": "Land of the Lustrous",
+    "volume": 2,
+    "genre": [
+      "Fantasy",
+      "Post-Apocalyptic",
+      "Drama"
+    ],
+    "description": [
+      "UNDER THE SEA",
+      "Phosphophyllite is determined to find a job more suited Cinnabar’s many talents, but with no easy answers to be found on land, the quest turns seaward. Ventricosus the sea snail suggests that the creatures who live there may have the clue Phos is looking for. But the sea is hardly the optimal environment for a gemstone—will Phos make it back to shore in one piece?"
+    ],
+    "price": 12.99,
+    "coverImage": "/covers/LUSTROUS-V2.jpg"
+  },
+  {
+    "id": "LUSTROUS-V3",
+    "title": "Land of the Lustrous, Vol. 3",
+    "credits": [
+      "Haruko Ichikawa (Author)"
+    ],
+    "series": "Land of the Lustrous",
+    "volume": 3,
+    "genre": [
+      "Fantasy",
+      "Post-Apocalyptic",
+      "Drama"
+    ],
+    "description": [
+      "THE LONELY WINTER",
+      "Now with new legs, Phosphophyllite is ready to go to battle. But when that new strength is needed the most, Phos is too scared to use it. Mortified by this failure, Phos undertakes the self-imposed punishment of staying awake all winter while the other gems are asleep. But winter has its own share of dangers…"
+    ],
+    "price": 12.99,
+    "coverImage": "/covers/LUSTROUS-V3.jpg"
+  },
+  {
+    "id": "LUSTROUS-V4",
+    "title": "Land of the Lustrous, Vol. 4",
+    "credits": [
+      "Haruko Ichikawa (Author)"
+    ],
+    "series": "Land of the Lustrous",
+    "volume": 4,
+    "genre": [
+      "Fantasy",
+      "Post-Apocalyptic",
+      "Drama"
+    ],
+    "description": [
+      "THE ROAD TO BRAVERY",
+      "Spring has sprung, and the all the other gems are awake to see Phosphophyllite’s transformation. They are impressed with Phos’s new arms, and our hero can hardly stand the newfound popularity, especially when it attracts the scariest gem of all…Bort now wishes to be Phos’s partner in battle."
+    ],
+    "price": 12.99,
+    "coverImage": "/covers/LUSTROUS-V4.jpg"
+  },
+  {
+    "id": "LUSTROUS-V5",
+    "title": "Land of the Lustrous, Vol. 5",
+    "credits": [
+      "Haruko Ichikawa (Author)"
+    ],
+    "series": "Land of the Lustrous",
+    "volume": 5,
+    "genre": [
+      "Fantasy",
+      "Post-Apocalyptic",
+      "Drama"
+    ],
+    "description": [
+      "SHADOW OF A DOUBT",
+      "Phosphophyllite is determined to find the truth about Kongō. Despite the other gems’ hatred of the Lunarians, Phos tries to get closer to them in an effort to communicate. But the work is dangerous, and Phos realizes this job might be more than one gem can handle…"
+    ],
+    "price": 12.99,
+    "coverImage": "/covers/LUSTROUS-V5.jpg"
+  },
+  {
+    "id": "LUSTROUS-V6",
+    "title": "Land of the Lustrous, Vol. 6",
+    "credits": [
+      "Haruko Ichikawa (Author)"
+    ],
+    "series": "Land of the Lustrous",
+    "volume": 6,
+    "genre": [
+      "Fantasy",
+      "Post-Apocalyptic",
+      "Drama"
+    ],
+    "description": [
+      "GIVE UP THE GHOST",
+      "Phosphophyllite has been immobilized in battle, with no one but Ghost Quartz around for backup. Both must last through the Lunarians’ relentless attack until help arrives, but it’s a tall task for this newly-minted pair. Will Phos’s partner be just another casualty in the ongoing war?"
+    ],
+    "price": 12.99,
+    "coverImage": "/covers/LUSTROUS-V6.jpg"
+  },
+  {
+    "id": "LUSTROUS-V7",
+    "title": "Land of the Lustrous, Vol. 7",
+    "credits": [
+      "Haruko Ichikawa (Author)"
+    ],
+    "series": "Land of the Lustrous",
+    "volume": 7,
+    "genre": [
+      "Fantasy",
+      "Post-Apocalyptic",
+      "Drama"
+    ],
+    "description": [
+      "TWO HEADS ARE BETTER THAN ONE",
+      "Now that Phosphophyllite’s head has been taken to the moon, there’s only one way to revive the defeated gem–with a risky head transplant. For better or worse, Lapis Lazuli’s head is available, but more than half of Phos’s original body has been lost. Assuming the transplant even works, will the resulting gem still be Phosphophyllite?"
+    ],
+    "price": 12.99,
+    "coverImage": "/covers/LUSTROUS-V7.jpg"
+  },
+  {
+    "id": "LUSTROUS-V8",
+    "title": "Land of the Lustrous, Vol. 8",
+    "credits": [
+      "Haruko Ichikawa (Author)"
+    ],
+    "series": "Land of the Lustrous",
+    "volume": 8,
+    "genre": [
+      "Fantasy",
+      "Post-Apocalyptic",
+      "Drama"
+    ],
+    "description": [
+      "FROM THE EARTH TO THE MOON",
+      "The quest for the truth continues as Phosphophyllite finally begins the journey to the moon, hoping to communicate with the Lunarians after so many failed attempts. While the gem is shocked and angered to learn that the enemy has been able to speak all along, this also means that they can provide answers. Will Phos be able to handle the truth?"
+    ],
+    "price": 12.99,
+    "coverImage": "/covers/LUSTROUS-V8.jpg"
+  },
+  {
+    "id": "LUSTROUS-V9",
+    "title": "Land of the Lustrous, Vol. 9",
+    "credits": [
+      "Haruko Ichikawa (Author)"
+    ],
+    "series": "Land of the Lustrous",
+    "volume": 9,
+    "genre": [
+      "Fantasy",
+      "Post-Apocalyptic",
+      "Drama"
+    ],
+    "description": [
+      "BROKEN",
+      "Phosphophyllite has formed a team of deserters to take back to the moon. While there, the gems learn the shattering truth of what happened to their captured comrades. If Phos can help the Lunarians accomplish their ultimate goal, their leader promises to make the gems whole again, but there’s a catch. Meanwhile, the Lustrous back on Earth form their own plans…"
+    ],
+    "price": 12.99,
+    "coverImage": "/covers/LUSTROUS-V9.jpg"
+  },
+  {
+    "id": "LUSTROUS-V10",
+    "title": "Land of the Lustrous, Vol. 10",
+    "credits": [
+      "Haruko Ichikawa (Author)"
+    ],
+    "series": "Land of the Lustrous",
+    "volume": 10,
+    "genre": [
+      "Fantasy",
+      "Post-Apocalyptic",
+      "Drama"
+    ],
+    "description": [
+      "After failing to get Kongo to pray for the Lunarians, Phosphophyllite returns to the moon to regroup, but Padparadscha has been covered in Cinnabar's poison, and Yellow Diamond has taken a severe psychological blow. Now Phos must come up with a new plan, but ideas are in short supply. Meanwhile, Cairngorm and the other gems are finding life on the moon to be surprisingly agreeable..."
+    ],
+    "price": 12.99,
+    "coverImage": "/covers/LUSTROUS-V10.jpg"
+  },
+  {
+    "id": "LUSTROUS-V11",
+    "title": "Land of the Lustrous, Vol. 11",
+    "credits": [
+      "Haruko Ichikawa (Author)"
+    ],
+    "series": "Land of the Lustrous",
+    "volume": 11,
+    "genre": [
+      "Fantasy",
+      "Post-Apocalyptic",
+      "Drama"
+    ],
+    "description": [
+      "Two hundred years after a failed attack on the Lustrous, Phosphophyllite is reassembled and tries again to get Kongō to pray for the Lunarians. This attempt seems likely to succeed, and the Lunarians prepare to depart to nothingness, while the gemstones on the moon prepare to be left behind. Meanwhile, Euclase is awakened by the commotion between Phos and Kongō..."
+    ],
+    "price": 12.99,
+    "coverImage": "/covers/LUSTROUS-V11.jpg"
+  },
+  {
+    "id": "LUSTROUS-V12",
+    "title": "Land of the Lustrous, Vol. 12",
+    "credits": [
+      "Haruko Ichikawa (Author)"
+    ],
+    "series": "Land of the Lustrous",
+    "volume": 12,
+    "genre": [
+      "Fantasy",
+      "Post-Apocalyptic",
+      "Drama"
+    ],
+    "description": [
+      "Phosphophyllite is on the war path, determined to make Kongo pray at all costs. The other gems attempt to protect their precious Sensei, but can they stop the vicious onslaught? Meanwhile, on the moon, Cairngorm demands an explanation from Aechmea..."
+    ],
+    "price": 12.99,
+    "coverImage": "/covers/LUSTROUS-V12.jpg"
+  }
+]
