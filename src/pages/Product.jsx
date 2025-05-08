@@ -95,7 +95,7 @@ function Product() {
 
           {volume > 0 && (
             <Link
-              to={`/search?series=${encodeURIComponent(series)}`}
+              to={`/search?series=${encodeURIComponent(series)}&volume1=false`}
               className="product-volume"
             >
               Volume {volume} of "{series}"
@@ -169,7 +169,7 @@ function Product() {
           <ProductBar
             storeData={rotatedProductSeries}
             title={`📚More Volumes of "${series}"`}
-            link={`/search?series=${encodeURIComponent(series)}`}
+            link={`/search?series=${encodeURIComponent(series)}&volume1=false`}
             shuffle={false}
             uniqueSeries={false}
           />

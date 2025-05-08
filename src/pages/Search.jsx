@@ -23,6 +23,9 @@ function Search() {
     min: queryParams.get("min") || "",
     max: queryParams.get("max") || "",
   });
+  const [volumeOneOnly, setVolumeOneOnly] = useState(
+    queryParams.get("volume1") === "true" || !queryParams.has("volume1")
+  );
   const [selectedSeries, setSelectedSeries] = useState(
     queryParams.get("series") || "",
   );
@@ -47,6 +50,9 @@ function Search() {
       min: params.get("min") || "",
       max: params.get("max") || "",
     });
+    setVolumeOneOnly(
+      params.get("volume1") === "true" || !params.has("volume1")
+    );
     setSelectedSeries(params.get("series") || "");
     setCurrentPage(1);
   }, [location.search]);
@@ -60,13 +66,21 @@ function Search() {
       if (selectedGenres.length) params.set("genres", selectedGenres.join(","));
       if (priceRange.min) params.set("min", priceRange.min);
       if (priceRange.max) params.set("max", priceRange.max);
+      if (!volumeOneOnly) params.set("volume1", "false");
       if (selectedSeries) params.set("series", selectedSeries);
 
       navigate(`${location.pathname}?${params.toString()}`, { replace: true });
     }, 300);
 
     return () => clearTimeout(timeout);
-  }, [searchTerm, sortFilter, selectedGenres, priceRange, selectedSeries]);
+  }, [
+    searchTerm,
+    sortFilter,
+    selectedGenres,
+    priceRange,
+    selectedSeries,
+    volumeOneOnly,
+  ]);
 
   // --- Filter & Sort Logic ---
   const filteredStoreData = useMemo(() => {
@@ -90,6 +104,7 @@ function Search() {
       .filter(
         (product) => product.price >= minPrice && product.price <= maxPrice,
       )
+      .filter((product) => (volumeOneOnly ? product.volume === 1 : true))
       .sort((a, b) => {
         if (selectedSeries) {
           // If a series is selected, just sort by volume
@@ -146,9 +161,9 @@ function Search() {
     currentPage * itemsPerPage,
   );
 
-  useEffect(() => {
-    window.scrollTo({ top: 0, behavior: "smooth" });
-  }, [currentPage]);
+  // useEffect(() => {
+  //   window.scrollTo({ top: 0, behavior: "smooth" });
+  // }, [currentPage]);
 
   return (
     <div className="search">
@@ -222,6 +237,18 @@ function Search() {
                   }
                 />
               </div>
+            </fieldset>
+
+            <fieldset className="search-filter-volume">
+              <legend className="filter-title">Filter by Volume:</legend>
+              <label>
+                <input
+                  type="checkbox"
+                  checked={volumeOneOnly}
+                  onChange={(e) => setVolumeOneOnly(e.target.checked)}
+                />
+                Volume 1 only
+              </label>
             </fieldset>
           </div>
         </div>

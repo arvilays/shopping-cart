@@ -2,159 +2,1192 @@
   {
     "id": "20THCENTURYP-V1",
     "title": "20th Century Boys: The Perfect Edition, Vol. 1",
-    "credits": ["Naoki Urasawa (Creator)"],
+    "credits": [
+      "Naoki Urasawa (Creator)"
+    ],
     "series": "20th Century Boys",
     "volume": 1,
-    "genre": ["Mystery", "Science Fiction", "Thriller"],
+    "genre": [
+      "Mystery",
+      "Science Fiction",
+      "Thriller"
+    ],
     "description": [
       "A deluxe bind-up edition of Naoki Urasawa’s award-winning epic of doomsday cults, giant robots and a group of friends trying to save the world from destruction!",
       "Humanity, having faced extinction at the end of the 20th century, would not have entered the new millennium if it weren’t for them. In 1969, during their youth, they created a symbol. In 1997, as the coming disaster slowly starts to unfold, that symbol returns. This is the story of a group of boys who try to save the world."
     ],
     "price": 22.99,
-    "coverImage": "/covers/20thcenturyboysperfect-v1.jpg"
+    "coverImage": "/covers/20THCENTURYP-V1.jpg"
+  },
+  {
+    "id": "20THCENTURYP-V10",
+    "title": "20th Century Boys: The Perfect Edition, Vol. 10",
+    "credits": [
+      "Naoki Urasawa (Creator)"
+    ],
+    "series": "20th Century Boys",
+    "volume": 10,
+    "genre": [
+      "Mystery",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "description": [
+      "A deluxe bind-up edition of Naoki Urasawa’s award-winning epic of doomsday cults, giant robots and a group of friends trying to save the world from destruction!",
+      "Humanity, having faced extinction at the end of the 20th century, would not have entered the new millennium if it weren’t for them. In 1969, during their youth, they created a symbol. In 1997, as the coming disaster slowly starts to unfold, that symbol returns. This is the story of a group of boys who try to save the world.",
+      "A man with a guitar arrives at a barrier town outside of Tokyo. Anyone who attempts to travel through the town without a pass is arrested and murdered. As the days go by, the body count grows and grows... Who can change this horrible situation and break through the barrier town? And who awaits at their final destination?"
+    ],
+    "price": 22.99,
+    "coverImage": "/covers/20THCENTURYP-V10.jpg"
+  },
+  {
+    "id": "20THCENTURYP-V11",
+    "title": "20th Century Boys: The Perfect Edition, Vol. 11",
+    "credits": [
+      "Naoki Urasawa (Creator)"
+    ],
+    "series": "20th Century Boys",
+    "volume": 11,
+    "genre": [
+      "Mystery",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "description": [
+      "A deluxe bind-up edition of Naoki Urasawa’s award-winning epic of doomsday cults, giant robots and a group of friends trying to save the world from destruction!",
+      "Humanity, having faced extinction at the end of the 20th century, would not have entered the new millennium if it weren’t for them. In 1969, during their youth, they created a symbol. In 1997, as the coming disaster slowly starts to unfold, that symbol returns. This is the story of a group of boys who try to save the world.",
+      "There once was a kid who imagined the end of the world. It was all a child’s game—until it became terribly real! The Friend is carrying out his plan to exterminate humanity—just as predicted. And the man who survived Bloody New Year’s Eve is on his way back to Tokyo. The boys are coming back together one by one as they race toward the final battle."
+    ],
+    "price": 22.99,
+    "coverImage": "/covers/20THCENTURYP-V11.jpg"
+  },
+  {
+    "id": "20THCENTURYP-V2",
+    "title": "20th Century Boys: The Perfect Edition, Vol. 2",
+    "credits": [
+      "Naoki Urasawa (Creator)"
+    ],
+    "series": "20th Century Boys",
+    "volume": 2,
+    "genre": [
+      "Mystery",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "description": [
+      "A deluxe bind-up edition of Naoki Urasawa’s award-winning epic of doomsday cults, giant robots and a group of friends trying to save the world from destruction!",
+      "Humanity, having faced extinction at the end of the 20th century, would not have entered the new millennium if it weren’t for them. In 1969, during their youth, they created a symbol. In 1997, as the coming disaster slowly starts to unfold, that symbol returns. This is the story of a group of boys who try to save the world.",
+      "With killer bacteria attacks on San Francisco and London underway, the plot to destroy the world that Kenji imagined as a boy is playing out in real life through the actions of the Friend. What will happen next? Only one person knows. Only one person can save the world, and that person is Kenji. Firing up his guitar and making up his mind to stand up, Kenji heads to the concert hall where the Friend awaits…"
+    ],
+    "price": 22.99,
+    "coverImage": "/covers/20THCENTURYP-V2.jpg"
+  },
+  {
+    "id": "20THCENTURYP-V3",
+    "title": "20th Century Boys: The Perfect Edition, Vol. 3",
+    "credits": [
+      "Naoki Urasawa (Creator)"
+    ],
+    "series": "20th Century Boys",
+    "volume": 3,
+    "genre": [
+      "Mystery",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "description": [
+      "A deluxe bind-up edition of Naoki Urasawa’s award-winning epic of doomsday cults, giant robots and a group of friends trying to save the world from destruction!",
+      "Humanity, having faced extinction at the end of the 20th century, would not have entered the new millennium if it weren’t for them. In 1969, during their youth, they created a symbol. In 1997, as the coming disaster slowly starts to unfold, that symbol returns. This is the story of a group of boys who try to save the world.",
+      "The giant robot has been built, awaiting its great awakening, but the Friend’s identity has yet to be revealed. Time passes day by day, counting down to December 31, 2000…the day that Earth is destined to see its end. The only ones who can save the world are the nine friends who wrote The Book of Prophecy in their childhood days. Will humanity enter the new world—the new century—safe and sound?"
+    ],
+    "price": 19.99,
+    "coverImage": "/covers/20THCENTURYP-V3.jpg"
+  },
+  {
+    "id": "20THCENTURYP-V4",
+    "title": "20th Century Boys: The Perfect Edition, Vol. 4",
+    "credits": [
+      "Naoki Urasawa (Creator)"
+    ],
+    "series": "20th Century Boys",
+    "volume": 4,
+    "genre": [
+      "Mystery",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "description": [
+      "A deluxe bind-up edition of Naoki Urasawa’s award-winning epic of doomsday cults, giant robots and a group of friends trying to save the world from destruction!",
+      "Humanity, having faced extinction at the end of the 20th century, would not have entered the new millennium if it weren’t for them. In 1969, during their youth, they created a symbol. In 1997, as the coming disaster slowly starts to unfold, that symbol returns. This is the story of a group of boys who try to save the world.",
+      "In the middle of the Tokyo Bay, a man known as Shogun has escaped from Umihotaru Prison, a place feared by criminals and convicts as an inescapable iron fort, in order to save the world. He heads off to Tokyo, the city where the girl known as “the Last Hope” lives. But the streets of Tokyo are in turmoil after a murder in Chinatown triggers a chain reaction of terror. The time has come for the false peace created by the Friend to be exposed. What is the truth behind the historic disaster on the last day of 20th century?"
+    ],
+    "price": 19.99,
+    "coverImage": "/covers/20THCENTURYP-V4.jpg"
+  },
+  {
+    "id": "20THCENTURYP-V5",
+    "title": "20th Century Boys: The Perfect Edition, Vol. 5",
+    "credits": [
+      "Naoki Urasawa (Creator)"
+    ],
+    "series": "20th Century Boys",
+    "volume": 5,
+    "genre": [
+      "Mystery",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "description": [
+      "A deluxe bind-up edition of Naoki Urasawa’s award-winning epic of doomsday cults, giant robots and a group of friends trying to save the world from destruction!",
+      "Humanity, having faced extinction at the end of the 20th century, would not have entered the new millennium if it weren’t for them. In 1969, during their youth, they created a symbol. In 1997, as the coming disaster slowly starts to unfold, that symbol returns. This is the story of a group of boys who try to save the world.",
+      "In 2014, Tokyo is under the complete control of the mysterious ruler known as the Friend. Kanna has chosen to step forward and confront the Friend in order to carry out the last wishes of her uncle Kenji, who has been missing since Bloody New Year’s Eve. As Kanna gathers a group of outcasts and misfits to face the Friend, her high school classmate Koizumi faces true horror in the brainwashing camp known as Friend Land. It is there that she sees something that no one was ever meant to see: the true identity of the Friend. Who will survive in this world where it is nearly impossible to distinguish friend from foe?"
+    ],
+    "price": 19.99,
+    "coverImage": "/covers/20THCENTURYP-V5.jpg"
+  },
+  {
+    "id": "20THCENTURYP-V6",
+    "title": "20th Century Boys: The Perfect Edition, Vol. 6",
+    "credits": [
+      "Naoki Urasawa (Creator)"
+    ],
+    "series": "20th Century Boys",
+    "volume": 6,
+    "genre": [
+      "Mystery",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "description": [
+      "A deluxe bind-up edition of Naoki Urasawa’s award-winning epic of doomsday cults, giant robots and a group of friends trying to save the world from destruction!",
+      "Humanity, having faced extinction at the end of the 20th century, would not have entered the new millennium if it weren’t for them. In 1969, during their youth, they created a symbol. In 1997, as the coming disaster slowly starts to unfold, that symbol returns. This is the story of a group of boys who try to save the world.",
+      "“My father is the Friend?” Kanna asks as she confronts the grim truth. With a heart full of despair, it will take everything for Kanna to continue the fight against the Friends. Meanwhile, Koizumi and Sadakiyo manage to escape the pursuit of the Dream Navigators, but not for long. Can Kanna, caught in an emotional struggle between her fate and the future of the Earth, step forward and head to the rescue of Koizumi? As our heroes continue their fight against the Friends, longtime secrets are revealed and more of Kenji’s friends reunite. The war against the Friends has reached yet another crescendo…"
+    ],
+    "price": 19.99,
+    "coverImage": "/covers/20THCENTURYP-V6.jpg"
+  },
+  {
+    "id": "20THCENTURYP-V7",
+    "title": "20th Century Boys: The Perfect Edition, Vol. 7",
+    "credits": [
+      "Naoki Urasawa (Creator)"
+    ],
+    "series": "20th Century Boys",
+    "volume": 7,
+    "genre": [
+      "Mystery",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "description": [
+      "A deluxe bind-up edition of Naoki Urasawa’s award-winning epic of doomsday cults, giant robots and a group of friends trying to save the world from destruction!",
+      "Humanity, having faced extinction at the end of the 20th century, would not have entered the new millennium if it weren’t for them. In 1969, during their youth, they created a symbol. In 1997, as the coming disaster slowly starts to unfold, that symbol returns. This is the story of a group of boys who try to save the world.",
+      "Kanna, burdened by the fact that her mother Kiriko developed the bacteriological weapons used by the Friends on Bloody New Year’s Eve, ruminates over the ominous messages she left behind. When the weapons come back to haunt humanity, Kanna isn’t the only one searching for traces of Kiriko. Otcho gets closer to finding out the missing doctor's current whereabouts after a search leads him to her former colleague, Dr. Yamane."
+    ],
+    "price": 22.99,
+    "coverImage": "/covers/20THCENTURYP-V7.jpg"
+  },
+  {
+    "id": "20THCENTURYP-V8",
+    "title": "20th Century Boys: The Perfect Edition, Vol. 8",
+    "credits": [
+      "Naoki Urasawa (Creator)"
+    ],
+    "series": "20th Century Boys",
+    "volume": 8,
+    "genre": [
+      "Mystery",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "description": [
+      "A deluxe bind-up edition of Naoki Urasawa’s award-winning epic of doomsday cults, giant robots and a group of friends trying to save the world from destruction!",
+      "Humanity, having faced extinction at the end of the 20th century, would not have entered the new millennium if it weren’t for them. In 1969, during their youth, they created a symbol. In 1997, as the coming disaster slowly starts to unfold, that symbol returns. This is the story of a group of boys who try to save the world.",
+      "Evil has come. Justice has yet to arrive…",
+      "While an unknown virus spreads and cripples the world with fear, the 2015 World Expo prepares to start, serving as a beacon of hope in a dark world. But how can our heroes remain hopeful as strange rumors start to spread? Between sightings of the recently deceased Friend walking the streets of Japan and rumors of an assassination attempt on the pope, all signs point towards an eventful opening ceremony for the 2015 World Expo."
+    ],
+    "price": 19.99,
+    "coverImage": "/covers/20THCENTURYP-V8.jpg"
+  },
+  {
+    "id": "20THCENTURYP-V9",
+    "title": "20th Century Boys: The Perfect Edition, Vol. 9",
+    "credits": [
+      "Naoki Urasawa (Creator)"
+    ],
+    "series": "20th Century Boys",
+    "volume": 9,
+    "genre": [
+      "Mystery",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "description": [
+      "A deluxe bind-up edition of Naoki Urasawa’s award-winning epic of doomsday cults, giant robots and a group of friends trying to save the world from destruction!",
+      "Humanity, having faced extinction at the end of the 20th century, would not have entered the new millennium if it weren’t for them. In 1969, during their youth, they created a symbol. In 1997, as the coming disaster slowly starts to unfold, that symbol returns. This is the story of a group of boys who try to save the world.",
+      "Darkness covers the world as the forces of evil take control. The Friend has become the President of the World and rules with absolute power from behind the giant wall of the city of Tokyo. Most of the world believes that the Friend is their savior, but below the surface, a resistance group led by \"The Ice Queen\" begins to make its move. The only one capable of ending this nightmare, she plans an armed revolt—but then a ray of hope shines from an unexpected corner..."
+    ],
+    "price": 22.99,
+    "coverImage": "/covers/20THCENTURYP-V9.jpg"
   },
   {
     "id": "SILENTVOICE-V1",
     "title": "A Silent Voice, Vol. 1",
-    "credits": ["Yoshitoki Oima (Author)"],
+    "credits": [
+      "Yoshitoki Oima (Author)"
+    ],
     "series": "A Silent Voice",
     "volume": 1,
-    "genre": ["Drama"],
+    "genre": [
+      "Drama"
+    ],
     "description": [
+      "LEARNING TO LISTEN",
       "Shoya is a bully. When Shoko, a girl who can’t hear, enters his elementary school class, she becomes their favorite target, and Shoya and his friends goad each other into devising new tortures for her. But the children’s cruelty goes too far. Shoko is forced to leave the school, and Shoya ends up shouldering all the blame. Six years later, the two meet again. Can Shoya make up for his past mistakes, or is it too late?"
     ],
     "price": 10.99,
-    "coverImage": "/covers/asilentvoice-v1.jpg"
+    "coverImage": "/covers/SILENTVOICE-V1.jpg"
+  },
+  {
+    "id": "SILENTVOICE-V2",
+    "title": "A Silent Voice, Vol. 2",
+    "credits": [
+      "Yoshitoki Oima (Author)"
+    ],
+    "series": "A Silent Voice",
+    "volume": 2,
+    "genre": [
+      "Drama"
+    ],
+    "description": [
+      "SPEAKING WITH ACTIONS",
+      "It's been five years since Shoya Ishida bullied Shoko Nishimiya so badly she left their elementary school, because of one simple difference between them: Shoya can hear, and Shoko can't. In the intervening time, Shoya's life has changed completely. Shunned by his friends, Shoya's longed for the chance to make up for his cruelty. When it finally comes, will he find the voice to tell Shoko he's changed? And will Shoko listen?"
+    ],
+    "price": 10.99,
+    "coverImage": "/covers/SILENTVOICE-V2.jpg"
+  },
+  {
+    "id": "SILENTVOICE-V3",
+    "title": "A Silent Voice, Vol. 3",
+    "credits": [
+      "Yoshitoki Oima (Author)"
+    ],
+    "series": "A Silent Voice",
+    "volume": 3,
+    "genre": [
+      "Drama"
+    ],
+    "description": [
+      "ARE YOU AFRAID OF HER?",
+      "Shoya's decided to do everything he can to make up for how terribly he treated Shoko, his former classmate who can't hear. But more than the challenge of learning to communicate, it means facing a past he thought he'd left behind forever. Now a reunion with old friends will transform Shoya, and his relationship with Shoko.\""
+    ],
+    "price": 10.99,
+    "coverImage": "/covers/SILENTVOICE-V3.jpg"
+  },
+  {
+    "id": "SILENTVOICE-V4",
+    "title": "A Silent Voice, Vol. 4",
+    "credits": [
+      "Yoshitoki Oima (Author)"
+    ],
+    "series": "A Silent Voice",
+    "volume": 4,
+    "genre": [
+      "Drama"
+    ],
+    "description": [
+      "WORDS OF REASSURANCE",
+      "Once upon a time, Shoya was terribly cruel to Shoko, his elementary school classmate who couldn't hear. To make up for his past sins, Shoya has devoted himself to repaying the debt of happiness he owes. So when Shoko faces a romantic setback, Shoya assembles some familiar faces from their past for a trip to the amusement park that may just change things for Shoya, too."
+    ],
+    "price": 10.99,
+    "coverImage": "/covers/SILENTVOICE-V4.jpg"
+  },
+  {
+    "id": "SILENTVOICE-V5",
+    "title": "A Silent Voice, Vol. 5",
+    "credits": [
+      "Yoshitoki Oima (Author)"
+    ],
+    "series": "A Silent Voice",
+    "volume": 5,
+    "genre": [
+      "Drama"
+    ],
+    "description": [
+      "A QUIET CALM",
+      "Despite their tense pasts, Shoya begins to embrace the friend group that used to terrorize Shoko because she couldn't hear. Now that summer vacation is in full swing, the crew can work together to film Tomohiro's eccentric movie. Each fun-filled day lazily passes by, but doubt tugs at Shoya's heavy heart and he is desperate to cling on to meaningful moments before they are gone?"
+    ],
+    "price": 10.99,
+    "coverImage": "/covers/SILENTVOICE-V5.jpg"
+  },
+  {
+    "id": "SILENTVOICE-V6",
+    "title": "A Silent Voice, Vol. 6",
+    "credits": [
+      "Yoshitoki Oima (Author)"
+    ],
+    "series": "A Silent Voice",
+    "volume": 6,
+    "genre": [
+      "Drama"
+    ],
+    "description": [
+      "A SILENT PRAYER",
+      "Time stands still for both Shoya and Shoko. Triggered by past traumas, Shoya coldly attacked his friends and burnt the bridges he first set out to rebuild. Shoko feels a deep responsibility for this disaster and attempts to pay for it by taking her own life. Meanwhile, each of their friends finally show their true colors. After everything has fallen apart, how will they mend their hearts and put the pieces back together?"
+    ],
+    "price": 10.99,
+    "coverImage": "/covers/SILENTVOICE-V6.jpg"
+  },
+  {
+    "id": "SILENTVOICE-V7",
+    "title": "A Silent Voice, Vol. 7",
+    "credits": [
+      "Yoshitoki Oima (Author)"
+    ],
+    "series": "A Silent Voice",
+    "volume": 7,
+    "genre": [
+      "Drama"
+    ],
+    "description": [
+      "SEE YOU LATER",
+      "Shoya’s life hangs on by a thread after he jumped just in time to save Shoko. Despite the despair, Shoko is determined to move forward and get back what she thinks she has ruined… But broken friendships can heal, too. Quietly, but surely, the disbanded crew finds their spirit — the show must go on! As the movie-making reconvenes, the kids begin to transform the world that had once been so cruel to them. What could the future hold for everyone?"
+    ],
+    "price": 10.99,
+    "coverImage": "/covers/SILENTVOICE-V7.jpg"
   },
   {
     "id": "AOT-V1",
     "title": "Attack on Titan, Vol. 1",
-    "credits": ["Hajime Isayama (Author)"],
+    "credits": [
+      "Hajime Isayama (Author)"
+    ],
     "series": "Attack on Titan",
     "volume": 1,
-    "genre": ["Action", "Fantasy", "Post-Apocalyptic"],
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Post-Apocalyptic"
+    ],
     "description": [
       "In this post-apocalytpic sci-fi story, humanity has been devastated by the bizarre, giant humanoids known as the Titans. Little is known about where they came from or why they are bent on consuming mankind. Seemingly unintelligent, they have roamed the world for years, killing everyone they see. For the past century, what's left of man has hidden in a giant, three-walled city. People believe their 50-meter-high walls will protect them from the Titans, but the sudden appearance of an immense Titan is about to change everything.",
       "Winner of the 2011 Kodansha Manga Award (Shonen) and nominated for the prestigious Osamu Tezuka Cultural Prize for 2012.",
       "The megahit Attack on Titan anime finally returns, streaming on April 1!"
     ],
     "price": 10.99,
-    "coverImage": "/covers/attackontitan-v1.jpg"
+    "coverImage": "/covers/AOT-V1.jpg"
+  },
+  {
+    "id": "AOT-V2",
+    "title": "Attack on Titan, Vol. 2",
+    "credits": [
+      "Hajime Isayama (Author)"
+    ],
+    "series": "Attack on Titan",
+    "volume": 2,
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Post-Apocalyptic"
+    ],
+    "description": [
+      "BIRTH OF A MONSTER?",
+      "The Colossal Titan has breached humanity's first line of defense, Wall Maria. Mikasa, the 104th Training Corps' ace and Eren's best friend, may be the only one capable of defeating them, but beneath her calm exterior lurks a dark past. When all looks lost, a new Titan appears and begins to slaughter its fellow Titans. Could this new monster be a blessing in disguise, or is the truth something much more sinister? This volume of Attack on Titan includes special extras after the story!"
+    ],
+    "price": 10.99,
+    "coverImage": "/covers/AOT-V2.jpg"
+  },
+  {
+    "id": "AOT-V3",
+    "title": "Attack on Titan, Vol. 3",
+    "credits": [
+      "Hajime Isayama (Author)"
+    ],
+    "series": "Attack on Titan",
+    "volume": 3,
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Post-Apocalyptic"
+    ],
+    "description": [
+      "TRAITOR?",
+      "The last thing Eren remembers before blacking out, a Titan had bitten off his arm and leg and was getting ready to eat him alive. Much to his surprise he wakes up without a scratch on him, with a crowd of angry soldiers screaming for his blood. What strange new power has he awakened, and what will happen when the boy devoted to destroying the Titans becomes one himself? Includes special extras after the story!"
+    ],
+    "price": 10.99,
+    "coverImage": "/covers/AOT-V3.jpg"
+  },
+  {
+    "id": "AOT-V4",
+    "title": "Attack on Titan, Vol. 4",
+    "credits": [
+      "Hajime Isayama (Author)"
+    ],
+    "series": "Attack on Titan",
+    "volume": 4,
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Post-Apocalyptic"
+    ],
+    "description": [
+      "HUMANITY PUSHES BACK!?",
+      "The Survey Corps develop a risky gambit - have Eren in Titan form attempt to repair Wall Rose, reclaiming human territory from the monsters for the first time in a century. But Titan-Eren's self-control is far from perfect, and when he goes on a rampage, not even Armin can stop him! With the survival of humanity on his massive shoulders, will Eren be able to return to his senses, or will he lose himself forever?"
+    ],
+    "price": 10.99,
+    "coverImage": "/covers/AOT-V4.jpg"
+  },
+  {
+    "id": "AOT-V5",
+    "title": "Attack on Titan, Vol. 5",
+    "credits": [
+      "Hajime Isayama (Author)"
+    ],
+    "series": "Attack on Titan",
+    "volume": 5,
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Post-Apocalyptic"
+    ],
+    "description": [
+      "CAN YOU GO HOME AGAIN?",
+      "Thanks to Eren, humanity has taken the town of Trost back from the Titans. Exhausted, Eren falls into a coma for three days - and wakes in shackles, staring at Erwin Smith, leader of the Survey Corps. Certain that Eren's father's research holds the key to the mystery of the Titans' rise, Smith wants an expedition to retrieve it from the house where Eren grew up. But that's deep in Titan territory, and to get there Eren will need to master a power he still doesn't fully understand..."
+    ],
+    "price": 10.99,
+    "coverImage": "/covers/AOT-V5.jpg"
+  },
+  {
+    "id": "AOT-V6",
+    "title": "Attack on Titan, Vol. 6",
+    "credits": [
+      "Hajime Isayama (Author)"
+    ],
+    "series": "Attack on Titan",
+    "volume": 6,
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Post-Apocalyptic"
+    ],
+    "description": [
+      "TITAN ON THE HUNT",
+      "On the way to Eren's home, deep in Titan territory, the Survey Corps ranks are broken by a charge led by a female Titan! But this Abnormal is different - she kills not to eat but to protect herself, and she seems to be looking for someone. Armin comes to a shocking conclusion!"
+    ],
+    "price": 10.99,
+    "coverImage": "/covers/AOT-V6.jpg"
+  },
+  {
+    "id": "AOT-V7",
+    "title": "Attack on Titan, Vol. 7",
+    "credits": [
+      "Hajime Isayama (Author)"
+    ],
+    "series": "Attack on Titan",
+    "volume": 7,
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Post-Apocalyptic"
+    ],
+    "description": [
+      "TURNING ON THEIR OWN",
+      "The Survey Corps sets a cunning trap to capture the mysterious Abnormal Titan that broke through their ranks. As Arwin tries to determine the grotesque creature's identity and purpose, scouts report Titans closing in on all sides! But they don't seem to be after the humans - instead they're targeting the Titan!"
+    ],
+    "price": 10.99,
+    "coverImage": "/covers/AOT-V7.jpg"
+  },
+  {
+    "id": "AOT-V8",
+    "title": "Attack on Titan, Vol. 8",
+    "credits": [
+      "Hajime Isayama (Author)"
+    ],
+    "series": "Attack on Titan",
+    "volume": 8,
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Post-Apocalyptic"
+    ],
+    "description": [
+      "BLOOD ON HIS HANDS",
+      "The expedition outside the wall was Eren's chance to prove himself. But it failed, and the female Titan is free once more! With his squad dead, Eren faces a royal summons. Will Mikasa and Armin have to betray their king to save their friend? And can they discover the female Titan's identity before she kills again?"
+    ],
+    "price": 10.99,
+    "coverImage": "/covers/AOT-V8.jpg"
+  },
+  {
+    "id": "AOT-V9",
+    "title": "Attack on Titan, Vol. 9",
+    "credits": [
+      "Hajime Isayama (Author)"
+    ],
+    "series": "Attack on Titan",
+    "volume": 9,
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Post-Apocalyptic"
+    ],
+    "description": [
+      "HUMANITY'S WORST NIGHTMARE",
+      "Eren is still resting from his brutal fight with the female Titan, when word reaches the interior that the impossible has happened: Wall Rose itself has been breached, and Titans are pouring through the gap! The emergency casts new urgency over Armin and Hange's questions about how the walls were built, and what humanity can do to restore them..."
+    ],
+    "price": 10.99,
+    "coverImage": "/covers/AOT-V9.jpg"
+  },
+  {
+    "id": "AOT-V10",
+    "title": "Attack on Titan, Vol. 10",
+    "credits": [
+      "Hajime Isayama (Author)"
+    ],
+    "series": "Attack on Titan",
+    "volume": 10,
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Post-Apocalyptic"
+    ],
+    "description": [
+      "FORTRESS OF BLOOD",
+      "With no combat gear and Wall Rose breached, the 104th scrambles to evacuate the villages in the Titans' path. On their way to the safety of Wall Sheena, they decide to spend the night in Utgard Castle. But their sanctuary becomes a slaughterhouse when they discover that, for some reason, these Titans attack at night!"
+    ],
+    "price": 10.99,
+    "coverImage": "/covers/AOT-V10.jpg"
+  },
+  {
+    "id": "AOT-V11",
+    "title": "Attack on Titan, Vol. 11",
+    "credits": [
+      "Hajime Isayama (Author)"
+    ],
+    "series": "Attack on Titan",
+    "volume": 11,
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Post-Apocalyptic"
+    ],
+    "description": [
+      "DO YOU THINK THIS WORLD HAS A FUTURE?",
+      "Thanks to Eren's timely arrival, the 104th has managed to turn the tide at Wall Rose. But this momentary victory forces two more traitors into a corner - and the identity of the Titans who have been destroying the walls is revealed! What can Eren do against the two most dangerous monsters humanity has ever faced? And who else might be an enemy in disguise?"
+    ],
+    "price": 10.99,
+    "coverImage": "/covers/AOT-V11.jpg"
+  },
+  {
+    "id": "AOT-V12",
+    "title": "Attack on Titan, Vol. 12",
+    "credits": [
+      "Hajime Isayama (Author)"
+    ],
+    "series": "Attack on Titan",
+    "volume": 12,
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Post-Apocalyptic"
+    ],
+    "description": [
+      "THE CHASE IS ON!",
+      "Erwin and the Survey Corps desperately mount a rescue operation to take Eren back from the Colossus Titan and Armored Titan. But without the numbers to form up properly outside the walls, how can the humans catch up before they're all slaughtered? Just whose side is Ymir on? And will Eren ever see his friends again?"
+    ],
+    "price": 10.99,
+    "coverImage": "/covers/AOT-V12.jpg"
+  },
+  {
+    "id": "AOT-V13",
+    "title": "Attack on Titan, Vol. 13",
+    "credits": [
+      "Hajime Isayama (Author)"
+    ],
+    "series": "Attack on Titan",
+    "volume": 13,
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Post-Apocalyptic"
+    ],
+    "description": [
+      "NO SAFE PLACE LEFT",
+      "At great cost to the Garrison and the Survey Corps, Commander Erwin has managed to recover Eren from the Titans who tried to carry him off. But during the battle, Eren manifested yet another power he doesn't understand. As Eren and Krista find new enemies, the Survey Corps faces threats from both inside and outside the walls. And what will happen to Ymir, now that she has decided to make herself the Titans' prize?"
+    ],
+    "price": 10.99,
+    "coverImage": "/covers/AOT-V13.jpg"
+  },
+  {
+    "id": "AOT-V14",
+    "title": "Attack on Titan, Vol. 14",
+    "credits": [
+      "Hajime Isayama (Author)"
+    ],
+    "series": "Attack on Titan",
+    "volume": 14,
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Post-Apocalyptic"
+    ],
+    "description": [
+      "ERWIN'S GREATEST GAMBLE",
+      "Commander Erwin has finally come to a decision: Putting their own wealth and position ahead of the survival of humanity, the royal government is no longer fit to lead. To execute their leader's most audacious plan yet, Eren and Krista will have to put themselves in peril yet again, and Armin, Mikasa, and the rest of the Survey Corps will have to turn from humanity's guardians into traitors. If they fail this time, they'll face not a Titan's gaping mouth, but the gallows..."
+    ],
+    "price": 10.99,
+    "coverImage": "/covers/AOT-V14.jpg"
+  },
+  {
+    "id": "AOT-V15",
+    "title": "Attack on Titan, Vol. 15",
+    "credits": [
+      "Hajime Isayama (Author)"
+    ],
+    "series": "Attack on Titan",
+    "volume": 15,
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Post-Apocalyptic"
+    ],
+    "description": [
+      "FUGITIVES AND PRISONERS",
+      "Hange's interrogation of a Military Police squad has revealed that Krista (a.k.a. Historia Reiss) is the true heir to the throne. The Corps quickly moves to enthrone her as queen, but a homicidal MP leads a squad that abducts Eren and Krista and throws the Corps into disarray. With Erwin arrested and the Survey Corps on the edge of dissolution, are Levi and Hange finally out of options?"
+    ],
+    "price": 10.99,
+    "coverImage": "/covers/AOT-V15.jpg"
+  },
+  {
+    "id": "AOT-V16",
+    "title": "Attack on Titan, Vol. 16",
+    "credits": [
+      "Hajime Isayama (Author)"
+    ],
+    "series": "Attack on Titan",
+    "volume": 16,
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Post-Apocalyptic"
+    ],
+    "description": [
+      "WHAT WAS HIS FATHER'S SIN?",
+      "Captured by Rod Reiss, the rightful king, Krista and Eren finally have their memories back. What exactly happened to Eren, and what was the crime his father committed? Meanwhile, the Survey Corps desperately hunts for Eren, while at the same time seeking to legitimize their military coup. As the situation inside the walls comes to a head, the mysteries of the world of the Titans seem on the cusp of being solved at last!"
+    ],
+    "price": 10.99,
+    "coverImage": "/covers/AOT-V16.jpg"
+  },
+  {
+    "id": "AOT-V17",
+    "title": "Attack on Titan, Vol. 17",
+    "credits": [
+      "Hajime Isayama (Author)"
+    ],
+    "series": "Attack on Titan",
+    "volume": 17,
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Post-Apocalyptic"
+    ],
+    "description": [
+      "ESCAPE FROM KING TITAN",
+      "Thanks to Rod Reiss, Eren finally knows the terrible truth behind how he acquired his Titan powers, and the depth of his father's crimes. The king orders his daughter Historia to kill Eren and restore the power of the Titans to its rightful place, but she chooses her own selfish path: survival. As the cavern crumbles around the Survey Corps, Eren must make another last-minute decision, with the lives of all his friends in the balance."
+    ],
+    "price": 10.99,
+    "coverImage": "/covers/AOT-V17.jpg"
+  },
+  {
+    "id": "AOT-V18",
+    "title": "Attack on Titan, Vol. 18",
+    "credits": [
+      "Hajime Isayama (Author)"
+    ],
+    "series": "Attack on Titan",
+    "volume": 18,
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Post-Apocalyptic"
+    ],
+    "description": [
+      "AVE MARIA",
+      "The Survey Corps has overthrown the Royal Government and swept away the tyranny of the king. The next step: Move to retake Wall Maria, with the helpf of a newly-discovered metallic ore and Eren’s miraculous Titan hardening powers. But as humanity pulls together, its enemies also unite beyond the Walls… now that the Beast Titan has joined Reiner and Bertolt, what havoc will they wreak?"
+    ],
+    "price": 10.99,
+    "coverImage": "/covers/AOT-V18.jpg"
+  },
+  {
+    "id": "AOT-V19",
+    "title": "Attack on Titan, Vol. 19",
+    "credits": [
+      "Hajime Isayama (Author)"
+    ],
+    "series": "Attack on Titan",
+    "volume": 19,
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Post-Apocalyptic"
+    ],
+    "description": [
+      "CAGE MATCH",
+      "The Survey Corps is engaged in a desperate, final battle to retake Wall Maria and defeat the Titans once and for all. Eren must use his new powers to seal the holes created five years ago in the Shiganshina District gates, not to mention to finally reach the basement of his old home and find what secrets lie hidden there. But the most difficult part of the operation will be surviving whatever clever traps the Colossus Titan, Armored Titan, and Beast Titan have prepared for them! Now that Erwin is gambling with every last human life, who will triumph?"
+    ],
+    "price": 10.99,
+    "coverImage": "/covers/AOT-V19.jpg"
+  },
+  {
+    "id": "AOT-V20",
+    "title": "Attack on Titan, Vol. 20",
+    "credits": [
+      "Hajime Isayama (Author)"
+    ],
+    "series": "Attack on Titan",
+    "volume": 20,
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Post-Apocalyptic"
+    ],
+    "description": [
+      "FACING ANNIHILATION",
+      "The Survey Corps's quest for the truth of the world inside the Walls has brought them back to Titan-infested Shiganshina District, a mere stone's throw from Eren's childhood home. They have come to execute Erwin's final gambit, reclaiming Wall Maria and the secrets of humanity's past. But the Colossus Titan, the Armored Titan, and the Beast Titan have been waiting for them, and saving humanity will require the most difficult sacrifice the Corps has ever had to make…"
+    ],
+    "price": 10.99,
+    "coverImage": "/covers/AOT-V20.jpg"
+  },
+  {
+    "id": "AOT-V21",
+    "title": "Attack on Titan, Vol. 21",
+    "credits": [
+      "Hajime Isayama (Author)"
+    ],
+    "series": "Attack on Titan",
+    "volume": 21,
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Post-Apocalyptic"
+    ],
+    "description": [
+      "Locked in desperate battle with the man-eating Titans, the Survey Corps gets closer than ever before to Eren’s basement and unlocking the mysteries of their walled world. But to get there, they will have to make a terrible choice with life-altering consequences for every surviving human soldier…"
+    ],
+    "price": 10.99,
+    "coverImage": "/covers/AOT-V21.jpg"
+  },
+  {
+    "id": "AOT-V22",
+    "title": "Attack on Titan, Vol. 22",
+    "credits": [
+      "Hajime Isayama (Author)"
+    ],
+    "series": "Attack on Titan",
+    "volume": 22,
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Post-Apocalyptic"
+    ],
+    "description": [
+      "The mysteries of the Titans are being revealed… who will escape death at the hands of giants and human beings?"
+    ],
+    "price": 10.99,
+    "coverImage": "/covers/AOT-V22.jpg"
+  },
+  {
+    "id": "AOT-V23",
+    "title": "Attack on Titan, Vol. 23",
+    "credits": [
+      "Hajime Isayama (Author)"
+    ],
+    "series": "Attack on Titan",
+    "volume": 23,
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Post-Apocalyptic"
+    ],
+    "description": [
+      "THE DREAM OF FREEDOM DIES",
+      "The truth revealed through the memories in Grisha's journals shakes all of Eren's deepest beliefs. There is no rugged but free land beyond the Walls--there is a whole other world, equally full of oppression and war. Suddenly, the ambitions that have animated the Survey Corps for generations seem small and naïve. What is there left to fight for?"
+    ],
+    "price": 10.99,
+    "coverImage": "/covers/AOT-V23.jpg"
+  },
+  {
+    "id": "AOT-V24",
+    "title": "Attack on Titan, Vol. 24",
+    "credits": [
+      "Hajime Isayama (Author)"
+    ],
+    "series": "Attack on Titan",
+    "volume": 24,
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Post-Apocalyptic"
+    ],
+    "description": [
+      "IT CATCHES UP TO YOU",
+      "The world outside the Walls is vaster than Eren and his comrades could have ever imagined. Just beyond the shores of Paradis lies the country of Marley--home to Eren's mortal enemy Reiner. He may have returned home, hoping to consign \"the Armor\" to his past, but some things can't be so easily forgotten--and Reiner is about to be confronted by a certain someone he turned his back on..."
+    ],
+    "price": 10.99,
+    "coverImage": "/covers/AOT-V24.jpg"
+  },
+  {
+    "id": "AOT-V25",
+    "title": "Attack on Titan, Vol. 25",
+    "credits": [
+      "Hajime Isayama (Author)"
+    ],
+    "series": "Attack on Titan",
+    "volume": 25,
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Post-Apocalyptic"
+    ],
+    "description": [
+      "GIRDING FOR BATTLE",
+      "Eren and everyone he has ever known have lived on the island of Paradis. For many years, the Marleyans have been threatening Paradis in an attempt to monopolize the power of the Titans and keep the world trembling before their military might. In an effort to prove their worth and cement their truth, the Marleyans prepare for the ultimate declaration of war on Paradis. But when the time for deliverance comes, neither side is equipped for the shocking drama that unfolds."
+    ],
+    "price": 10.99,
+    "coverImage": "/covers/AOT-V25.jpg"
+  },
+  {
+    "id": "AOT-V26",
+    "title": "Attack on Titan, Vol. 26",
+    "credits": [
+      "Hajime Isayama (Author)"
+    ],
+    "series": "Attack on Titan",
+    "volume": 26,
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Post-Apocalyptic"
+    ],
+    "description": [
+      "CLASH OF THE ELDIANS",
+      "The deadly pageant directed by and starring Willy Tybur clearly illustrates the threat posed by the island of Paradis, as the dangerous rebel Eren Yeager mows down civilians and deals a massive blow to the Marleyan army. Meanwhile, the Eldian soldiers including Mikasa, Connie, and Sasha sow chaos in the city and disrupt military communications. But the battle between Eren and the War Hammer Titan isn’t over, and it’s about to draw in the full might of this land’s warriors…"
+    ],
+    "price": 10.99,
+    "coverImage": "/covers/AOT-V26.jpg"
+  },
+  {
+    "id": "AOT-V27",
+    "title": "Attack on Titan, Vol. 27",
+    "credits": [
+      "Hajime Isayama (Author)"
+    ],
+    "series": "Attack on Titan",
+    "volume": 27,
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Post-Apocalyptic"
+    ],
+    "description": [
+      "MINUTES TO MIDNIGHT",
+      "Eren has infiltrated Marley territory and dealt the empire a devastating blow. But the real goal of the mission was always to get Zeke back to Paradis Island in secrecy. Now that this Titan heir of royal blood is inside the Walls, the island’s military government has its “earth-rumbling” weapon of mass destruction. But has this supposed deterrent actually started a countdown to total world war?"
+    ],
+    "price": 10.99,
+    "coverImage": "/covers/AOT-V27.jpg"
+  },
+  {
+    "id": "AOT-V28",
+    "title": "Attack on Titan, Vol. 28",
+    "credits": [
+      "Hajime Isayama (Author)"
+    ],
+    "series": "Attack on Titan",
+    "volume": 28,
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Post-Apocalyptic"
+    ],
+    "description": [
+      "RUTHLESS SAVIOR",
+      "After years as a lonely double agent, Zeke finally returns to the good graces of his home island of Paradis. Still, the Survey Corps refuses to let him meet Eren–the other ingredient in the earth-shaking weapon– for fear the explosive duo will be impossible to control. Meanwhile, the public responds badly to the military’s open distrust of their hero Eren, and the detention of the Marleyan volunteers spurs an uprising. Amid the turmoil, Eren takes matters into his own hands…"
+    ],
+    "price": 10.99,
+    "coverImage": "/covers/AOT-V28.jpg"
+  },
+  {
+    "id": "AOT-V29",
+    "title": "Attack on Titan, Vol. 29",
+    "credits": [
+      "Hajime Isayama (Author)"
+    ],
+    "series": "Attack on Titan",
+    "volume": 29,
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Post-Apocalyptic"
+    ],
+    "description": [
+      "WITHIN THE HOLLOW CROWN",
+      "As a Marleyan invasion dangles like a guillotine blade over the island of Paradis, allies have become enemies, and former friends are at each other’s throats. The Yeagerists are in all-out revolt, fighting to dismantle military rule before the potential for world war explodes into certain doom. Meanwhile, deep in the forest, the sides’ most ruthless, fanatical killers are locked in single combat, but triumph is elusive where Titans are involved…"
+    ],
+    "price": 10.99,
+    "coverImage": "/covers/AOT-V29.jpg"
+  },
+  {
+    "id": "AOT-V30",
+    "title": "Attack on Titan, Vol. 30",
+    "credits": [
+      "Hajime Isayama (Author)"
+    ],
+    "series": "Attack on Titan",
+    "volume": 30,
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Post-Apocalyptic"
+    ],
+    "description": [
+      "To activate the true power of the Founding Titan that courses through his veins, Eren must make contact with Zeke, a Titan of royal blood. Though Zeke has escaped Levi and the Survey Corps, he's made little headway before the Marleyan military and its Titan warriors attack. Eren pummels his way through the Marleyan trap and past his former friends, but as the battle rages, he stumbles into a situation far beyond what his brother could have planned."
+    ],
+    "price": 10.99,
+    "coverImage": "/covers/AOT-V30.jpg"
+  },
+  {
+    "id": "AOT-V31",
+    "title": "Attack on Titan, Vol. 31",
+    "credits": [
+      "Hajime Isayama (Author)"
+    ],
+    "series": "Attack on Titan",
+    "volume": 31,
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Post-Apocalyptic"
+    ],
+    "description": [
+      "After breaking through a stronghold of old friends and enemies, Zeke hands down his plan for the Eldians to Eren. But what Eren was plotting with his rumbling powers leaves his brother in the dust, betrayed and alone once more. Now, with some help from Ymir, a parade of massive Titans are roused from their centuries-long slumber, breaking free of the Walls to answer their founder's call. Where the march leads, only Eren knows..."
+    ],
+    "price": 10.99,
+    "coverImage": "/covers/AOT-V31.jpg"
+  },
+  {
+    "id": "AOT-V32",
+    "title": "Attack on Titan, Vol. 32",
+    "credits": [
+      "Hajime Isayama (Author)"
+    ],
+    "series": "Attack on Titan",
+    "volume": 32,
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Post-Apocalyptic"
+    ],
+    "description": [
+      "Determined to protect his beloved home of Paradis, Eren uses the Founding Titan's power in an attempt to wipe out the rest of humanity. As the droves of Titans press on, Eren becomes long unrecognizable as a friend, a brother, a savior... and soon indiscernible from a devil. Now, Mikasa, Armin, and the surviving members of the Survey Corps must band together with their sworn enemies -- Marleyan soldiers and 104th defectors -- to save the world."
+    ],
+    "price": 10.99,
+    "coverImage": "/covers/AOT-V32.jpg"
+  },
+  {
+    "id": "AOT-V33",
+    "title": "Attack on Titan, Vol. 33",
+    "credits": [
+      "Hajime Isayama (Author)"
+    ],
+    "series": "Attack on Titan",
+    "volume": 33,
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Post-Apocalyptic"
+    ],
+    "description": [
+      "Once hailed as humanity's greatest hope, Eren has since become unrecognizable. With the Attack Titan now morphed into a grotesque, colossal skeleton of its former self, Eren continues to control the wave of Titans laying waste to the world, extinguishing countless homes, towns, and lives in their wake. In order to salvage what's left of humanity, Mikasa, Armin, and the Survey Corps decide to confront Eren head-on. But to stop the Rumbling, they'll have to dedicate much more than their hearts..."
+    ],
+    "price": 10.99,
+    "coverImage": "/covers/AOT-V33.jpg"
+  },
+  {
+    "id": "AOT-V34",
+    "title": "Attack on Titan, Vol. 34",
+    "credits": [
+      "Hajime Isayama (Author)"
+    ],
+    "series": "Attack on Titan",
+    "volume": 34,
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Post-Apocalyptic"
+    ],
+    "description": [
+      "Eren's titanic Rumbling claims thousands of lives beyond the walls of Paradis, and the boy who once lived in fear of the Titans becomes the world's most feared man. Determined to stop the destruction wrought by their childhood friend, Armin, Mikasa, and their surviving comrades reach the Attack Titan and decide to face him head on in an ultimate showdown. Will humanity finally be set free from the cycle of fear, oppression, and destruction, or will the Titans outlive their victims?"
+    ],
+    "price": 10.99,
+    "coverImage": "/covers/AOT-V34.jpg"
   },
   {
     "id": "BEASTARS-V1",
     "title": "BEASTARS, Vol. 1",
-    "credits": ["Paru Itagaki (Author)"],
+    "credits": [
+      "Paru Itagaki (Author)"
+    ],
     "series": "BEASTARS",
     "volume": 1,
-    "genre": ["Coming of Age", "Drama"],
+    "genre": [
+      "Coming of Age",
+      "Drama"
+    ],
     "description": [
       "At this high school, instead of jocks and nerds, the students are divided into predators and prey.",
       "At a high school where the students are literally divided into predators and prey, friendships maintain the fragile peace. Who among them will become a Beastar—a hero destined to lead in a society naturally rife with mistrust?",
       "One night at Cherryton Academy, an herbivore student is brutally murdered. Among the members of the Drama Club, the herbivores’ suspicions naturally turn to their carnivore classmates… The prime suspect? Gray wolf Legoshi. But he wouldn’t hurt a fly. Or would he? Will dwarf rabbit Haru bring out the beast in him? Or are his feelings for her…something else?"
     ],
     "price": 12.99,
-    "coverImage": "/covers/beastars-v1.jpg"
+    "coverImage": "/covers/BEASTARS-V1.jpg"
   },
   {
     "id": "BLAME-V1",
     "title": "BLAME!, Vol. 1",
-    "credits": ["Tsutomu Nihei (Author, Artist) "],
+    "credits": [
+      "Tsutomu Nihei (Author, Artist) "
+    ],
     "series": "BLAME!",
     "volume": 1,
-    "genre": ["Action", "Cyberpunk", "Post-Apocalyptic"],
+    "genre": [
+      "Action",
+      "Cyberpunk",
+      "Post-Apocalyptic"
+    ],
     "description": [
       "In a future version of Earth, there is a city grown so chaotically massive that its inhabitants no longer recall what \"land\" is. Within this megastructure the silent, stoic Kyrii is on a mission to find the Net Terminal Gene—a genetic mutation that once allowed humans to access the cybernetic NetSphere. Armed with a powerful Graviton Beam Emitter, Kyrii fends off waves of attacks from fellow humans, cyborgs and silicon-based lifeforms. Along the way, he encounters a highly-skilled scientist whose body has deteriorated from a lengthy imprisonment who promises to help Kyrii find the Net Terminal Gene, once she settles a score for herself..."
     ],
     "price": 19.99,
-    "coverImage": "/covers/blame-v1.jpg"
+    "coverImage": "/covers/BLAME-V1.jpg"
   },
   {
     "id": "BERSERK-V1",
     "title": "Berserk, Vol. 1",
-    "credits": ["Kentaro Miura (Author, Illustrator)"],
+    "credits": [
+      "Kentaro Miura (Author, Illustrator)"
+    ],
     "series": "Berserk",
     "volume": 1,
-    "genre": ["Action", "Horror", "Fantasy"],
+    "genre": [
+      "Action",
+      "Horror",
+      "Fantasy"
+    ],
     "description": [
       "Created by Kentaro Miura, Berserk is manga mayhem to the extreme - violent, horrifying, and mercilessly funny - and the wellspring for the internationally popular anime series. Not for the squeamish or the easily offended, Berserk asks for no quarter - and offers none! His name is Guts, the Black Swordsman, a feared warrior spoken of only in whispers. Bearer of a gigantic sword, an iron hand, and the scars of countless battles and tortures, his flesh is also indelibly marked with The Brand, an unholy symbol that draws the forces of darkness to him and dooms him as their sacrifice. But Guts won't take his fate lying down; he'll cut a crimson swath of carnage through the ranks of the damned - and anyone else foolish enough to oppose him! Accompanied by Puck the Elf, more an annoyance than a companion, Guts relentlessly follows a dark, bloodstained path that leads only to death...or vengeance."
     ],
     "price": 14.99,
-    "coverImage": "/covers/berserk-v1.jpg"
+    "coverImage": "/covers/BERSERK-V1.jpg"
   },
   {
     "id": "BLEACH-V1",
     "title": "Bleach, Vol. 1",
-    "credits": ["Tite Kubo (Author)"],
+    "credits": [
+      "Tite Kubo (Author)"
+    ],
     "series": "Bleach",
     "volume": 1,
-    "genre": ["Adventure", "Supernatural", "Martial Arts"],
+    "genre": [
+      "Adventure",
+      "Supernatural",
+      "Martial Arts"
+    ],
     "description": [
       "Part-time student, full-time Soul Reaper, Ichigo is one of the chosen few guardians of the afterlife.",
       "Ichigo Kurosaki never asked for the ability to see ghosts—he was born with the gift. When his family is attacked by a Hollow—a malevolent lost soul—Ichigo becomes a Soul Reaper, dedicating his life to protecting the innocent and helping the tortured spirits themselves find peace. Find out why Tite Kubo’s Bleach has become an international manga smash-hit!",
       "Ichigo Kurosaki has always been able to see ghosts, but this ability doesn't change his life nearly as much as his close encounter with Rukia Kuchiki, a Soul Reaper and member of the mysterious Soul Society. While fighting a Hollow, an evil spirit that preys on humans who display psychic energy, Rukia attempts to lend Ichigo some of her powers so that he can save his family; but much to her surprise, Ichigo absorbs every last drop of her energy. Now a full-fledged Soul Reaper himself, Ichigo quickly learns that the world he inhabits is one full of dangerous spirits and, along with Rukia--who is slowly regaining her powers--it's Ichigo's job to protect the innocent from Hollows and help the spirits themselves find peace."
     ],
     "price": 11.99,
-    "coverImage": "/covers/bleach-v1.jpg"
+    "coverImage": "/covers/BLEACH-V1.jpg"
   },
   {
     "id": "BLUEPERIOD-V1",
     "title": "Blue Period, Vol. 1",
-    "credits": ["Tsubasa Yamaguchi (Author)"],
+    "credits": [
+      "Tsubasa Yamaguchi (Author)"
+    ],
     "series": "Blue Period",
     "volume": 1,
-    "genre": ["Coming of Age", "Drama"],
+    "genre": [
+      "Coming of Age",
+      "Drama"
+    ],
     "description": [
       "A manga about the struggles and rewards of a life dedicated to art. Popular guy Yatora realizes he's just going through the motions to make other people happy and finds himself in a new passion: painting. But untethering yourself from all your past expectations is dangerous as well as thrilling...",
       "Yatora is the perfect high school student, with good grades and lots of friends. It's an effortless performance, and, ultimately... a dull one. But he wanders into the art room one day, and a lone painting captures his eye, awakening him to a kind of beauty he never knew. Compelled and consumed, he dives in headfirst--and he's about to learn how savage and unforgiving art can be..."
     ],
     "price": 12.99,
-    "coverImage": "/covers/blueperiod-v1.jpg"
+    "coverImage": "/covers/BLUEPERIOD-V1.jpg"
   },
   {
     "id": "CSM-V1",
     "title": "Chainsaw Man, Vol. 1",
-    "credits": ["Tatsuki Fujimoto (Author)"],
+    "credits": [
+      "Tatsuki Fujimoto (Author)"
+    ],
     "series": "Chainsaw Man",
     "volume": 1,
-    "genre": ["Action", "Horror"],
+    "genre": [
+      "Action",
+      "Horror"
+    ],
     "description": [
       "Broke young man + chainsaw demon = Chainsaw Man!",
       "Denji was a small-time devil hunter just trying to survive in a harsh world. After being killed on a job, he is revived by his pet devil Pochita and becomes something new and dangerous—Chainsaw Man!",
       "Denji’s a poor young man who’ll do anything for money, even hunting down devils with his pet devil Pochita. He’s a simple man with simple dreams, drowning under a mountain of debt. But his sad life gets turned upside down one day when he’s betrayed by someone he trusts. Now with the power of a devil inside him, Denji’s become a whole new man—Chainsaw Man!"
     ],
     "price": 11.99,
-    "coverImage": "/covers/chainsawman-v1.jpg"
+    "coverImage": "/covers/CSM-V1.jpg"
   },
   {
     "id": "DANDADAN-V1",
     "title": "Dandadan, Vol. 1",
-    "credits": ["Yukinobu Tatsu (Author)"],
+    "credits": [
+      "Yukinobu Tatsu (Author)"
+    ],
     "series": "Dandadan",
     "volume": 1,
-    "genre": ["Action", "Supernatural"],
+    "genre": [
+      "Action",
+      "Supernatural"
+    ],
     "description": [
       "A nerd must fight powerful spirits and aliens all vying for the secret power of his “family jewel,” so who better to fight alongside him than his high school crush and a spirit granny?!",
       "Momo Ayase and Okarun are on opposite sides of the paranormal spectrum regarding what they’ll believe in and what they won’t. Their quest to prove each other wrong leads them down a path of secret crushes and paranormal battles they’ll have to participate in to believe!",
       "Momo Ayase strikes up an unusual friendship with her school’s UFO fanatic, whom she nicknames “Okarun” because he has a name that is not to be said aloud. While Momo believes in spirits, she thinks aliens are nothing but nonsense. Her new friend, meanwhile, thinks the exact opposite. To settle matters, the two set out to prove each other wrong—Momo to a UFO hotspot and Okarun to a haunted tunnel! What unfolds next is a beautiful story of young love…and oddly horny aliens and spirits?"
     ],
     "price": 11.99,
-    "coverImage": "/covers/dandadan-v1.jpg"
+    "coverImage": "/covers/DANDADAN-V1.jpg"
   },
   {
     "id": "DEATHNOTE-V1",
     "title": "Death Note, Vol. 1",
-    "credits": ["Tsugumi Ohba (Author)", "Takeshi Obata (Illustrator)"],
+    "credits": [
+      "Tsugumi Ohba (Author)",
+      "Takeshi Obata (Illustrator)"
+    ],
     "series": "Death Note",
     "volume": 1,
-    "genre": ["Mystery", "Thriller"],
+    "genre": [
+      "Mystery",
+      "Thriller"
+    ],
     "description": [
       "When Light Yagami finds a notebook giving him power over death, will he use it for good—or evil?",
       "Light Yagami is an ace student with great prospects--and he's bored out of his mind. But all that changes when he finds the Death Note, a notebook dropped by a rogue Shinigami death god. Any human whose name is written in the notebook dies, and now Light has vowed to use the power of the Death Note to rid the world of evil. But when criminals begin dropping dead, the authorities send the legendary detective L to track down the killer. With L hot on his heels, will Light lose sight of his noble goal...or his life?",
       "Light tests the boundaries of the Death Note's powers as L and the police begin to close in. Luckily Light's father is the head of the Japanese National Police Agency and leaves vital information about the case lying around the house. With access to his father's files, Light can keep one step ahead of the authorities. But who is the strange man following him, and how can Light guard against enemies whose names he doesn't know?"
     ],
     "price": 11.99,
-    "coverImage": "/covers/deathnote-v1.jpg"
+    "coverImage": "/covers/DEATHNOTE-V1.jpg"
   },
   {
     "id": "DELICIOUS-V1",
@@ -166,293 +1199,584 @@
     ],
     "series": "Delicious in Dungeon",
     "volume": 1,
-    "genre": ["Adventure", "Fantasy", "Comedy", "Cooking"],
+    "genre": [
+      "Adventure",
+      "Fantasy",
+      "Comedy",
+      "Cooking"
+    ],
     "description": [
       "When young adventurer Laios and his company are attacked and soundly thrashed by a dragon deep in a dungeon, the party loses all its money and provisions...and a member! They're eager to go back and save her, but there is just one problem: If they set out with no food or coin to speak of, they're sure to starve on the way! But Laios comes up with a brilliant idea: \"Let's eat the monsters!\" Slimes, basilisks, and even dragons...none are safe from the appetites of these dungeon-crawling gourmands!"
     ],
     "price": 14.99,
-    "coverImage": "/covers/deliciousindungeon-v1.jpg"
+    "coverImage": "/covers/DELICIOUS-V1.jpg"
   },
   {
     "id": "DELICIOUS-V10",
     "title": "Delicious in Dungeon, Vol. 10",
-    "credits": ["Ryoko Kui (Author, Artist)", "Taylor Engel (Translator)"],
+    "credits": [
+      "Ryoko Kui (Author, Artist)",
+      "Taylor Engel (Translator)"
+    ],
     "series": "Delicious in Dungeon",
     "volume": 10,
-    "genre": ["Adventure", "Fantasy", "Comedy", "Cooking"],
+    "genre": [
+      "Adventure",
+      "Fantasy",
+      "Comedy",
+      "Cooking"
+    ],
     "description": [
       "Led to Sissel’s threshold by the winged lion imprisoned within it, Laios and friends steel themselves for…some heavy-duty cleaning?! Sissel’s seemingly innocuous cottage is piled with clutter, hindering both their search for the lion and their meal prep! Once satiated, the party hastily lays plans for Falin’s rescue. However, here in the depths of the dungeon, even the cutest residents have a vicious streak a mile wide!"
     ],
     "price": 14.99,
-    "coverImage": "/covers/deliciousindungeon-v10.jpg"
+    "coverImage": "/covers/DELICIOUS-V10.jpg"
   },
   {
     "id": "DELICIOUS-V11",
     "title": "Delicious in Dungeon, Vol. 11",
-    "credits": ["Ryoko Kui (Author, Artist)", "Taylor Engel (Translator)"],
+    "credits": [
+      "Ryoko Kui (Author, Artist)",
+      "Taylor Engel (Translator)"
+    ],
     "series": "Delicious in Dungeon",
     "volume": 11,
-    "genre": ["Adventure", "Fantasy", "Comedy", "Cooking"],
+    "genre": [
+      "Adventure",
+      "Fantasy",
+      "Comedy",
+      "Cooking"
+    ],
     "description": [
       "Locked in battle with the Lunatic Magician, Laios is the last man standing against an array of the dungeon’s deadliest dragons. Using his extensive monster knowledge to his advantage, Laios manages to defy the odds of almost certain death—at least until Sissel devises an even more terrible plan! Will Laios’s love of dungeon dining prove to be his downfall?"
     ],
     "price": 14.99,
-    "coverImage": "/covers/deliciousindungeon-v11.jpg"
+    "coverImage": "/covers/DELICIOUS-V11.jpg"
   },
   {
     "id": "DELICIOUS-V12",
     "title": "Delicious in Dungeon, Vol. 12",
-    "credits": ["Ryoko Kui (Author, Artist)", "Taylor Engel (Translator)"],
+    "credits": [
+      "Ryoko Kui (Author, Artist)",
+      "Taylor Engel (Translator)"
+    ],
     "series": "Delicious in Dungeon",
     "volume": 12,
-    "genre": ["Adventure", "Fantasy", "Comedy", "Cooking"],
+    "genre": [
+      "Adventure",
+      "Fantasy",
+      "Comedy",
+      "Cooking"
+    ],
     "description": [
       "In her first hours as lord of the dungeon, Marcille has completely transformed the dungeon’s layout, sending hordes of monsters from the deepest floors—as well as several of her own making—hurtling dangerously close to the surface. Though the demon’s influence is strong, Laios has a surefire way to reach Marcille: through her stomach! Drawn from fondly remembered flavors, will Senshi’s ultimate culinary creation be enough to break through to their friend?!"
     ],
     "price": 14.99,
-    "coverImage": "/covers/deliciousindungeon-v12.jpg"
+    "coverImage": "/covers/DELICIOUS-V12.jpg"
   },
   {
     "id": "DELICIOUS-V13",
     "title": "Delicious in Dungeon, Vol. 13",
-    "credits": ["Ryoko Kui (Author, Artist)", "Taylor Engel (Translator)"],
+    "credits": [
+      "Ryoko Kui (Author, Artist)",
+      "Taylor Engel (Translator)"
+    ],
     "series": "Delicious in Dungeon",
     "volume": 13,
-    "genre": ["Adventure", "Fantasy", "Comedy", "Cooking"],
+    "genre": [
+      "Adventure",
+      "Fantasy",
+      "Comedy",
+      "Cooking"
+    ],
     "description": [
       "Though the party succeeded in breaking Marcille free from the dungeon’s influence, the winged lion remains at large. Should the demon escape to the surface, its all-powerful manifestation will surely grow to feast upon the world—and the desires of all who live in it! Laios has one last all-or-nothing plan up his sleeve to sate the beast and save his sister, but will his own deepest desires unleash an even greater monster first?"
     ],
     "price": 14.99,
-    "coverImage": "/covers/deliciousindungeon-v13.jpg"
+    "coverImage": "/covers/DELICIOUS-V13.jpg"
   },
   {
     "id": "DELICIOUS-V14",
     "title": "Delicious in Dungeon, Vol. 14",
-    "credits": ["Ryoko Kui (Author, Artist)", "Taylor Engel (Translator)"],
+    "credits": [
+      "Ryoko Kui (Author, Artist)",
+      "Taylor Engel (Translator)"
+    ],
     "series": "Delicious in Dungeon",
     "volume": 14,
-    "genre": ["Adventure", "Fantasy", "Comedy", "Cooking"],
+    "genre": [
+      "Adventure",
+      "Fantasy",
+      "Comedy",
+      "Cooking"
+    ],
     "description": [
       "Laios’s plan to overcome the demon seems to have worked—but at great physical cost to his monstrous form. As the dungeon crumbles around them, his friends are forced to leave him behind in a race to escape. Even with the demon out of the picture, the people of the Golden Country are still trapped in the dungeon depths, and Falin remains a chimera. Plus, all this running around is really working up an appetite…! Join our heroes for the ultimate feast in the final volume of Delicious in Dungeon!"
     ],
     "price": 14.99,
-    "coverImage": "/covers/deliciousindungeon-v14.jpg"
+    "coverImage": "/covers/DELICIOUS-V14.jpg"
   },
   {
     "id": "DELICIOUS-V2",
     "title": "Delicious in Dungeon, Vol. 2",
-    "credits": ["Ryoko Kui (Author, Artist)", "Taylor Engel (Translator)"],
+    "credits": [
+      "Ryoko Kui (Author, Artist)",
+      "Taylor Engel (Translator)"
+    ],
     "series": "Delicious in Dungeon",
     "volume": 2,
-    "genre": ["Adventure", "Fantasy", "Comedy", "Cooking"],
+    "genre": [
+      "Adventure",
+      "Fantasy",
+      "Comedy",
+      "Cooking"
+    ],
     "description": [
       "With the possibility of starvation as a constant companion, Laios's party continues advancing deeper into the dungeon. The adventurers have made it to the third floor, but only rotting zombies, ghastly spirits, living paintings, and golems await them--all of which are absolutely inedible. The party has come this far by adapting and learning how to live off the dubious bounties of the dungeon. But how will they manage when even the meanest monster won't make a decent meal?"
     ],
     "price": 14.99,
-    "coverImage": "/covers/deliciousindungeon-v2.jpg"
+    "coverImage": "/covers/DELICIOUS-V2.jpg"
   },
   {
     "id": "DELICIOUS-V3",
     "title": "Delicious in Dungeon, Vol. 3",
-    "credits": ["Ryoko Kui (Author, Artist)", "Taylor Engel (Translator)"],
+    "credits": [
+      "Ryoko Kui (Author, Artist)",
+      "Taylor Engel (Translator)"
+    ],
     "series": "Delicious in Dungeon",
     "volume": 3,
-    "genre": ["Adventure", "Fantasy", "Comedy", "Cooking"],
+    "genre": [
+      "Adventure",
+      "Fantasy",
+      "Comedy",
+      "Cooking"
+    ],
     "description": [
       "New dangers and new recipes await the party in the third installment of the utterly unique and endearing Delicious in Dungeon!"
     ],
     "price": 14.99,
-    "coverImage": "/covers/deliciousindungeon-v3.jpg"
+    "coverImage": "/covers/DELICIOUS-V3.jpg"
   },
   {
     "id": "DELICIOUS-V4",
     "title": "Delicious in Dungeon, Vol. 4",
-    "credits": ["Ryoko Kui (Author, Artist)", "Taylor Engel (Translator)"],
+    "credits": [
+      "Ryoko Kui (Author, Artist)",
+      "Taylor Engel (Translator)"
+    ],
     "series": "Delicious in Dungeon",
     "volume": 4,
-    "genre": ["Adventure", "Fantasy", "Comedy", "Cooking"],
+    "genre": [
+      "Adventure",
+      "Fantasy",
+      "Comedy",
+      "Cooking"
+    ],
     "description": [
       "The time has come! Showdown with the Red Dragon!!! After finally reaching the fifth floor, it's time for the adventurers to face their greatest challenge yet. They're putting their lives on to the line in a fight with a monster with crimson hide that turns away even the toughest steel and a fiery breath that turns even bones to ash. Can they save Laios's sister? ...And maybe just as importantly, can they eat dragon meat?!?"
     ],
     "price": 14.99,
-    "coverImage": "/covers/deliciousindungeon-v4.jpg"
+    "coverImage": "/covers/DELICIOUS-V4.jpg"
   },
   {
     "id": "DELICIOUS-V5",
     "title": "Delicious in Dungeon, Vol. 5",
-    "credits": ["Ryoko Kui (Author, Artist)", "Taylor Engel (Translator)"],
+    "credits": [
+      "Ryoko Kui (Author, Artist)",
+      "Taylor Engel (Translator)"
+    ],
     "series": "Delicious in Dungeon",
     "volume": 5,
-    "genre": ["Adventure", "Fantasy", "Comedy", "Cooking"],
+    "genre": [
+      "Adventure",
+      "Fantasy",
+      "Comedy",
+      "Cooking"
+    ],
     "description": [
       "The party has defeated the Red Dragon and rescued Farin! But their quest won't be finished until they make it back out of the dungeon unscathed. The adventure's not complete until everyone returns alive...and full!"
     ],
     "price": 14.99,
-    "coverImage": "/covers/deliciousindungeon-v5.jpg"
+    "coverImage": "/covers/DELICIOUS-V5.jpg"
   },
   {
     "id": "DELICIOUS-V6",
     "title": "Delicious in Dungeon, Vol. 6",
-    "credits": ["Ryoko Kui (Author, Artist)", "Taylor Engel (Translator)"],
+    "credits": [
+      "Ryoko Kui (Author, Artist)",
+      "Taylor Engel (Translator)"
+    ],
     "series": "Delicious in Dungeon",
     "volume": 6,
-    "genre": ["Adventure", "Fantasy", "Comedy", "Cooking"],
+    "genre": [
+      "Adventure",
+      "Fantasy",
+      "Comedy",
+      "Cooking"
+    ],
     "description": [
       "Old companions reunited in the dungeon...Will ex-comrads be able to work together in the rescue of Falin from the Lunatic Magician? Will a shared meal manage to right past wrongs?"
     ],
     "price": 14.99,
-    "coverImage": "/covers/deliciousindungeon-v6.jpg"
+    "coverImage": "/covers/DELICIOUS-V6.jpg"
   },
   {
     "id": "DELICIOUS-V7",
     "title": "Delicious in Dungeon, Vol. 7",
-    "credits": ["Ryoko Kui (Author, Artist)", "Taylor Engel (Translator)"],
+    "credits": [
+      "Ryoko Kui (Author, Artist)",
+      "Taylor Engel (Translator)"
+    ],
     "series": "Delicious in Dungeon",
     "volume": 7,
-    "genre": ["Adventure", "Fantasy", "Comedy", "Cooking"],
+    "genre": [
+      "Adventure",
+      "Fantasy",
+      "Comedy",
+      "Cooking"
+    ],
     "description": [
       "Massive changes in the dungeon have drawn out new monsters for Laios and his party to take on—and taste! But the shift has attracted the attention of the western elves, whose intervention could spell further trouble not only for Laios, but also for everyone on the island! Facing the threat of the Lunatic Magician from within and the elves from without, the adventurers must rally as a team like never before, especially when forced to confront a beast straight out of Senshi’s nightmares!"
     ],
     "price": 14.99,
-    "coverImage": "/covers/deliciousindungeon-v7.jpg"
+    "coverImage": "/covers/DELICIOUS-V7.jpg"
   },
   {
     "id": "DELICIOUS-V8",
     "title": "Delicious in Dungeon, Vol. 8",
-    "credits": ["Ryoko Kui (Author, Artist)", "Taylor Engel (Translator)"],
+    "credits": [
+      "Ryoko Kui (Author, Artist)",
+      "Taylor Engel (Translator)"
+    ],
     "series": "Delicious in Dungeon",
     "volume": 8,
-    "genre": ["Adventure", "Fantasy", "Comedy", "Cooking"],
+    "genre": [
+      "Adventure",
+      "Fantasy",
+      "Comedy",
+      "Cooking"
+    ],
     "description": [
       "In the dungeon, one false step can be the difference between life and death…or elf and dwarf?! The changeling mushrooms have done their work, leaving Laios and company radically altered, transformed from one race to another! The journey into the heart of the dungeon was never going to be easy, but with new senses, strengths, and statures to contend with, the mission seems more daunting than ever. Thankfully their sense of taste doesn’t seem to have been affected!!"
     ],
     "price": 14.99,
-    "coverImage": "/covers/deliciousindungeon-v8.jpg"
+    "coverImage": "/covers/DELICIOUS-V8.jpg"
   },
   {
     "id": "DELICIOUS-V9",
     "title": "Delicious in Dungeon, Vol. 9",
-    "credits": ["Ryoko Kui (Author, Artist)", "Taylor Engel (Translator)"],
+    "credits": [
+      "Ryoko Kui (Author, Artist)",
+      "Taylor Engel (Translator)"
+    ],
     "series": "Delicious in Dungeon",
     "volume": 9,
-    "genre": ["Adventure", "Fantasy", "Comedy", "Cooking"],
+    "genre": [
+      "Adventure",
+      "Fantasy",
+      "Comedy",
+      "Cooking"
+    ],
     "description": [
       "Laios nears the bottom of the dungeon and his inevitable confrontation with Sissel, the lunatic lord of its labyrinthine halls. In a succubus-induced slumber, Laios comes face-to-face with the winged lion, the source of Sissel’s power. Laios knows only that the lion is held captive by Sissel in the dungeon’s depths, but it could be the Canaries know a great deal more…With their centuries of experience, the elves’ knowledge could shed some light on the truth of the dungeon and its master-or prove to be Laios’s undoing…!"
     ],
     "price": 14.99,
-    "coverImage": "/covers/deliciousindungeon-v9.jpg"
+    "coverImage": "/covers/DELICIOUS-V9.jpg"
   },
   {
     "id": "DEMONSLAYER-V1",
     "title": "Demon Slayer: Kimetsu no Yaiba, Vol. 1",
-    "credits": ["Koyoharu Gotouge (Author)"],
+    "credits": [
+      "Koyoharu Gotouge (Author)"
+    ],
     "series": "Demon Slayer: Kimetsu no Yaiba",
     "volume": 1,
-    "genre": ["Adventure", "Martial Arts"],
+    "genre": [
+      "Adventure",
+      "Martial Arts"
+    ],
     "description": [
       "Tanjiro sets out on the path of the Demon Slayer to save his sister and avenge his family!",
       "In Taisho-era Japan, kindhearted Tanjiro Kamado makes a living selling charcoal. But his peaceful life is shattered when a demon slaughters his entire family. His little sister Nezuko is the only survivor, but she has been transformed into a demon herself! Tanjiro sets out on a dangerous journey to find a way to return his sister to normal and destroy the demon who ruined his life.",
       "Learning to destroy demons won’t be easy, and Tanjiro barely knows where to start. The surprise appearance of another boy named Giyu, who seems to know what’s going on, might provide some answers—but only if Tanjiro can stop Giyu from killing his sister first!"
     ],
     "price": 11.99,
-    "coverImage": "/covers/demonslayer-v1.jpg"
+    "coverImage": "/covers/DEMONSLAYER-V1.jpg"
   },
   {
     "id": "DOROHEDORO-V1",
     "title": "Dorohedoro, Vol. 1",
-    "credits": ["Q Hayashida (Author)"],
+    "credits": [
+      "Q Hayashida (Author)"
+    ],
     "series": "Dorohedoro",
     "volume": 1,
-    "genre": ["Action"],
+    "genre": [
+      "Action"
+    ],
     "description": [
       "A twisted tale of sadistic Sorcerers and the monsters they create.",
       "In a city so dismal it's known only as \"the Hole,\" a clan of Sorcerers have been plucking people off the streets to use as guinea pigs for atrocious \"experiments\" in the black arts. In a dark alley, Nikaido found Caiman, a man with a reptile head and a bad case of amnesia. To undo the spell, they're hunting and killing the Sorcerers in the Hole, hoping that eventually they'll kill the right one. But when En, the head Sorcerer, gets word of a lizard-man slaughtering his people, he sends a crew of \"cleaners\" into the Hole, igniting a war between two worlds."
     ],
     "price": 16.99,
-    "coverImage": "/covers/dorohedoro-v1.jpg"
+    "coverImage": "/covers/DOROHEDORO-V1.jpg"
   },
   {
     "id": "DB-V1",
     "title": "Dragon Ball, Vol. 1",
-    "credits": ["Akira Toriyama (Author, Illustrator)"],
+    "credits": [
+      "Akira Toriyama (Author, Illustrator)"
+    ],
     "series": "Dragon Ball",
     "volume": 1,
-    "genre": ["Action", "Martial Arts"],
+    "genre": [
+      "Action",
+      "Martial Arts"
+    ],
     "description": [
       "Eath's greatest hero...is from outerspace!",
       "Dragon Ball introduces a young monkey-tailed boy named Goku (a wry update of the classic Chinese \"Monkey King\" legend), whose quiet life changes when he meets a girl named Bulma who is on a quest to collect seven \"Dragon Balls.\" If she gathers them all, an incredibly powerful dragon will appear and grant her one wish. But the precious orbs are scattered all over the world, and Bulma could use the help of a certain super-strong boy... (In Japan, Dragon Ball and Dragon Ball Z were originally a single 42-volume series. VIZ Media's Dragon Ball contains vols. 1-16 of the original Japanese Dragon Ball, from the beginning of the series to the climax of Goku's last fight with Piccolo.)",
       "Before there was Dragon Ball Z, there was Akira Toriyama's action epic Dragon Ball, starring the younger version of Son Goku and all the other Dragon Ball Z heroes! Meet a naive young monkey-tailed boy named Goku, whose quiet life changes when he meets Bulma, a girl who is on a quest to collect seven \"Dragon Balls.\" If she gathers them all, an incredibly powerful dragon will appear and grant her one wish. But the precious orbs are scattered all over the world, and Bulma needs Goku's help (and his super-strength)! With a magic staff for a weapon and a flying cloud for a ride, Goku sets out on the adventure of a lifetime..."
     ],
     "price": 11.99,
-    "coverImage": "/covers/dragonball-v1.jpg"
+    "coverImage": "/covers/DB-V1.jpg"
   },
   {
     "id": "FIREPUNCH-V1",
     "title": "Fire Punch, Vol. 1",
-    "credits": ["Tatsuki Fujimoto (Author)"],
+    "credits": [
+      "Tatsuki Fujimoto (Author)"
+    ],
     "series": "Fire Punch",
     "volume": 1,
-    "genre": ["Fantasy", "Thriller"],
+    "genre": [
+      "Fantasy",
+      "Thriller"
+    ],
     "description": [
       "In a frozen dystopia where inhabitants eat flesh to survive, can the destructive powers of fire bring salvation?",
       "In the not-too-distant past, the Ice Witch blankets the world in snow, starvation, and madness, leading the inhabitants to seek their salvation in fire. With that, an unusual destiny unfolds for two young orphans, Agni and Luna, blessed with the ability to regenerate. But will this ability prove to be more of a curse than a blessing?",
       "Orphaned siblings Agni and Luna, like the Ice Witch who cursed their world, are two of the “blessed,” humans who hold special abilities. However, not all who are blessed are friendly, and after another of their kind attacks Agni and decimates the orphans' village, Agni fights to survive, vowing revenge."
     ],
     "price": 14.99,
-    "coverImage": "/covers/firepunch-v1.jpg"
+    "coverImage": "/covers/FIREPUNCH-V1.jpg"
+  },
+  {
+    "id": "FIREPUNCH-V2",
+    "title": "Fire Punch, Vol. 2",
+    "credits": [
+      "Tatsuki Fujimoto (Author)"
+    ],
+    "series": "Fire Punch",
+    "volume": 2,
+    "genre": [
+      "Fantasy",
+      "Thriller"
+    ],
+    "description": [
+      "In a frozen dystopia where inhabitants eat flesh to survive, can the destructive powers of fire bring salvation?",
+      "In the not-too-distant past, the Ice Witch blankets the world in snow, starvation, and madness, leading the inhabitants to seek their salvation in fire. With that, an unusual destiny unfolds for two young orphans, Agni and Luna, blessed with the ability to regenerate. But will this ability prove to be more of a curse than a blessing?",
+      "Following the fight with his longtime enemy Doma, Agni is beheaded, and it’s decided that his head is to be taken to the sea. However, during the journey, a mysterious person named Togata appears, and their madness-tainted filming begins!"
+    ],
+    "price": 14.99,
+    "coverImage": "/covers/FIREPUNCH-V2.jpg"
+  },
+  {
+    "id": "FIREPUNCH-V3",
+    "title": "Fire Punch, Vol. 3",
+    "credits": [
+      "Tatsuki Fujimoto (Author)"
+    ],
+    "series": "Fire Punch",
+    "volume": 3,
+    "genre": [
+      "Fantasy",
+      "Thriller"
+    ],
+    "description": [
+      "In a frozen dystopia where inhabitants eat flesh to survive, can the destructive powers of fire bring salvation?",
+      "In the not-too-distant past, the Ice Witch blankets the world in snow, starvation, and madness, leading the inhabitants to seek their salvation in fire. With that, an unusual destiny unfolds for two young orphans, Agni and Luna, blessed with the ability to regenerate. But will this ability prove to be more of a curse than a blessing?",
+      "After receiving Togata's upgrade, Agni heads to Behemdorg to exact his vengeance on Doma, unaware that Togata has flipped the script entirely. There, instead of finding Doma, Agni is to be pitted against the worst, most violent Blessed that Behemdorg has to offer. But on the way, Agni's heart fills with a new resolve, ruining Togata's much-anticipated climax!"
+    ],
+    "price": 14.99,
+    "coverImage": "/covers/FIREPUNCH-V3.jpg"
+  },
+  {
+    "id": "FIREPUNCH-V4",
+    "title": "Fire Punch, Vol. 4",
+    "credits": [
+      "Tatsuki Fujimoto (Author)"
+    ],
+    "series": "Fire Punch",
+    "volume": 4,
+    "genre": [
+      "Fantasy",
+      "Thriller"
+    ],
+    "description": [
+      "In a frozen dystopia where inhabitants eat flesh to survive, can the destructive powers of fire bring salvation?",
+      "In the not-too-distant past, the Ice Witch blankets the world in snow, starvation, and madness, leading the inhabitants to seek their salvation in fire. With that, an unusual destiny unfolds for two young orphans, Agni and Luna, blessed with the ability to regenerate. But will this ability prove to be more of a curse than a blessing?",
+      "Boss, the leader of the Behemdorg escapees, finds he’s at a disadvantage when fighting the soldiers who continue pursuing them. But all that changes with the sudden appearance of a mysterious spear-wielding girl and a masked man, who are willing to lend their aid. Meanwhile, will Agni have to perform that certain act once again for those who revere him?!"
+    ],
+    "price": 14.99,
+    "coverImage": "/covers/FIREPUNCH-V4.jpg"
+  },
+  {
+    "id": "FIREPUNCH-V5",
+    "title": "Fire Punch, Vol. 5",
+    "credits": [
+      "Tatsuki Fujimoto (Author)"
+    ],
+    "series": "Fire Punch",
+    "volume": 5,
+    "genre": [
+      "Fantasy",
+      "Thriller"
+    ],
+    "description": [
+      "In a frozen dystopia where inhabitants eat flesh to survive, can the destructive powers of fire bring salvation?",
+      "In the not-too-distant past, the Ice Witch blankets the world in snow, starvation, and madness, leading the inhabitants to seek their salvation in fire. With that, an unusual destiny unfolds for two young orphans, Agni and Luna, blessed with the ability to regenerate. But will this ability prove to be more of a curse than a blessing?",
+      "After painful words are unleashed and Togata’s secret is finally exposed, the revelations leave Agni shaken. Knowing he must face his destiny, Agni seeks out the man at the root of all of his suffering!"
+    ],
+    "price": 14.99,
+    "coverImage": "/covers/FIREPUNCH-V5.jpg"
+  },
+  {
+    "id": "FIREPUNCH-V6",
+    "title": "Fire Punch, Vol. 6",
+    "credits": [
+      "Tatsuki Fujimoto (Author)"
+    ],
+    "series": "Fire Punch",
+    "volume": 6,
+    "genre": [
+      "Fantasy",
+      "Thriller"
+    ],
+    "description": [
+      "In a frozen dystopia where inhabitants eat flesh to survive, can the destructive powers of fire bring salvation?",
+      "In the not-too-distant past, the Ice Witch blankets the world in snow, starvation, and madness, leading the inhabitants to seek their salvation in fire. With that, an unusual destiny unfolds for two young orphans, Agni and Luna, blessed with the ability to regenerate. But will this ability prove to be more of a curse than a blessing?",
+      "In order to absorb all life, Judah has been turned into a massive tree by the Ice Witch. And just as Agni loses his will to live, Judah’s sorrowful pleas for death echo in his ear. What will await the world after its destruction and rebirth is complete?"
+    ],
+    "price": 14.99,
+    "coverImage": "/covers/FIREPUNCH-V6.jpg"
+  },
+  {
+    "id": "FIREPUNCH-V7",
+    "title": "Fire Punch, Vol. 7",
+    "credits": [
+      "Tatsuki Fujimoto (Author)"
+    ],
+    "series": "Fire Punch",
+    "volume": 7,
+    "genre": [
+      "Fantasy",
+      "Thriller"
+    ],
+    "description": [
+      "In a frozen dystopia where inhabitants eat flesh to survive, can the destructive powers of fire bring salvation?",
+      "In the not-too-distant past, the Ice Witch blankets the world in snow, starvation, and madness, leading the inhabitants to seek their salvation in fire. With that, an unusual destiny unfolds for two young orphans, Agni and Luna, blessed with the ability to regenerate. But will this ability prove to be more of a curse than a blessing?",
+      "With his promise to Tena imprinted on his mind, Agni can only enjoy an inauthentic peace coated thickly with lies. His existence blames, tortures and undermines him, becoming an affliction worse than the anger, pain and madness he’d experienced as Fire Punch. As Agni searches desperately for an escape from this hell, an old friend suddenly appears."
+    ],
+    "price": 14.99,
+    "coverImage": "/covers/FIREPUNCH-V7.jpg"
+  },
+  {
+    "id": "FIREPUNCH-V8",
+    "title": "Fire Punch, Vol. 8",
+    "credits": [
+      "Tatsuki Fujimoto (Author)"
+    ],
+    "series": "Fire Punch",
+    "volume": 8,
+    "genre": [
+      "Fantasy",
+      "Thriller"
+    ],
+    "description": [
+      "In a frozen dystopia where inhabitants eat flesh to survive, can the destructive powers of fire bring salvation?",
+      "In the not-too-distant past, the Ice Witch blankets the world in snow, starvation, and madness, leading the inhabitants to seek their salvation in fire. With that, an unusual destiny unfolds for two young orphans, Agni and Luna, blessed with the ability to regenerate. But will this ability prove to be more of a curse than a blessing?",
+      "Agni’s body is once again engulfed in flames, and he burns everyone and everything in his path on his way to Judah. Sun’s blind belief explodes into fury as his savior Agni becomes the villain! Will it be an inferno of revenge or a redeeming light finally end this frozen world?!"
+    ],
+    "price": 14.99,
+    "coverImage": "/covers/FIREPUNCH-V8.jpg"
   },
   {
     "id": "FRIEREN-V1",
     "title": "Frieren: Beyond Journey's End, Vol. 1",
-    "credits": ["Kanehito Yamada (Author)", "Tsukasa Abe (Illustrator)"],
+    "credits": [
+      "Kanehito Yamada (Author)",
+      "Tsukasa Abe (Illustrator)"
+    ],
     "series": "Frieren: Beyond Journey's End",
     "volume": 1,
-    "genre": ["Adventure", "Drama", "Fantasy"],
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
     "description": [
       "The adventure is over but life goes on for an elf mage just beginning to learn what living is all about.",
       "Elf mage Frieren and her courageous fellow adventurers have defeated the Demon King and brought peace to the land. But Frieren will long outlive the rest of her former party. How will she come to understand what life means to the people around her?",
       "Decades after their victory, the funeral of one her friends confronts Frieren with her own near immortality. Frieren sets out to fulfill the last wishes of her comrades and finds herself beginning a new adventure…"
     ],
     "price": 11.99,
-    "coverImage": "/covers/frieren-v1.jpg"
+    "coverImage": "/covers/FRIEREN-V1.jpg"
   },
   {
     "id": "FMA-V1",
     "title": "Fullmetal Alchemist, Vol. 1",
-    "credits": ["Hiromu Arakawa (Author, Illustrator)"],
+    "credits": [
+      "Hiromu Arakawa (Author, Illustrator)"
+    ],
     "series": "Fullmetal Alchemist",
     "volume": 1,
-    "genre": ["Adventure", "Fantasy"],
+    "genre": [
+      "Adventure",
+      "Fantasy"
+    ],
     "description": [
       "Breaking the laws of nature is a serious crime!",
       "In an alchemical ritual gone wrong, Edward Elric lost his arm and his leg, and his brother Alphonse became nothing but a soul in a suit of armor. Equipped with mechanical “auto-mail” limbs, Edward becomes a state alchemist, seeking the one thing that can restore his and his brother’s bodies...the legendary Philosopher’s Stone.",
       "Alchemy: the mystical power to alter the natural world; something between magic, art and science. When two brothers, Edward and Alphonse Elric, dabbled in this power to grant their dearest wish, one of them lost an arm and a leg…and the other became nothing but a soul locked into a body of living steel. Now Edward is an agent of the government, a slave of the military-alchemical complex, using his unique powers to obey orders…even to kill. Except his powers aren't unique. The world has been ravaged by the abuse of alchemy. And in pursuit of the ultimate alchemical treasure, the Philosopher's Stone, their enemies are even more ruthless than they are…"
     ],
     "price": 11.99,
-    "coverImage": "/covers/fullmetalalchemist-v1.jpg"
+    "coverImage": "/covers/FMA-V1.jpg"
   },
   {
     "id": "GOLDENKAMUY-V1",
     "title": "Golden Kamuy, Vol. 1",
-    "credits": ["Satoru Noda (Author)"],
+    "credits": [
+      "Satoru Noda (Author)"
+    ],
     "series": "Golden Kamuy",
     "volume": 1,
-    "genre": ["Adventure", "Historical", "Western"],
+    "genre": [
+      "Adventure",
+      "Historical",
+      "Western"
+    ],
     "description": [
       "A tale of high adventure and survival!",
       "In the early twentieth century, Russo-Japanese War veteran Saichi Sugimoto searches the wilderness of Hokkaido for a hoard of hidden gold. With only a cryptic map and a native Ainu girl to help him, Saichi must also deal with every murderous cutthroat, bandit and rogue who knows about the treasure!",
       "In the early twentieth century, Russo-Japanese War veteran Saichi “Immortal” Sugimoto scratches out a meager existence during the postwar gold rush in the wilderness of Hokkaido. When he stumbles across a map to a fortune in hidden Ainu gold, he sets off on a treacherous quest to find it. But Sugimoto is not the only interested party, and everyone who knows about the gold will kill to possess it! Faced with the harsh conditions of the northern wilderness, ruthless criminals and rogue Japanese soldiers, Sugimoto will need all his skills and luck—and the help of an Ainu girl named Asirpa—to survive."
     ],
     "price": 14.99,
-    "coverImage": "/covers/goldenkamuy-v1.jpg"
+    "coverImage": "/covers/GOLDENKAMUY-V1.jpg"
   },
   {
     "id": "GOODBYEERI",
     "title": "Goodbye, Eri",
-    "credits": ["Tatsuki Fujimoto (Author)"],
+    "credits": [
+      "Tatsuki Fujimoto (Author)"
+    ],
     "series": "Goodbye, Eri",
     "volume": 0,
-    "genre": ["Drama", "Mystery"],
+    "genre": [
+      "Drama",
+      "Mystery"
+    ],
     "description": [
       "An explosive story from the mad genius behind Chainsaw Man and Look Back!",
       "Young filmmaker Yuta contemplates suicide after the death of his mother, but a chance meeting with a mysterious girl will alter his life in an explosive way.",
@@ -460,15 +1784,21 @@
       "Yuta’s moviemaking career started with a request from his mother to record her final moments. After her death, Yuta meets a mysterious girl named Eri, who takes his life in new directions. The two begin creating a movie together, but Eri is harboring an explosive secret."
     ],
     "price": 14.99,
-    "coverImage": "/covers/goodbyeeri.jpg"
+    "coverImage": "/covers/GOODBYEERI.jpg"
   },
   {
     "id": "PUNPUN-V1",
     "title": "Goodnight Punpun, Vol. 1",
-    "credits": ["Inio Asano (Author)"],
+    "credits": [
+      "Inio Asano (Author)"
+    ],
     "series": "Goodnight Punpun",
     "volume": 1,
-    "genre": ["Coming of Age", "Drama", "Slice of Life"],
+    "genre": [
+      "Coming of Age",
+      "Drama",
+      "Slice of Life"
+    ],
     "description": [
       "A dark coming-of-age tale where slice-of-life slices back.",
       "This is Punpun Onodera’s coming-of-age story. His parents’ marriage is falling apart. His dad goes to jail, and his mom goes to the hospital. He has to live with his loser uncle. He has a crush on a girl who lives in a weird cult. Punpun tries talking with God about his problems, but God is a jerk. Punpun keeps hoping things will get better, but they really, really don’t.",
@@ -479,30 +1809,187 @@
       "That’s what he wants, but what does he get…?"
     ],
     "price": 24.99,
-    "coverImage": "/covers/goodnightpunpun-v1.jpg"
+    "coverImage": "/covers/PUNPUN-V1.jpg"
+  },
+  {
+    "id": "PUNPUN-V2",
+    "title": "Goodnight Punpun, Vol. 2",
+    "credits": [
+      "Inio Asano (Author)"
+    ],
+    "series": "Goodnight Punpun",
+    "volume": 2,
+    "genre": [
+      "Coming of Age",
+      "Drama",
+      "Slice of Life"
+    ],
+    "description": [
+      "A dark coming-of-age tale where slice-of-life slices back.",
+      "This is Punpun Onodera’s coming-of-age story. His parents’ marriage is falling apart. His dad goes to jail, and his mom goes to the hospital. He has to live with his loser uncle. He has a crush on a girl who lives in a weird cult. Punpun tries talking with God about his problems, but God is a jerk. Punpun keeps hoping things will get better, but they really, really don’t.",
+      "Punpun was an average kid in an average town…",
+      "But things have changed.",
+      "The love of his life wants to kill him.",
+      "His parents got divorced.",
+      "And God is being mean to him.",
+      "What are you going to do now, Punpun?"
+    ],
+    "price": 24.99,
+    "coverImage": "/covers/PUNPUN-V2.jpg"
+  },
+  {
+    "id": "PUNPUN-V3",
+    "title": "Goodnight Punpun, Vol. 3",
+    "credits": [
+      "Inio Asano (Author)"
+    ],
+    "series": "Goodnight Punpun",
+    "volume": 3,
+    "genre": [
+      "Coming of Age",
+      "Drama",
+      "Slice of Life"
+    ],
+    "description": [
+      "A dark coming-of-age tale where slice-of-life slices back.",
+      "This is Punpun Onodera’s coming-of-age story. His parents’ marriage is falling apart. His dad goes to jail, and his mom goes to the hospital. He has to live with his loser uncle. He has a crush on a girl who lives in a weird cult. Punpun tries talking with God about his problems, but God is a jerk. Punpun keeps hoping things will get better, but they really, really don’t.",
+      "Like most kids his age, Punpun is in high school.",
+      "In fact, he has made it into the best high school in town.",
+      "He is such a good student.",
+      "He studies so he doesn’t have to think about his life.",
+      "Maybe a meteor will crash into Earth and destroy everything.",
+      "A guy can wish, Punpun…"
+    ],
+    "price": 24.99,
+    "coverImage": "/covers/PUNPUN-V3.jpg"
+  },
+  {
+    "id": "PUNPUN-V4",
+    "title": "Goodnight Punpun, Vol. 4",
+    "credits": [
+      "Inio Asano (Author)"
+    ],
+    "series": "Goodnight Punpun",
+    "volume": 4,
+    "genre": [
+      "Coming of Age",
+      "Drama",
+      "Slice of Life"
+    ],
+    "description": [
+      "A dark coming-of-age tale where slice-of-life slices back.",
+      "This is Punpun Onodera’s coming-of-age story. His parents’ marriage is falling apart. His dad goes to jail, and his mom goes to the hospital. He has to live with his loser uncle. He has a crush on a girl who lives in a weird cult. Punpun tries talking with God about his problems, but God is a jerk. Punpun keeps hoping things will get better, but they really, really don’t.",
+      "Punpun is on his own now.",
+      "His mom is dead and his dad is useless.",
+      "When he’s not working crappy part-time jobs, he spends most of his time on the floor of his room.",
+      "But buck up, Punpun! It’s only for the rest of your life, right?"
+    ],
+    "price": 24.99,
+    "coverImage": "/covers/PUNPUN-V4.jpg"
+  },
+  {
+    "id": "PUNPUN-V5",
+    "title": "Goodnight Punpun, Vol. 5",
+    "credits": [
+      "Inio Asano (Author)"
+    ],
+    "series": "Goodnight Punpun",
+    "volume": 5,
+    "genre": [
+      "Coming of Age",
+      "Drama",
+      "Slice of Life"
+    ],
+    "description": [
+      "A dark coming-of-age tale where slice-of-life slices back.",
+      "This is Punpun Onodera’s coming-of-age story. His parents’ marriage is falling apart. His dad goes to jail, and his mom goes to the hospital. He has to live with his loser uncle. He has a crush on a girl who lives in a weird cult. Punpun tries talking with God about his problems, but God is a jerk. Punpun keeps hoping things will get better, but they really, really don’t.",
+      "Punpun gave himself a strict deadline.",
+      "By the time his lease is up, he and Aiko will be together, his life will be better and he’ll be someone…",
+      "Or else.",
+      "Hey, Punpun, your lease just ran out."
+    ],
+    "price": 24.99,
+    "coverImage": "/covers/PUNPUN-V5.jpg"
+  },
+  {
+    "id": "PUNPUN-V6",
+    "title": "Goodnight Punpun, Vol. 6",
+    "credits": [
+      "Inio Asano (Author)"
+    ],
+    "series": "Goodnight Punpun",
+    "volume": 6,
+    "genre": [
+      "Coming of Age",
+      "Drama",
+      "Slice of Life"
+    ],
+    "description": [
+      "A dark coming-of-age tale where slice-of-life slices back.",
+      "This is Punpun Onodera’s coming-of-age story. His parents’ marriage is falling apart. His dad goes to jail, and his mom goes to the hospital. He has to live with his loser uncle. He has a crush on a girl who lives in a weird cult. Punpun tries talking with God about his problems, but God is a jerk. Punpun keeps hoping things will get better, but they really, really don’t.",
+      "Punpun has finally reunited with the love of his life, Aiko!",
+      "But she isn’t as exciting and wonderful as he remembered.",
+      "And she doesn’t make him exciting and wonderful.",
+      "In fact, he thinks they’re both terribly banal.",
+      "And now they’ve done something terrible…",
+      "Punpun, what do you do when there’s no way out?"
+    ],
+    "price": 24.99,
+    "coverImage": "/covers/PUNPUN-V6.jpg"
+  },
+  {
+    "id": "PUNPUN-V7",
+    "title": "Goodnight Punpun, Vol. 7",
+    "credits": [
+      "Inio Asano (Author)"
+    ],
+    "series": "Goodnight Punpun",
+    "volume": 7,
+    "genre": [
+      "Coming of Age",
+      "Drama",
+      "Slice of Life"
+    ],
+    "description": [
+      "A dark coming-of-age tale where slice-of-life slices back.",
+      "This is Punpun Onodera’s coming-of-age story. His parents’ marriage is falling apart. His dad goes to jail, and his mom goes to the hospital. He has to live with his loser uncle. He has a crush on a girl who lives in a weird cult. Punpun tries talking with God about his problems, but God is a jerk. Punpun keeps hoping things will get better, but they really, really don’t.",
+      "This is the end, Punpun."
+    ],
+    "price": 24.99,
+    "coverImage": "/covers/PUNPUN-V7.jpg"
   },
   {
     "id": "HAIKYU-V1",
     "title": "Haikyu!!, Vol. 1",
-    "credits": ["Haruichi Furudate (Author)"],
+    "credits": [
+      "Haruichi Furudate (Author)"
+    ],
     "series": "Haikyu!!",
     "volume": 1,
-    "genre": ["Sports", "Coming of Age"],
+    "genre": [
+      "Sports",
+      "Coming of Age"
+    ],
     "description": [
       "Shoyo Hinata is out to prove that in volleyball you don't need to be tall to fly!",
       "Ever since he saw the legendary player known as “the Little Giant” compete at the national volleyball finals, Shoyo Hinata has been aiming to be the best volleyball player ever! Who says you need to be tall to play volleyball when you can jump higher than anyone else?",
       "After losing his first and last volleyball match against Tobio Kageyama, “the King of the Court,” Shoyo Hinata swears to become his rival after graduating middle school. But what happens when the guy he wants to defeat ends up being his teammate?!"
     ],
     "price": 11.99,
-    "coverImage": "/covers/haikyu-v1.jpg"
+    "coverImage": "/covers/HAIKYU-V1.jpg"
   },
   {
     "id": "HXH-V1",
     "title": "Hunter x Hunter, Vol. 1",
-    "credits": ["Yoshihiro Togashi (Author)"],
+    "credits": [
+      "Yoshihiro Togashi (Author)"
+    ],
     "series": "Hunter x Hunter",
     "volume": 1,
-    "genre": ["Adventure", "Martial Arts"],
+    "genre": [
+      "Adventure",
+      "Martial Arts"
+    ],
     "description": [
       "Plucky Gon’s quest to find his dad leads him into a whole world of crazy adventure.",
       "Hunters are a special breed, dedicated to tracking down treasures, magical beasts, and even other people. But such pursuits require a license, and less than one in a hundred thousand can pass the grueling qualification exam. Those who do pass gain access to restricted areas, amazing stores of information, and the right to call themselves Hunters.",
@@ -510,37 +1997,48 @@
       "Having survived the terrors of the high seas, Gon and his companions now have to prove their worth in a variety of tests in order to find the elusive Exam Hall. And once they get there, will they ever leave alive...?"
     ],
     "price": 11.99,
-    "coverImage": "/covers/hunterxhunter-v1.jpg"
+    "coverImage": "/covers/HXH-V1.jpg"
   },
   {
     "id": "JOJO7-V1",
     "title": "JoJo's Bizarre Adventure: Part 7--Steel Ball Run, Vol. 1",
-    "credits": ["Hirohiko Araki (Author)"],
+    "credits": [
+      "Hirohiko Araki (Author)"
+    ],
     "series": "JoJo's Bizarre Adventure: Part 7--Steel Ball Run",
     "volume": 1,
-    "genre": ["Adventure", "Supernatural", "Western"],
+    "genre": [
+      "Adventure",
+      "Supernatural",
+      "Western"
+    ],
     "description": [
       "A multigenerational tale of the heroic Joestar family and their never-ending battle against evil!",
       "The legendary Shonen Jump series is now available in deluxe hardcover editions featuring color pages! JoJo’s Bizarre Adventure is a groundbreaking manga famous for its outlandish characters, wild humor, and frenetic battles.",
       "Riders from around the world gather in the Wild West for the race of the century! Johnny Joestar, a former jockey paralyzed from the waist down, comes to spectate, and momentarily regains the ability to walk while watching a duel fought by Gyro Zeppeli. Desperate to learn more about this power, Johnny joins the race alongside Gyro and embarks on the most epic and bizarre race to ever cross the American frontier!"
     ],
     "price": 24.99,
-    "coverImage": "/covers/jojopart7-v1.jpg"
+    "coverImage": "/covers/JOJO7-V1.jpg"
   },
   {
     "id": "JJK-V1",
     "title": "Jujutsu Kaisen, Vol. 1",
-    "credits": ["Gege Akutami (Creator)"],
+    "credits": [
+      "Gege Akutami (Creator)"
+    ],
     "series": "Jujutsu Kaisen",
     "volume": 1,
-    "genre": ["Action", "Supernatural"],
+    "genre": [
+      "Action",
+      "Supernatural"
+    ],
     "description": [
       "To gain the power he needs to save his friend from a cursed spirit, Yuji Itadori swallows a piece of a demon, only to find himself caught in the midst of a horrific war of the supernatural!",
       "In a world where cursed spirits feed on unsuspecting humans, fragments of the legendary and feared demon Ryomen Sukuna have been lost and scattered about. Should any demon consume Sukuna’s body parts, the power they gain could destroy the world as we know it. Fortunately, there exists a mysterious school of jujutsu sorcerers who exist to protect the precarious existence of the living from the supernatural!",
       "Although Yuji Itadori looks like your average teenager, his immense physical strength is something to behold! Every sports club wants him to join, but Itadori would rather hang out with the school outcasts in the Occult Research Club. One day, the club manages to get their hands on a sealed cursed object. Little do they know the terror they’ll unleash when they break the seal…"
     ],
     "price": 11.99,
-    "coverImage": "/covers/jujutsukaisen-v1.jpg"
+    "coverImage": "/covers/JJK-V1.jpg"
   },
   {
     "id": "KAKEGURUI-V1",
@@ -552,93 +2050,130 @@
     ],
     "series": "Kakegurui - Compulsive Gambler",
     "volume": 1,
-    "genre": ["Thriller"],
+    "genre": [
+      "Thriller"
+    ],
     "description": [
       "Hyakkaou Private Academy. An institution for the privileged with a very peculiar curriculum. You see, when you're the sons and daughters of the wealthiest of the wealthy, it's not athletic prowess or book smarts that keep you ahead. It's reading your opponent-the art of the deal. What better way to hone those skills than with a rigorous curriculum of gambling? At Hyakkaou Private Academy, the winners live like kings, and the losers are put through the wringer. But when Yumeko Jabami enrolls, she's gonna teach these kids what a high roller really looks like!"
     ],
     "price": 14.99,
-    "coverImage": "/covers/kakegurui-v1.jpg"
+    "coverImage": "/covers/KAKEGURUI-V1.jpg"
   },
   {
     "id": "LUSTROUS-V1",
     "title": "Land of the Lustrous, Vol. 1",
-    "credits": ["Haruko Ichikawa (Author)"],
+    "credits": [
+      "Haruko Ichikawa (Author)"
+    ],
     "series": "Land of the Lustrous",
     "volume": 1,
-    "genre": ["Fantasy", "Post-Apocalyptic", "Drama"],
+    "genre": [
+      "Fantasy",
+      "Post-Apocalyptic",
+      "Drama"
+    ],
     "description": [
       "The elegant, enthralling action manga that became the hit anime! Find out why readers have flocked to this \"gorgeous, absorbing, surprisingly emotionally resonant\" masterpiece!",
       "SEARCHING FOR PURPOSE",
       "In a world inhabited by crystalline lifeforms called The Lustrous, every unique gem must fight for their way of life against the threat of lunarians who would turn them into decorations. Phosphophyllite, the most fragile and brittle of gems, longs to join the battle. When Phos is instead assigned to complete a natural history of their world, it sounds like a dull and pointless task. But this new job brings Phos into contact with Cinnabar, a gem forced to live in isolation. Can Phos's seemingly mundane assignment lead both Phos and Cinnabar to the fulfillment they desire?"
     ],
     "price": 12.99,
-    "coverImage": "/covers/landofthelustrous-v1.jpg"
+    "coverImage": "/covers/LUSTROUS-V1.jpg"
   },
   {
     "id": "LOOKBACK",
     "title": "Look Back",
-    "credits": ["Tatsuki Fujimoto (Author)"],
+    "credits": [
+      "Tatsuki Fujimoto (Author)"
+    ],
     "series": "Look Back",
     "volume": 0,
-    "genre": ["Coming of Age", "Drama"],
+    "genre": [
+      "Coming of Age",
+      "Drama"
+    ],
     "description": [
       "A heart-wrenching single-volume story about the struggles of being an artist, from the creator of Chainsaw Man.",
       "The overly confident Fujino and the shut-in Kyomoto couldn’t be more different, but a love of drawing manga brings these two small-town girls together. A poignant story of growing up and moving forward that only Tatsuki Fujimoto, the creator of Chainsaw Man, could have crafted."
     ],
     "price": 14.99,
-    "coverImage": "/covers/lookback.jpg"
+    "coverImage": "/covers/LOOKBACK.jpg"
   },
   {
     "id": "MP100-V1",
     "title": "Mob Psycho, Vol. 1",
-    "credits": ["ONE (Author, Illustrator)"],
+    "credits": [
+      "ONE (Author, Illustrator)"
+    ],
     "series": "Mob Psycho 100",
     "volume": 1,
-    "genre": ["Action", "Comedy", "Supernatural"],
+    "genre": [
+      "Action",
+      "Comedy",
+      "Supernatural"
+    ],
     "description": [
       "From the creator of One-Punch Man and now a Netflix Live Action Series! Do you or someone you know need an exorcist who works cheap? Reigen's your guy!",
       "What's his secret to busting ghosts while keeping prices low? Well, first, he's a fraud, and second, he pays the guy who's got the real psychic power--his student assistant Shigeo--less than minimum wage. Shigeo is an awkward but kind boy whose urge to help others and get along with them is bound up with the mental safety locks he's placed on his own emotions. Reigen knows he needs to exploit Shigeo to stay in business, yet for better or worse he's also his mentor and counselor. And he also knows whenever the normally repressed kid's emotions reach level 100, it may unleash more psychic energy than either of them can handle!"
     ],
     "price": 11.99,
-    "coverImage": "/covers/mobpsycho100-v1.jpg"
+    "coverImage": "/covers/MP100-V1.jpg"
   },
   {
     "id": "MONSTERP-V1",
     "title": "Monster: The Perfect Edition, Vol. 1",
-    "credits": ["Naoki Urasawa (Creator)"],
+    "credits": [
+      "Naoki Urasawa (Creator)"
+    ],
     "series": "Monster",
     "volume": 1,
-    "genre": ["Crime", "Mystery", "Thriller"],
+    "genre": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
     "description": [
       "Naoki Urasawa’s unforgettable thriller follows a brilliant doctor’s journey into the darkest depths of the human soul.",
       "Johan is a cold and calculating killer with a mysterious past, and brilliant Dr. Kenzo Tenma is the only one who can stop him! Conspiracy and serial murder open the door to a compelling, intricately woven plot in this masterwork of suspense.",
       "Everyone faces uncertainty at some point in their lives. Even a brilliant surgeon like Kenzo Tenma is no exception. But there’s no way he could have known that his decision to stop chasing professional success and instead concentrate on his oath to save peoples’ lives would result in the birth of an abomination. The questions of good and evil now take on a terrifyingly real dimension."
     ],
     "price": 22.99,
-    "coverImage": "/covers/monsterperfect-v1.jpg"
+    "coverImage": "/covers/MONSTERP-V1.jpg"
   },
   {
     "id": "MHA-V1",
     "title": "My Hero Academia, Vol. 1",
-    "credits": ["Kohei Horikoshi (Author)", "Caleb D. Cook (Translator)"],
+    "credits": [
+      "Kohei Horikoshi (Author)",
+      "Caleb D. Cook (Translator)"
+    ],
     "series": "My Hero Academia",
     "volume": 1,
-    "genre": ["Action", "Superhero"],
+    "genre": [
+      "Action",
+      "Superhero"
+    ],
     "description": [
       "Midoriya inherits the superpower of the world’s greatest hero, but greatness won’t come easy.",
       "What would the world be like if 80 percent of the population manifested superpowers called “Quirks”? Heroes and villains would be battling it out everywhere! Being a hero would mean learning to use your power, but where would you go to study? The Hero Academy of course! But what would you do if you were one of the 20 percent who were born Quirkless?",
       "Middle school student Izuku Midoriya wants to be a hero more than anything, but he hasn’t got an ounce of power in him. With no chance of ever getting into the prestigious U.A. High School for budding heroes, his life is looking more and more like a dead end. Then an encounter with All Might, the greatest hero of them all, gives him a chance to change his destiny…"
     ],
     "price": 11.99,
-    "coverImage": "/covers/myheroacademia-v1.jpg"
+    "coverImage": "/covers/MHA-V1.jpg"
   },
   {
     "id": "NANA-V1",
     "title": "Nana, Vol. 1",
-    "credits": ["Ai Yazawa (Author)"],
+    "credits": [
+      "Ai Yazawa (Author)"
+    ],
     "series": "Nana",
     "volume": 1,
-    "genre": ["Drama", "Music", "Romance"],
+    "genre": [
+      "Drama",
+      "Music",
+      "Romance"
+    ],
     "description": [
       "A chance meeting on a train to Tokyo sends two girls named Nana on a collision course with destiny!",
       "Nana \"Hachi\" Komatsu hopes that moving to Tokyo will help her make a clean start and leave her capricious love life behind her. Nana Osaki, who arrives in the city at the same time, has plans to score big in the world of rock'n'roll. Although these two young women come from different backgrounds, they quickly become best friends in a whirlwind world of sex, music, fashion, gossip and all-night parties!",
@@ -647,102 +2182,143 @@
       "This is the story of two 20-year-old women who share the same name. Even though they come from completely different backgrounds, they somehow meet and become best friends. The world of Nana is a world exploding with sex, music, fashion, gossip and all-night parties."
     ],
     "price": 11.99,
-    "coverImage": "/covers/nana-v1.jpg"
+    "coverImage": "/covers/NANA-V1.jpg"
   },
   {
     "id": "NARUTO-V1",
     "title": "Naruto, Vol. 1: Uzumaki Naruto",
-    "credits": ["Masashi Kishimoto (Author, Illustrator)"],
+    "credits": [
+      "Masashi Kishimoto (Author, Illustrator)"
+    ],
     "series": "Naruto",
     "volume": 1,
-    "genre": ["Action", "Martial Arts"],
+    "genre": [
+      "Action",
+      "Martial Arts"
+    ],
     "description": [
       "The world’s most popular ninja comic!",
       "Naruto is a young shinobi with an incorrigible knack for mischief. He’s got a wild sense of humor, but Naruto is completely serious about his mission to be the world’s greatest ninja!",
       "Twelve years ago the Village Hidden in the Leaves was attacked by a fearsome threat. A nine-tailed fox spirit claimed the life of the village leader, the Hokage, and many others. Today, the village is at peace and a troublemaking kid named Naruto is struggling to graduate from Ninja Academy. His goal may be to become the next Hokage, but his true destiny will be much more complicated. The adventure begins now!"
     ],
     "price": 11.99,
-    "coverImage": "/covers/naruto-v1.jpg"
+    "coverImage": "/covers/NARUTO-V1.jpg"
   },
   {
     "id": "OP-V1",
     "title": "One Piece, Vol. 1: Romance Dawn",
-    "credits": ["Eiichiro Oda (Author, Illustrator)"],
+    "credits": [
+      "Eiichiro Oda (Author, Illustrator)"
+    ],
     "series": "One Piece",
     "volume": 1,
-    "genre": ["Action", "Adventure"],
+    "genre": [
+      "Action",
+      "Adventure"
+    ],
     "description": [
       "Join Monkey D. Luffy and his swashbuckling crew in their search for the ultimate treasure, One Piece!",
       "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world..."
     ],
     "price": 11.99,
-    "coverImage": "/covers/onepiece-v1.jpg"
+    "coverImage": "/covers/OP-V1.jpg"
   },
   {
     "id": "OPM-V1",
     "title": "One-Punch Man, Vol. 1",
-    "credits": ["ONE (Author)", "Yusuke Murata (Illustrator)"],
+    "credits": [
+      "ONE (Author)",
+      "Yusuke Murata (Illustrator)"
+    ],
     "series": "One-Punch Man",
     "volume": 1,
-    "genre": ["Action", "Comedy", "Superhero"],
+    "genre": [
+      "Action",
+      "Comedy",
+      "Superhero"
+    ],
     "description": [
       "Life gets pretty boring when you can beat the snot out of any villain with just one punch.",
       "Nothing about Saitama passes the eyeball test when it comes to superheroes, from his lifeless expression to his bald head to his unimpressive physique. However, this average-looking guy has a not-so-average problem—he just can’t seem to find an opponent strong enough to take on!",
       "Every time a promising villain appears, Saitama beats the snot out of ’em with one punch! Can he finally find an opponent who can go toe-to-toe with him and give his life some meaning? Or is he doomed to a life of superpowered boredom?"
     ],
     "price": 11.99,
-    "coverImage": "/covers/onepunchman-v1.jpg"
+    "coverImage": "/covers/OPM-V1.jpg"
   },
   {
     "id": "REAL-V1",
     "title": "Real, Vol. 1",
-    "credits": ["Takehiko Inoue (Author)"],
+    "credits": [
+      "Takehiko Inoue (Author)"
+    ],
     "series": "Real",
     "volume": 1,
-    "genre": ["Drama", "Sports"],
+    "genre": [
+      "Drama",
+      "Sports"
+    ],
     "description": [
       "Eisner-award nominated creator Takehiko Inoue creates a dramatic tale of triumph over adversity. This is the story of three young men whose lives are profoundly changed by their involvement with wheelchair basketball.",
       "Critically acclaimed, award-winning manga artist Takehiko Inoue doesn’t pull any punches in this stunning portrayal of people struggling with serious life issues. Masterfully combining rich character development with beautifully detailed line art, Inoue, the creator of the mega-hit masterpieces Slam Dunk and Vagabond, lifts the manga medium to a completely new level of storytelling.",
       "A motorcycle accident, bone cancer, a speeding truck crashing into a boy on a stolen bicycle--tragic life-changing events turn the worlds of three young men upside down. These three very different personalities have only one thing in common--their passion for basketball."
     ],
     "price": 16.99,
-    "coverImage": "/covers/real-v1.jpg"
+    "coverImage": "/covers/REAL-V1.jpg"
   },
   {
     "id": "SAILORMOON-V1",
     "title": "Sailor Moon, Vol. 1",
-    "credits": ["Naoko Takeuchi (Author)"],
+    "credits": [
+      "Naoko Takeuchi (Author)"
+    ],
     "series": "Sailor Moon",
     "volume": 1,
-    "genre": ["Action", "Comedy", "Fantasy", "Magical Girl"],
+    "genre": [
+      "Action",
+      "Comedy",
+      "Fantasy",
+      "Magical Girl"
+    ],
     "description": [
       "A new edition of the Sailor Moon manga, for a new generation of fans! Featuring an updated translation and high page count in a more affordable, portable edition, perfect to go wherever you or the legendary guardian in your life want to take it.",
       "Teenager Usagi is not the best athlete, she's never gotten good grades, and, well, she's a bit of a crybaby. But when she meets a talking cat, she begins a journey that will teach her she has a well of great strength just beneath the surface and the heart to inspire and stand up for her friends as Sailor Moon! The original Sailor Moon in a new, affordable edition."
     ],
     "price": 12.99,
-    "coverImage": "/covers/sailormoon-v1.jpg"
+    "coverImage": "/covers/SAILORMOON-V1.jpg"
   },
   {
     "id": "SKIPANDLOAFER-V1",
     "title": "Skip and Loafer, Vol. 1",
-    "credits": ["Misaki Takamatsu (Author)"],
+    "credits": [
+      "Misaki Takamatsu (Author)"
+    ],
     "series": "Skip and Loafer",
     "volume": 1,
-    "genre": ["Comedy", "Romance", "Slice of Life"],
+    "genre": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
     "description": [
       "The award-winning romantic comedy about a country girl chasing her dreams in Tokyo--and don't miss the anime!",
       "Mitsumi is bound for high school in Tokyo! She's got book smarts, but this small-town girl is about to find out she's massively unprepared for the social norms of big city high schoolers."
     ],
     "price": 12.99,
-    "coverImage": "/covers/skipandloafer-v1.jpg"
+    "coverImage": "/covers/SKIPANDLOAFER-V1.jpg"
   },
   {
     "id": "SLAMDUNK-V1",
     "title": "Slam Dunk, Vol. 1",
-    "credits": ["Takehiko Inoue (Author)"],
+    "credits": [
+      "Takehiko Inoue (Author)"
+    ],
     "series": "Slam Dunk",
     "volume": 1,
-    "genre": ["Comedy", "Coming of Age", "Sports"],
+    "genre": [
+      "Comedy",
+      "Coming of Age",
+      "Sports"
+    ],
     "description": [
       "The best-selling series from Eisner-nominated Takehiko Inoue, one of Japan’s greatest manga creators.",
       "Winning isn't everything in the game of basketball, but who wants to come in second? It takes dedication and discipline to be the best, and the Shohoku High hoops team wants to be just that. They have one last year to make their captain's dream of reaching the finals come true—will they do it?",
@@ -750,7 +2326,7 @@
       "Hanamichi Sakuragi's got no game with girls--none at all! It doesn't help that he's known for throwing down at a moment's notice and always coming out on top. A hopeless bruiser, he's been rejected by 50 girls in a row! All that changes when he meets the girl of his dreams, Haruko, and she's actually not afraid of him! When she introduces him to the game of basketball, his life is changed forever..."
     ],
     "price": 11.99,
-    "coverImage": "/covers/slamdunk-v1.jpg"
+    "coverImage": "/covers/SLAMDUNK-V1.jpg"
   },
   {
     "id": "SOLOLEVELING-V1",
@@ -764,27 +2340,35 @@
     ],
     "series": "Solo Leveling",
     "volume": 1,
-    "genre": ["Action"],
+    "genre": [
+      "Action"
+    ],
     "description": [
       "Known as the Weakest Hunter of All Mankind, E-rank hunter Jinwoo Sung’s contribution to raids amounts to trying not to get killed. Unfortunately, between his mother’s hospital bills, his sister’s tuition, and his own lack of job prospects, he has no choice but to continue to put his life on the line. So when an opportunity arises for a bigger payout, he takes it…only to come face-to-face with a being whose power outranks anything he’s ever seen! With the party leader missing an arm and the only healer a quivering mess, can Jinwoo some­how find them a way out?"
     ],
     "price": 19.99,
-    "coverImage": "/covers/sololeveling-v1.jpg"
+    "coverImage": "/covers/SOLOLEVELING-V1.jpg"
   },
   {
     "id": "SXF-V1",
     "title": "Spy x Family, Vol. 1",
-    "credits": ["Tatsuya Endo (Author)"],
+    "credits": [
+      "Tatsuya Endo (Author)"
+    ],
     "series": "Spy x Family",
     "volume": 1,
-    "genre": ["Comedy", "Slice of Life", "Action"],
+    "genre": [
+      "Comedy",
+      "Slice of Life",
+      "Action"
+    ],
     "description": [
       "An action-packed comedy about a fake family that includes a spy, an assassin and a telepath!",
       "Master spy Twilight is unparalleled when it comes to going undercover on dangerous missions for the betterment of the world. But when he receives the ultimate assignment—to get married and have a kid—he may finally be in over his head!",
       "Not one to depend on others, Twilight has his work cut out for him procuring both a wife and a child for his mission to infiltrate an elite private school. What he doesn’t know is that the wife he’s chosen is an assassin and the child he’s adopted is a telepath!"
     ],
     "price": 11.99,
-    "coverImage": "/covers/spyxfamily-v1.jpg"
+    "coverImage": "/covers/SXF-V1.jpg"
   },
   {
     "id": "CLIMBER-V1",
@@ -797,312 +2381,131 @@
     ],
     "series": "The Climber",
     "volume": 1,
-    "genre": ["Drama", "Sports"],
+    "genre": [
+      "Drama",
+      "Sports"
+    ],
     "description": [
       "The harder you climb, the higher you live.",
       "Buntaro Mori is a loner, but being alone in a crowd is almost as bad as being forced to fit in. When a dangerous bid for solitude introduces Mori to the rush of solo climbing, he becomes addicted to the brilliant sense of freedom he finds as he pits his body and soul against the heights. But how high does he have to climb to leave humanity behind?",
       "Transfer student Buntaro Mori starts his first day at his new school already on the administration’s radar. He’s withdrawn and sullen, and the teachers are just waiting for him to explode. When his annoying classmate Miyamoto promises to leave him alone forever if he climbs to the top of the school, Mori eagerly takes up the challenge and shocks everyone when he makes it all the way to the roof. Flushed with the victory of his first successful climb, Mori can’t resist the lure of the local peak, despite warnings from more experienced climbers about the risks of climbing alone. But Mori doesn’t care. A little danger is nothing in the face of his new obsession."
     ],
     "price": 22.99,
-    "coverImage": "/covers/climber-v1.jpg"
+    "coverImage": "/covers/CLIMBER-V1.jpg"
   },
   {
     "id": "ETERNITY-V1",
     "title": "To Your Eternity, Vol. 1",
-    "credits": ["Yoshitoki Oima (Author)"],
+    "credits": [
+      "Yoshitoki Oima (Author)"
+    ],
     "series": "To Your Eternity",
     "volume": 1,
-    "genre": ["Drama", "Fantasy"],
+    "genre": [
+      "Drama",
+      "Fantasy"
+    ],
     "description": [
       "A new manga from the creator of the acclaimed A Silent Voice, featuring intimate, emotional drama and an epic story spanning time and space...",
       "A lonely boy wandering the desolate tundra meets a wolf, and the two become fast friends, depending on each other to survive the harsh environment. But the boy has a history, and the wolf is more than meets the eye as well... To Your Eternity is a totally unique and moving manga about death, life, reincarnation, and the nature of love."
     ],
     "price": 12.99,
-    "coverImage": "/covers/eternity-v1.jpg"
+    "coverImage": "/covers/ETERNITY-V1.jpg"
   },
   {
     "id": "TKG-V1",
     "title": "Tokyo Ghoul, Vol. 1",
-    "credits": ["Sui Ishida (Author)"],
+    "credits": [
+      "Sui Ishida (Author)"
+    ],
     "series": "Tokyo Ghoul",
     "volume": 1,
-    "genre": ["Thriller", "Action"],
+    "genre": [
+      "Thriller",
+      "Action"
+    ],
     "description": [
       "Ghouls live among us, the same as normal people in every way—except their craving for human flesh.",
       "Ken Kaneki is an ordinary college student until a violent encounter turns him into the first half-human half-ghoul hybrid. Trapped between two worlds, he must survive Ghoul turf wars, learn more about Ghoul society and master his new powers.",
       "Shy Ken Kaneki is thrilled to go on a date with the beautiful Rize. But it turns out that she’s only interested in his body—eating it, that is. When a morally questionable rescue transforms him into the first half-human half-Ghoul hybrid, Ken is drawn into the dark and violent world of Ghouls, which exists alongside our own."
     ],
     "price": 14.99,
-    "coverImage": "/covers/tokyoghoul-v1.jpg"
+    "coverImage": "/covers/TKG-V1.jpg"
   },
   {
     "id": "UZUMAKI",
     "title": "Uzumaki (3-in-1 Deluxe Edition)",
-    "credits": ["Junji Ito (Author)"],
+    "credits": [
+      "Junji Ito (Author)"
+    ],
     "series": "Uzumaki",
     "volume": 0,
-    "genre": ["Horror", "Supernatural"],
+    "genre": [
+      "Horror",
+      "Supernatural"
+    ],
     "description": [
       "A masterpiece of horror manga, now available in a deluxe hardcover edition!",
       "Kurouzu-cho, a small fogbound town on the coast of Japan, is cursed. According to Shuichi Saito, the withdrawn boyfriend of teenager Kirie Goshima, their town is haunted not by a person or being but a pattern: UZUMAKI, the spiral—the hypnotic secret shape of the world. The bizarre masterpiece horror manga is now available all in a single volume. Fall into a whirlpool of terror!"
     ],
     "price": 34.99,
-    "coverImage": "/covers/uzumaki.jpg"
+    "coverImage": "/covers/UZUMAKI.jpg"
   },
   {
     "id": "VINLAND-V1",
     "title": "Vinland Saga, Vol. 1",
-    "credits": ["Makoto Yukimura (Author)"],
+    "credits": [
+      "Makoto Yukimura (Author)"
+    ],
     "series": "Vinland Saga",
     "volume": 1,
-    "genre": ["Adventure", "Epic", "Historical"],
+    "genre": [
+      "Adventure",
+      "Epic",
+      "Historical"
+    ],
     "description": [
       "As a child, Thorfinn sat at the feet of the great Leif Ericson and thrilled to wild tales of a land far to the west. But his youthful fantasies were shattered by a mercenary raid. Raised by the Vikings who murdered his family, Thorfinn became a terrifying warrior, forever seeking to kill the band's leader, Askeladd, and avenge his father. Sustaining Thorfinn through his ordeal are his pride in his family and his dreams of a fertile westward land, a land without war or slavery...the land Leif called Vinland."
     ],
     "price": 19.99,
-    "coverImage": "/covers/vinlandsaga-v1.jpg"
+    "coverImage": "/covers/VINLAND-V1.jpg"
   },
   {
     "id": "WITCHHAT-V1",
     "title": "Witch Hat Atelier, Vol. 1",
-    "credits": ["Kamome Shirahama (Author)"],
+    "credits": [
+      "Kamome Shirahama (Author)"
+    ],
     "series": "Witch Hat Atelier",
     "volume": 1,
-    "genre": ["Fantasy", "Coming of Age"],
+    "genre": [
+      "Fantasy",
+      "Coming of Age"
+    ],
     "description": [
       "A beautifully-illustrated story about a girl who longs for magic in her life and learns that, on the inside, she already is what she wishes she could be. Reminiscent of Studio Ghibli, this lushly-drawn story has captured the hearts of fantasy fans worldwide.",
       "In a world where everyone takes wonders like magic spells and dragons for granted, Coco is a girl with a simple dream: She wants to be a witch. But everybody knows magicians are born, not made, and Coco was not born with a gift for magic. Resigned to her un-magical life, Coco is about to give up on her dream to become a witch...until the day she meets Qifrey, a mysterious, traveling magician. After secretly seeing Qifrey perform magic in a way she's never seen before, Coco soon learns what everybody \"knows\" might not be the truth, and discovers that her magical dream may not be as far away as it may seem..."
     ],
     "price": 12.99,
-    "coverImage": "/covers/witchhatatelier-v1.jpg"
+    "coverImage": "/covers/WITCHHAT-V1.jpg"
   },
   {
     "id": "YOTSUBA-V1",
     "title": "Yotsuba&!, Vol. 1",
-    "credits": ["Kiyohiko Azuma (Creator)", "Amy Forsyth (Translator)"],
+    "credits": [
+      "Kiyohiko Azuma (Creator)",
+      "Amy Forsyth (Translator)"
+    ],
     "series": "Yotsuba&!",
     "volume": 1,
-    "genre": ["Comedy", "Slice of Life"],
+    "genre": [
+      "Comedy",
+      "Slice of Life"
+    ],
     "description": [
       "Hello! This is Koiwai Yotsuba, Yotsuba Koiwai...um, YOTSUBA! Yotsuba moved with Daddy to a new house from our old house waaaaaaay over there! And moving's fun 'cos people wave! (Ohhhh!!) And Yotsuba met these nice people next door and made friends to play with (one of 'em acted like one of those bad strangers Daddy told Yotsuba not to go with, but it was okay in the end). I hope we get to play a lot. And eat ice cream! And-and-and...oh yeah! You should come play with Yotsuba too!"
     ],
     "price": 12.99,
-    "coverImage": "/covers/yotsuba-v1.jpg"
-  },
-  {
-    "id": "FIREPUNCH-V2",
-    "title": "Fire Punch, Vol. 2",
-    "credits": ["Tatsuki Fujimoto (Author)"],
-    "series": "Fire Punch",
-    "volume": 2,
-    "genre": ["Fantasy", "Thriller"],
-    "description": [
-      "In a frozen dystopia where inhabitants eat flesh to survive, can the destructive powers of fire bring salvation?",
-      "In the not-too-distant past, the Ice Witch blankets the world in snow, starvation, and madness, leading the inhabitants to seek their salvation in fire. With that, an unusual destiny unfolds for two young orphans, Agni and Luna, blessed with the ability to regenerate. But will this ability prove to be more of a curse than a blessing?",
-      "Following the fight with his longtime enemy Doma, Agni is beheaded, and it’s decided that his head is to be taken to the sea. However, during the journey, a mysterious person named Togata appears, and their madness-tainted filming begins!"
-    ],
-    "price": 14.99,
-    "coverImage": "/covers/firepunch-v2.jpg"
-  },
-  {
-    "id": "FIREPUNCH-V3",
-    "title": "Fire Punch, Vol. 3",
-    "credits": ["Tatsuki Fujimoto (Author)"],
-    "series": "Fire Punch",
-    "volume": 3,
-    "genre": ["Fantasy", "Thriller"],
-    "description": [
-      "In a frozen dystopia where inhabitants eat flesh to survive, can the destructive powers of fire bring salvation?",
-      "In the not-too-distant past, the Ice Witch blankets the world in snow, starvation, and madness, leading the inhabitants to seek their salvation in fire. With that, an unusual destiny unfolds for two young orphans, Agni and Luna, blessed with the ability to regenerate. But will this ability prove to be more of a curse than a blessing?",
-      "After receiving Togata's upgrade, Agni heads to Behemdorg to exact his vengeance on Doma, unaware that Togata has flipped the script entirely. There, instead of finding Doma, Agni is to be pitted against the worst, most violent Blessed that Behemdorg has to offer. But on the way, Agni's heart fills with a new resolve, ruining Togata's much-anticipated climax!"
-    ],
-    "price": 14.99,
-    "coverImage": "/covers/firepunch-v3.jpg"
-  },
-  {
-    "id": "FIREPUNCH-V4",
-    "title": "Fire Punch, Vol. 4",
-    "credits": ["Tatsuki Fujimoto (Author)"],
-    "series": "Fire Punch",
-    "volume": 4,
-    "genre": ["Fantasy", "Thriller"],
-    "description": [
-      "In a frozen dystopia where inhabitants eat flesh to survive, can the destructive powers of fire bring salvation?",
-      "In the not-too-distant past, the Ice Witch blankets the world in snow, starvation, and madness, leading the inhabitants to seek their salvation in fire. With that, an unusual destiny unfolds for two young orphans, Agni and Luna, blessed with the ability to regenerate. But will this ability prove to be more of a curse than a blessing?",
-      "Boss, the leader of the Behemdorg escapees, finds he’s at a disadvantage when fighting the soldiers who continue pursuing them. But all that changes with the sudden appearance of a mysterious spear-wielding girl and a masked man, who are willing to lend their aid. Meanwhile, will Agni have to perform that certain act once again for those who revere him?!"
-    ],
-    "price": 14.99,
-    "coverImage": "/covers/firepunch-v4.jpg"
-  },
-  {
-    "id": "FIREPUNCH-V5",
-    "title": "Fire Punch, Vol. 5",
-    "credits": ["Tatsuki Fujimoto (Author)"],
-    "series": "Fire Punch",
-    "volume": 5,
-    "genre": ["Fantasy", "Thriller"],
-    "description": [
-      "In a frozen dystopia where inhabitants eat flesh to survive, can the destructive powers of fire bring salvation?",
-      "In the not-too-distant past, the Ice Witch blankets the world in snow, starvation, and madness, leading the inhabitants to seek their salvation in fire. With that, an unusual destiny unfolds for two young orphans, Agni and Luna, blessed with the ability to regenerate. But will this ability prove to be more of a curse than a blessing?",
-      "After painful words are unleashed and Togata’s secret is finally exposed, the revelations leave Agni shaken. Knowing he must face his destiny, Agni seeks out the man at the root of all of his suffering!"
-    ],
-    "price": 14.99,
-    "coverImage": "/covers/firepunch-v5.jpg"
-  },
-  {
-    "id": "FIREPUNCH-V6",
-    "title": "Fire Punch, Vol. 6",
-    "credits": ["Tatsuki Fujimoto (Author)"],
-    "series": "Fire Punch",
-    "volume": 6,
-    "genre": ["Fantasy", "Thriller"],
-    "description": [
-      "In a frozen dystopia where inhabitants eat flesh to survive, can the destructive powers of fire bring salvation?",
-      "In the not-too-distant past, the Ice Witch blankets the world in snow, starvation, and madness, leading the inhabitants to seek their salvation in fire. With that, an unusual destiny unfolds for two young orphans, Agni and Luna, blessed with the ability to regenerate. But will this ability prove to be more of a curse than a blessing?",
-      "In order to absorb all life, Judah has been turned into a massive tree by the Ice Witch. And just as Agni loses his will to live, Judah’s sorrowful pleas for death echo in his ear. What will await the world after its destruction and rebirth is complete?"
-    ],
-    "price": 14.99,
-    "coverImage": "/covers/firepunch-v6.jpg"
-  },
-  {
-    "id": "FIREPUNCH-V7",
-    "title": "Fire Punch, Vol. 7",
-    "credits": ["Tatsuki Fujimoto (Author)"],
-    "series": "Fire Punch",
-    "volume": 7,
-    "genre": ["Fantasy", "Thriller"],
-    "description": [
-      "In a frozen dystopia where inhabitants eat flesh to survive, can the destructive powers of fire bring salvation?",
-      "In the not-too-distant past, the Ice Witch blankets the world in snow, starvation, and madness, leading the inhabitants to seek their salvation in fire. With that, an unusual destiny unfolds for two young orphans, Agni and Luna, blessed with the ability to regenerate. But will this ability prove to be more of a curse than a blessing?",
-      "With his promise to Tena imprinted on his mind, Agni can only enjoy an inauthentic peace coated thickly with lies. His existence blames, tortures and undermines him, becoming an affliction worse than the anger, pain and madness he’d experienced as Fire Punch. As Agni searches desperately for an escape from this hell, an old friend suddenly appears."
-    ],
-    "price": 14.99,
-    "coverImage": "/covers/firepunch-v7.jpg"
-  },
-  {
-    "id": "FIREPUNCH-V8",
-    "title": "Fire Punch, Vol. 8",
-    "credits": ["Tatsuki Fujimoto (Author)"],
-    "series": "Fire Punch",
-    "volume": 8,
-    "genre": ["Fantasy", "Thriller"],
-    "description": [
-      "In a frozen dystopia where inhabitants eat flesh to survive, can the destructive powers of fire bring salvation?",
-      "In the not-too-distant past, the Ice Witch blankets the world in snow, starvation, and madness, leading the inhabitants to seek their salvation in fire. With that, an unusual destiny unfolds for two young orphans, Agni and Luna, blessed with the ability to regenerate. But will this ability prove to be more of a curse than a blessing?",
-      "Agni’s body is once again engulfed in flames, and he burns everyone and everything in his path on his way to Judah. Sun’s blind belief explodes into fury as his savior Agni becomes the villain! Will it be an inferno of revenge or a redeeming light finally end this frozen world?!"
-    ],
-    "price": 14.99,
-    "coverImage": "/covers/firepunch-v8.jpg"
-  },
-  {
-    "id": "PUNPUN-V2",
-    "title": "Goodnight Punpun, Vol. 2",
-    "credits": ["Inio Asano (Author)"],
-    "series": "Goodnight Punpun",
-    "volume": 2,
-    "genre": ["Coming of Age", "Drama", "Slice of Life"],
-    "description": [
-      "A dark coming-of-age tale where slice-of-life slices back.",
-      "This is Punpun Onodera’s coming-of-age story. His parents’ marriage is falling apart. His dad goes to jail, and his mom goes to the hospital. He has to live with his loser uncle. He has a crush on a girl who lives in a weird cult. Punpun tries talking with God about his problems, but God is a jerk. Punpun keeps hoping things will get better, but they really, really don’t.",
-      "Punpun was an average kid in an average town…",
-      "But things have changed.",
-      "The love of his life wants to kill him.",
-      "His parents got divorced.",
-      "And God is being mean to him.",
-      "What are you going to do now, Punpun?"
-    ],
-    "price": 24.99,
-    "coverImage": "/covers/goodnightpunpun-v2.jpg"
-  },
-  {
-    "id": "PUNPUN-V3",
-    "title": "Goodnight Punpun, Vol. 3",
-    "credits": ["Inio Asano (Author)"],
-    "series": "Goodnight Punpun",
-    "volume": 3,
-    "genre": ["Coming of Age", "Drama", "Slice of Life"],
-    "description": [
-      "A dark coming-of-age tale where slice-of-life slices back.",
-      "This is Punpun Onodera’s coming-of-age story. His parents’ marriage is falling apart. His dad goes to jail, and his mom goes to the hospital. He has to live with his loser uncle. He has a crush on a girl who lives in a weird cult. Punpun tries talking with God about his problems, but God is a jerk. Punpun keeps hoping things will get better, but they really, really don’t.",
-      "Like most kids his age, Punpun is in high school.",
-      "In fact, he has made it into the best high school in town.",
-      "He is such a good student.",
-      "He studies so he doesn’t have to think about his life.",
-      "Maybe a meteor will crash into Earth and destroy everything.",
-      "A guy can wish, Punpun…"
-    ],
-    "price": 24.99,
-    "coverImage": "/covers/goodnightpunpun-v3.jpg"
-  },
-  {
-    "id": "PUNPUN-V4",
-    "title": "Goodnight Punpun, Vol. 4",
-    "credits": ["Inio Asano (Author)"],
-    "series": "Goodnight Punpun",
-    "volume": 4,
-    "genre": ["Coming of Age", "Drama", "Slice of Life"],
-    "description": [
-      "A dark coming-of-age tale where slice-of-life slices back.",
-      "This is Punpun Onodera’s coming-of-age story. His parents’ marriage is falling apart. His dad goes to jail, and his mom goes to the hospital. He has to live with his loser uncle. He has a crush on a girl who lives in a weird cult. Punpun tries talking with God about his problems, but God is a jerk. Punpun keeps hoping things will get better, but they really, really don’t.",
-      "Punpun is on his own now.",
-      "His mom is dead and his dad is useless.",
-      "When he’s not working crappy part-time jobs, he spends most of his time on the floor of his room.",
-      "But buck up, Punpun! It’s only for the rest of your life, right?"
-    ],
-    "price": 24.99,
-    "coverImage": "/covers/goodnightpunpun-v4.jpg"
-  },
-  {
-    "id": "PUNPUN-V5",
-    "title": "Goodnight Punpun, Vol. 5",
-    "credits": ["Inio Asano (Author)"],
-    "series": "Goodnight Punpun",
-    "volume": 5,
-    "genre": ["Coming of Age", "Drama", "Slice of Life"],
-    "description": [
-      "A dark coming-of-age tale where slice-of-life slices back.",
-      "This is Punpun Onodera’s coming-of-age story. His parents’ marriage is falling apart. His dad goes to jail, and his mom goes to the hospital. He has to live with his loser uncle. He has a crush on a girl who lives in a weird cult. Punpun tries talking with God about his problems, but God is a jerk. Punpun keeps hoping things will get better, but they really, really don’t.",
-      "Punpun gave himself a strict deadline.",
-      "By the time his lease is up, he and Aiko will be together, his life will be better and he’ll be someone…",
-      "Or else.",
-      "Hey, Punpun, your lease just ran out."
-    ],
-    "price": 24.99,
-    "coverImage": "/covers/goodnightpunpun-v5.jpg"
-  },
-  {
-    "id": "PUNPUN-V6",
-    "title": "Goodnight Punpun, Vol. 6",
-    "credits": ["Inio Asano (Author)"],
-    "series": "Goodnight Punpun",
-    "volume": 6,
-    "genre": ["Coming of Age", "Drama", "Slice of Life"],
-    "description": [
-      "A dark coming-of-age tale where slice-of-life slices back.",
-      "This is Punpun Onodera’s coming-of-age story. His parents’ marriage is falling apart. His dad goes to jail, and his mom goes to the hospital. He has to live with his loser uncle. He has a crush on a girl who lives in a weird cult. Punpun tries talking with God about his problems, but God is a jerk. Punpun keeps hoping things will get better, but they really, really don’t.",
-      "Punpun has finally reunited with the love of his life, Aiko!",
-      "But she isn’t as exciting and wonderful as he remembered.",
-      "And she doesn’t make him exciting and wonderful.",
-      "In fact, he thinks they’re both terribly banal.",
-      "And now they’ve done something terrible…",
-      "Punpun, what do you do when there’s no way out?"
-    ],
-    "price": 24.99,
-    "coverImage": "/covers/goodnightpunpun-v6.jpg"
-  },
-  {
-    "id": "PUNPUN-V7",
-    "title": "Goodnight Punpun, Vol. 7",
-    "credits": ["Inio Asano (Author)"],
-    "series": "Goodnight Punpun",
-    "volume": 7,
-    "genre": ["Coming of Age", "Drama", "Slice of Life"],
-    "description": [
-      "A dark coming-of-age tale where slice-of-life slices back.",
-      "This is Punpun Onodera’s coming-of-age story. His parents’ marriage is falling apart. His dad goes to jail, and his mom goes to the hospital. He has to live with his loser uncle. He has a crush on a girl who lives in a weird cult. Punpun tries talking with God about his problems, but God is a jerk. Punpun keeps hoping things will get better, but they really, really don’t.",
-      "This is the end, Punpun."
-    ],
-    "price": 24.99,
-    "coverImage": "/covers/goodnightpunpun-v7.jpg"
+    "coverImage": "/covers/YOTSUBA-V1.jpg"
   }
 ]
