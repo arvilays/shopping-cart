@@ -1,6 +1,6 @@
-# ⚡ MangaKart | Interactive E-Commerce Storefront
+# 📔 MangaKart | Interactive E-Commerce Storefront
 
-![MangaKart Preview](./public/preview.png)
+![MangaKart Preview 1](./public/preview-1.png)
 
 > A highly interactive, fully responsive e-commerce frontend built to handle complex state management, client-side routing, and advanced product filtering. 
 
@@ -60,4 +60,7 @@ To use the custom Node.js script to generate new product entries for the databas
   node src/scripts/mangaEntry.js
  ```
 
-
+## 📷 Screenshots
+![MangaKart Preview 2](./public/preview-2.png)
+![MangaKart Preview 3](./public/preview-3.png)
+![MangaKart Preview 4](./public/preview-4.png)
