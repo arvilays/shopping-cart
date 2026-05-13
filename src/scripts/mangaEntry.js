@@ -46,22 +46,25 @@ async function main() {
   const result = [];
 
   const mangaID = await ask("ID: ");
-  const mangaTitle = await ask("Title: ");
-  const mangaSeries = await ask("Series: ");
-  const mangaCredits = await askArray("Credits (comma-separated): ");
-  const mangaGenres = await askArray("Genres (comma-separated): ");
-  const mangaPrice = parseFloat(await ask("Price: "));
-  const [startVol, endVol] = (await ask("Volume Range (e.g. 1,5): "))
-    .split(",")
-    .map(v => parseInt(v.trim(), 10));
+  const mangaTitle = await ask("Title: "); 
+  const mangaSeries = await ask("Series: "); 
+  const mangaCredits = await askArray("Credits (comma-separated): "); 
+  const mangaGenres = await askArray("Genres (comma-separated): "); 
+  const mangaPrice = parseFloat(await ask("Price: ")); 
 
-  const hasSubtitle = (await ask("Subtitle? [y/n]: ")).trim().toLowerCase() === "y";
+  const input = await ask("Volume Range (e.g. 1,5): "); 
+  const parts = input.split(",").map(v => parseInt(v.trim(), 10));
+  const [startVol, endVol] = parts.length === 1 ? [1, parts[0]] : parts;
+
+  // The subtitle will show at the end of the title. For example:
+  // Land of the Lustrous, Vol. 1: [SUBTITLE]
+  const hasSubtitle = (await ask("Subtitle? [y/n]: ")).trim().toLowerCase() === "y"; 
 
   for (let i = startVol; i <= endVol; i++) {
     console.log(`\n--- Volume ${i} ---`);
 
     const volumeID = `${mangaID}-V${i}`;
-    const volumeSubtitle = hasSubtitle ? await ask("Subtitle: ") : "";
+    const volumeSubtitle = hasSubtitle ? await ask("Subtitle: ") : ""; 
     const volumeTitle = hasSubtitle
       ? `${mangaTitle}, Vol. ${i}: ${volumeSubtitle}`
       : `${mangaTitle}, Vol. ${i}`;
